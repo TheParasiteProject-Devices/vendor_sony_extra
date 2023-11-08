@@ -21,6 +21,13 @@ LOCAL_DIRAC := $(EXTRA_PATH)/extra/audio/dirac
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_DIRAC)
 
+# DIRAC Prop(s)
+PRODUCT_VENDOR_PROPERTIES += \
+	ro.vendor.audio.misound.bluetooth.enable=true \
+	ro.vendor.audio.scenario.support=true \
+	ro.vendor.audio.soundfx.type=mi \
+	ro.vendor.audio.soundfx.usb=true
+
 # DIRAC Blob(s)
 PRODUCT_COPY_FILES += \
     $(LOCAL_DIRAC)/proprietary/vendor/lib/soundfx/libdirac.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libdirac.so \
