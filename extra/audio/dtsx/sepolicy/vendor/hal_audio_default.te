@@ -1,2 +1,2 @@
 allow hal_audio_default vendor_configs_file:file { lock open };
-allow hal_audio_default vendor_configs_file:file ioctl;
+allow hal_audio_default vendor_configs_file ioctl;
