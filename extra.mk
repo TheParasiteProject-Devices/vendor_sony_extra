@@ -52,7 +52,6 @@ endif
 # Sound Enhancements
 ifeq ($(TARGET_SHIPS_SOUND_ENHANCEMENTS),true)
 $(call inherit-product, $(EXTRA_PATH)/extra/audio/dolby/dolby.mk)
-$(call inherit-product, $(EXTRA_PATH)/extra/audio/dirac/dirac.mk)
 endif
 
 # Game Controllers
