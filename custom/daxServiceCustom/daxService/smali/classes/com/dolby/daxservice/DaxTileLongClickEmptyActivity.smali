@@ -93,7 +93,7 @@
     :cond_0
     new-instance p1, Landroid/content/Intent;
 
-    const-string v0, "com.dolby.LAUNCH_DS_APP"
+    const-string v0, "android.settings.SOUND_SETTINGS"
 
     invoke-direct {p1, v0}, Landroid/content/Intent;-><init>(Ljava/lang/String;)V
 
@@ -104,7 +104,7 @@
     :goto_0
     new-instance p1, Landroid/content/Intent;
 
-    const-string v0, "android.settings.SOUND_SETTINGS"
+    const-string v0, "com.dolby.LAUNCH_DS_APP"
 
     invoke-direct {p1, v0}, Landroid/content/Intent;-><init>(Ljava/lang/String;)V
 
