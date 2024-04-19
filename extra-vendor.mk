@@ -6,9 +6,20 @@ PRODUCT_SOONG_NAMESPACES += \
     vendor/sony/extra
 
 PRODUCT_COPY_FILES += \
+    vendor/sony/extra/proprietary/product/etc/default-permissions/pre_grant_permissions_oem.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/default-permissions/pre_grant_permissions_oem.xml \
+    vendor/sony/extra/proprietary/product/etc/permissions/com.google.protobuf-2.3.0.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.google.protobuf-2.3.0.xml \
+    vendor/sony/extra/proprietary/product/etc/permissions/com.sonyericsson.music.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.sonyericsson.music.xml \
+    vendor/sony/extra/proprietary/product/etc/permissions/com.sonymobile.extmonitorapp.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.sonymobile.extmonitorapp.xml \
+    vendor/sony/extra/proprietary/product/etc/permissions/com.sonymobile.home.resourceprovider.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.sonymobile.home.resourceprovider.xml \
+    vendor/sony/extra/proprietary/product/etc/permissions/com.sonymobile.mmwdiapi.somc-mmwdiapi.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.sonymobile.mmwdiapi.somc-mmwdiapi.xml \
+    vendor/sony/extra/proprietary/product/etc/permissions/com.sonymobile.moviecreator.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.sonymobile.moviecreator.xml \
+    vendor/sony/extra/proprietary/product/etc/permissions/jp.co.sony.mc.usbextoutaudio.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/jp.co.sony.mc.usbextoutaudio.xml \
+    vendor/sony/extra/proprietary/product/etc/sysconfig/extmonitorapp-initial-package-stopped-states.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/extmonitorapp-initial-package-stopped-states.xml \
+    vendor/sony/extra/proprietary/product/lib64/libmepstarterjni.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/libmepstarterjni.so \
     vendor/sony/extra/proprietary/system_ext/etc/permissions/com.dolby.daxservice.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/com.dolby.daxservice.xml \
     vendor/sony/extra/proprietary/system_ext/etc/permissions/com.sony.threesixtyra.audiofx.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/com.sony.threesixtyra.audiofx.xml \
     vendor/sony/extra/proprietary/system_ext/etc/permissions/com.sonyericsson.soundenhancement.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/com.sonyericsson.soundenhancement.xml \
+    vendor/sony/extra/proprietary/system_ext/etc/permissions/com.sonymobile.colorgamut.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/com.sonymobile.colorgamut.xml \
     vendor/sony/extra/proprietary/system_ext/etc/permissions/jp.co.sony.threesixtyra.system.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/jp.co.sony.threesixtyra.system.xml \
     vendor/sony/extra/proprietary/system_ext/lib64/vendor.dolby.hardware.dms@2.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.dolby.hardware.dms@2.0.so \
     vendor/sony/extra/proprietary/vendor/bin/hw/android.hardware.media.c2@1.0-threesixty-ra-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.media.c2@1.0-threesixty-ra-service \
@@ -75,11 +86,20 @@ PRODUCT_COPY_FILES += \
     vendor/sony/extra/proprietary/vendor/lib64/vendor.dolby.hardware.dms@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.dolby.hardware.dms@2.0.so
 
 PRODUCT_PACKAGES += \
+    SomcDualshockManager \
+    SomcMediaExtensionProviderStarter \
+    ExtMonitorApp \
+    SomcMediaExtensionProvider-Yodo \
+    UsbExtOutAudio \
     ThreeSixtyRASettings \
     DolbySound \
+    SomcColorGamut \
     SoundEnhancement \
     ThreeSixtyRASystem \
     daxService \
+    com.google.protobuf-2.3.0-dummy \
+    com.sonymobile.home.resourceprovider \
+    somc-ext-mmwdiapi \
     com.sony.threesixtyra.audiofx \
     vendor.dolby.hardware.dms \
     vendor.dolby.media.c2@1.0-service \
