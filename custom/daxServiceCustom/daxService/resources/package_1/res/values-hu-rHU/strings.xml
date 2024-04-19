@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="vqe_disabled_notification_title">Javítsd az üzenethangot Dolby-val.</string>
+  <string name="vqe_dolby_is_enhancing_msg_sound">A Dolby kiemeli az üzenethangot.</string>
+  <string name="vqe_enabled_snackbar_undo_action">VISSZAVONÁS</string>
+  <string name="vqe_notification_action_settings">Beállítások megnyitása</string>
+  <string name="vqe_notification_action_switch_off">Kikapcsolás</string>
+  <string name="vqe_notification_action_switch_on">Bekapcsolás</string>
+  <string name="vqe_notification_desc">A Dolby javítja az üzenethangot a háttérzaj csökkentésével és a hangtisztaság növelésével.</string>
+  <string name="vqe_notification_label">Üzenetkiemelő</string>
+</resources>

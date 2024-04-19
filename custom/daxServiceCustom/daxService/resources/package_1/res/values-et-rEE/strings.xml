@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="vqe_disabled_notification_title">Saate Dolby abil oma sõnumite heli täiustada.</string>
+  <string name="vqe_dolby_is_enhancing_msg_sound">Dolby täiustab sõnumite heli.</string>
+  <string name="vqe_enabled_snackbar_undo_action">VÕTA TAGASI</string>
+  <string name="vqe_notification_action_settings">Mine sätetesse</string>
+  <string name="vqe_notification_action_switch_off">Lülita välja</string>
+  <string name="vqe_notification_action_switch_on">Lülita sisse</string>
+  <string name="vqe_notification_desc">Dolby saab täiustada sõnumite heli taustamüra vähendamise ja hääle selguse täiustamisega.</string>
+  <string name="vqe_notification_label">Sõnumte täiustamine</string>
+</resources>

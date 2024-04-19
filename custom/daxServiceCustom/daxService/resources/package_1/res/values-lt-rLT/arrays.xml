@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string-array name="tile_states_dolby">
+    <item>Išjungta</item>
+    <item>Įjungta</item>
+    <item>Nepasiekiama</item>
+  </string-array>
+</resources>

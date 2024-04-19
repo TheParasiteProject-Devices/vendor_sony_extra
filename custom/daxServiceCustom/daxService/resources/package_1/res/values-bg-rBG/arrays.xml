@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string-array name="tile_states_dolby">
+    <item>Изкл.</item>
+    <item>Вкл.</item>
+    <item>Не е налице</item>
+  </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="vqe_disabled_notification_title">Îmbunătățiți sunetul mesajelor dvs. cu Dolby.</string>
+  <string name="vqe_dolby_is_enhancing_msg_sound">Dolby amplifică sunetul mesajelor.</string>
+  <string name="vqe_enabled_snackbar_undo_action">Anulare</string>
+  <string name="vqe_notification_action_settings">Mergeți la Setări</string>
+  <string name="vqe_notification_action_switch_off">Oprire</string>
+  <string name="vqe_notification_action_switch_on">Pornire</string>
+  <string name="vqe_notification_desc">Dolby poate îmbunătăți sunetul mesajelor prin reducerea zgomotului de fond și creșterea clarității vocii.</string>
+  <string name="vqe_notification_label">Amplificarea mesajelor</string>
+</resources>

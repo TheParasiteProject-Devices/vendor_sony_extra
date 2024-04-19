@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<androidx.constraintlayout.widget.ConstraintLayout android:background="#222222"
+                      android:layout_width="fill_parent"
+                      android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:daxappui2="http://schemas.android.com/apk/res-auto">
+  <TextView android:textSize="13.0sp"
+            android:textColor="#ccededed"
+            android:id="@id/reset_details"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35.0dp"
+            android:text="@string/reset_text"
+            android:lineSpacingExtra="7.0dp"
+            android:fontFamily="@font/avenirltstd_book"
+            android:layout_marginStart="72.0dp"
+            android:layout_marginEnd="24.0dp"
+            android:letterSpacing="-0.015"
+            daxappui2:layout_constraintEnd_toEndOf="parent"
+            daxappui2:layout_constraintStart_toStartOf="parent"
+            daxappui2:layout_constraintTop_toTopOf="parent" />
+  <TextView android:textSize="13.0sp"
+            android:textColor="#ededed"
+            android:id="@id/reset_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="14.0dp"
+            android:text="@string/reset_profiles"
+            android:lineSpacingExtra="7.0dp"
+            android:fontFamily="@font/avenirltstd_book"
+            android:layout_marginStart="72.0dp"
+            android:letterSpacing="0.077"
+            daxappui2:layout_constraintStart_toStartOf="parent"
+            daxappui2:layout_constraintTop_toBottomOf="@id/reset_details" />
+</androidx.constraintlayout.widget.ConstraintLayout>

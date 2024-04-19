@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2018 Dolby Laboratories
+
+     This program is protected under international and U.S. copyright laws as
+     an unpublished work. This program is confidential and proprietary to the
+     copyright owners. Reproduction or disclosure, in whole or in part, or the
+     production of derivative works therefrom without the express permission of
+     the copyright owners is prohibited.
+
+                   Copyright (C) 2019-2021 by Dolby Laboratories.
+                               All rights reserved.
+-->
+<VqeAppAudioConfig>
+<!--
+    <app
+        name="Wechat"
+        id="com.tencent.mm"
+        sampleRate="16000"
+        channelMask="1"/>
+
+    <app
+        name="Messenger"
+        id="com.facebook.orca"
+        sampleRate="44100"
+        channelMask="1"/>
+
+    <app
+        name="Skype"
+        id="com.skype.raider"
+        sampleRate="44100"
+        channelMask="1"/>
+
+    <app
+        name="Line"
+        id="jp.naver.line.android"
+        sampleRate="16000"
+        channelMask="1"/>
+
+    <app
+        name="WhatsApp"
+        id="com.whatsapp"
+        sampleRate="48000"
+        channelMask="1"/>
+-->
+</VqeAppAudioConfig>

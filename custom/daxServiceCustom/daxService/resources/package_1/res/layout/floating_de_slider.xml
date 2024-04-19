@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<FrameLayout android:theme="@android:style/Theme.DeviceDefault.Dialog"
+             android:background="@android:color/transparent"
+             android:layout_width="fill_parent"
+             android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+  <LinearLayout android:orientation="vertical"
+                android:id="@id/de_slider_container"
+                android:background="@drawable/rounded_bg_full"
+                android:padding="16.0dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16.0dp"
+                android:layout_marginTop="60.0dp"
+                android:layout_marginRight="16.0dp">
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="Dialogue Enhancer"
+              android:drawableLeft="@drawable/ic_dolby_notification"
+              android:drawablePadding="8.0dp"
+              android:drawableTint="#888888" />
+    <SeekBar android:theme="@style/Widget.AppCompat.SeekBar.Discrete"
+             android:id="@id/de_slider"
+             android:layout_width="fill_parent"
+             android:layout_height="wrap_content"
+             android:max="9" />
+  </LinearLayout>
+</FrameLayout>

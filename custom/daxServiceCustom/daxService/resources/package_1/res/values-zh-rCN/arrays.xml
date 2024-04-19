@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string-array name="tile_states_dolby">
+    <item>已关闭</item>
+    <item>已开启</item>
+    <item>不可用</item>
+  </string-array>
+</resources>

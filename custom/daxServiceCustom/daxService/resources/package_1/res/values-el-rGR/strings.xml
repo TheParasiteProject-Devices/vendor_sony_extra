@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="vqe_disabled_notification_title">Βελτιώστε τον ήχο των μηνυμάτων σας με το Dolby.</string>
+  <string name="vqe_dolby_is_enhancing_msg_sound">Το Dolby βελτιώνει τον ήχο των μηνυμάτων.</string>
+  <string name="vqe_enabled_snackbar_undo_action">Αναίρεση</string>
+  <string name="vqe_notification_action_settings">Μετάβαση στις ρυθμίσεις</string>
+  <string name="vqe_notification_action_switch_off">Απενεργοποίηση</string>
+  <string name="vqe_notification_action_switch_on">Ενεργοποίηση</string>
+  <string name="vqe_notification_desc">Το Dolby μπορεί να βελτιώσει τον ήχο των μηνυμάτων σας, μειώνοντας το θόρυβο περιβάλλοντος και αυξάνοντας την ευκρίνεια της φωνής.</string>
+  <string name="vqe_notification_label">Βελτίωση Μηνυμάτων</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="vqe_disabled_notification_title">שיפור צליל ההודעות עם Dolby‏.</string>
+  <string name="vqe_dolby_is_enhancing_msg_sound">Dolby משפרת את צליל ההודעות.</string>
+  <string name="vqe_enabled_snackbar_undo_action">ביטול</string>
+  <string name="vqe_notification_action_settings">עבור להגדרות</string>
+  <string name="vqe_notification_action_switch_off">כבה</string>
+  <string name="vqe_notification_action_switch_on">הפעל</string>
+  <string name="vqe_notification_desc">Dolby יכולה לשפר את הצליל של ההודעות שלך על-ידי צמצום רעשי הרקע והגברת בהירות הקול.</string>
+  <string name="vqe_notification_label">משפר ההודעות</string>
+</resources>

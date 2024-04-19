@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="vqe_disabled_notification_title">Dolby ile mesaj sesinizi netleştirin.</string>
+  <string name="vqe_dolby_is_enhancing_msg_sound">Dolby, mesaj sesini netleştiriyor.</string>
+  <string name="vqe_enabled_snackbar_undo_action">GERİ AL</string>
+  <string name="vqe_notification_action_settings">Ayarlara git</string>
+  <string name="vqe_notification_action_switch_off">Kapat</string>
+  <string name="vqe_notification_action_switch_on">Aç</string>
+  <string name="vqe_notification_desc">Dolby, arka plan gürültüsünü azaltıp ses netliğini artırarak mesajlarınızın sesini netleştirebilir.</string>
+  <string name="vqe_notification_label">Mesaj Netleştirici</string>
+</resources>

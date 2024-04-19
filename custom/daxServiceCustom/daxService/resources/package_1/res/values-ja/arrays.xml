@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string-array name="tile_states_dolby">
+    <item>OFF</item>
+    <item>ON</item>
+    <item>使用不可</item>
+  </string-array>
+</resources>

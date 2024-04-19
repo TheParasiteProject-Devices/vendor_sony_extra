@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="vqe_disabled_notification_title">Popraw dźwięk wiadomości dzięki technologii Dolby.</string>
+  <string name="vqe_dolby_is_enhancing_msg_sound">Technologia Dolby uwydatnia dźwięk wiadomości.</string>
+  <string name="vqe_enabled_snackbar_undo_action">COFNIJ</string>
+  <string name="vqe_notification_action_settings">Przejdź do ustawień</string>
+  <string name="vqe_notification_action_switch_off">Wyłącz</string>
+  <string name="vqe_notification_action_switch_on">Włącz</string>
+  <string name="vqe_notification_desc">Technologia Dolby może poprawiać dźwięk wiadomości, redukując szumy w tle i zwiększając czystość głosu.</string>
+  <string name="vqe_notification_label">Uwydatnianie wiadomości</string>
+</resources>

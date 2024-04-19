@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="vqe_disabled_notification_title">ปรับปรุงเสียงข้อความของคุณด้วย Dolby</string>
+  <string name="vqe_dolby_is_enhancing_msg_sound">Dolby กำลังเพิ่มคุณภาพเสียงข้อความ</string>
+  <string name="vqe_enabled_snackbar_undo_action">ยกเลิก</string>
+  <string name="vqe_notification_action_settings">ไปที่การตั้งค่า</string>
+  <string name="vqe_notification_action_switch_off">ปิด</string>
+  <string name="vqe_notification_action_switch_on">เปิด</string>
+  <string name="vqe_notification_desc">Dolby สามารถปรับปรุงเสียงข้อความของคุณได้ด้วยการลดเสียงรอบข้างและเพิ่มความคมชัดของเสียง</string>
+  <string name="vqe_notification_label">ตัวเพิ่มประสิทธิภาพข้อความ</string>
+</resources>

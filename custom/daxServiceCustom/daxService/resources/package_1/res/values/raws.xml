@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <raw name="vqe_app_audio_config">res/raw/vqe_app_audio_config.xml</raw>
+</resources>

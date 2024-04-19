@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="vqe_disabled_notification_title">Zlepšení zvuku vašich zpráv s Dolby.</string>
+  <string name="vqe_dolby_is_enhancing_msg_sound">Dolby zlepšuje kvalitu zpráv.</string>
+  <string name="vqe_enabled_snackbar_undo_action">VRÁTIT</string>
+  <string name="vqe_notification_action_settings">Přejděte do nastavení</string>
+  <string name="vqe_notification_action_switch_off">Vypnout</string>
+  <string name="vqe_notification_action_switch_on">Zapnout</string>
+  <string name="vqe_notification_desc">Dolby dokáže zlepšit kvalitu vašich zpráv, protože omezí šum v pozadí a zvýší srozumitelnost hlasu.</string>
+  <string name="vqe_notification_label">Zvýrazňovač zpráv</string>
+</resources>

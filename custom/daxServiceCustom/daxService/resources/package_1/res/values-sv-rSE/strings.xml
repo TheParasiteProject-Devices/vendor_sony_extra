@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="vqe_disabled_notification_title">Förbättra meddelandeljudet med Dolby.</string>
+  <string name="vqe_dolby_is_enhancing_msg_sound">Dolby förbättrar meddelandeljudet.</string>
+  <string name="vqe_enabled_snackbar_undo_action">ÅNGRA</string>
+  <string name="vqe_notification_action_settings">Gå till inställningarna</string>
+  <string name="vqe_notification_action_switch_off">Stäng av</string>
+  <string name="vqe_notification_action_switch_on">Sätt på</string>
+  <string name="vqe_notification_desc">Dolby kan förbättra ljudet på meddelanden genom att minska bakgrundsbruset och öka röstklarheten.</string>
+  <string name="vqe_notification_label">Meddelandeförstärkning</string>
+</resources>

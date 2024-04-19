@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<TableLayout android:gravity="center_vertical"
+             android:orientation="vertical"
+             android:id="@id/action_menu"
+             android:background="@android:color/transparent"
+             android:focusable="true"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content" xmlns:android="http://schemas.android.com/apk/res/android">
+  <TableRow android:id="@id/action_explore"
+            android:clickable="true">
+    <LinearLayout android:orientation="horizontal"
+                  android:id="@id/action_menu_explore"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content">
+      <ImageView android:layout_gravity="center_vertical"
+                 android:id="@id/action_menu_explore_icon"
+                 android:background="@null"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_marginTop="15.0dp"
+                 android:layout_marginBottom="10.0dp"
+                 android:src="@drawable/ic_explore"
+                 android:contentDescription="@null"
+                 android:layout_marginStart="15.0dp"
+                 android:layout_marginEnd="10.0dp" />
+      <TextView android:icon="@drawable/ic_explore"
+                android:textSize="16.0sp"
+                android:typeface="normal"
+                android:textColor="#f7f7f7"
+                android:gravity="start"
+                android:layout_gravity="center_vertical"
+                android:id="@id/action_menu_explore_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15.0dp"
+                android:layout_marginBottom="10.0dp"
+                android:text="@string/explore_dolby"
+                android:fontFamily="@font/avenirltstd_book"
+                android:layout_marginEnd="15.0dp"
+                android:letterSpacing="-0.015" />
+    </LinearLayout>
+  </TableRow>
+  <TableRow android:id="@id/action_reset"
+            android:clickable="true">
+    <LinearLayout android:orientation="horizontal"
+                  android:id="@id/action_menu_reset"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content">
+      <ImageView android:layout_gravity="center_vertical"
+                 android:id="@id/action_menu_reset_icon"
+                 android:background="@null"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_marginTop="10.0dp"
+                 android:layout_marginBottom="15.0dp"
+                 android:src="@drawable/ic_reset_settings"
+                 android:contentDescription="@null"
+                 android:layout_marginStart="15.0dp"
+                 android:layout_marginEnd="10.0dp" />
+      <TextView android:icon="@drawable/ic_reset_settings"
+                android:textSize="16.0sp"
+                android:typeface="normal"
+                android:textColor="#f7f7f7"
+                android:gravity="start"
+                android:layout_gravity="center_vertical"
+                android:id="@id/action_menu_reset_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10.0dp"
+                android:layout_marginBottom="15.0dp"
+                android:text="@string/reset"
+                android:fontFamily="@font/avenirltstd_book"
+                android:layout_marginEnd="15.0dp"
+                android:letterSpacing="-0.015" />
+    </LinearLayout>
+  </TableRow>
+</TableLayout>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="vqe_disabled_notification_title">Poboljšajte zvuk poruka koristeći Dolby.</string>
+  <string name="vqe_dolby_is_enhancing_msg_sound">Dolby poboljšava zvuk poruka.</string>
+  <string name="vqe_enabled_snackbar_undo_action">OPOZOVI</string>
+  <string name="vqe_notification_action_settings">Idi na podešavanja</string>
+  <string name="vqe_notification_action_switch_off">Isključi</string>
+  <string name="vqe_notification_action_switch_on">Uključi</string>
+  <string name="vqe_notification_desc">Dolby može da poboljša zvuk poruka tako što smanjuje buku u pozadini i poboljšava jasnoću glasa.</string>
+  <string name="vqe_notification_label">Poboljšavač poruka</string>
+</resources>

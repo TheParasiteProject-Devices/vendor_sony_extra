@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="vqe_disabled_notification_title">Tingkatkan bunyi mesej anda dengan Dolby.</string>
+  <string name="vqe_dolby_is_enhancing_msg_sound">Dolby meningkatkan bunyi mesej.</string>
+  <string name="vqe_enabled_snackbar_undo_action">BUAT ASAL</string>
+  <string name="vqe_notification_action_settings">Pergi ke tetapan</string>
+  <string name="vqe_notification_action_switch_off">Matikan</string>
+  <string name="vqe_notification_action_switch_on">Hidupkan</string>
+  <string name="vqe_notification_desc">Dolby dapat meningkatkan bunyi mesej anda dengan mengurangkan bunyi latar belakang dan meningkatkan kejelasan suara.</string>
+  <string name="vqe_notification_label">Peningkat Mesej</string>
+</resources>

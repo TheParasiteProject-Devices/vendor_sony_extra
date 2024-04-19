@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="vqe_disabled_notification_title">Verbeter het geluid van berichten met Dolby.</string>
+  <string name="vqe_dolby_is_enhancing_msg_sound">Profiteer van beter Dolby-geluid.</string>
+  <string name="vqe_enabled_snackbar_undo_action">ONGEDAAN MAKEN</string>
+  <string name="vqe_notification_action_settings">Ga naar Instellingen</string>
+  <string name="vqe_notification_action_switch_off">Uitschakelen</string>
+  <string name="vqe_notification_action_switch_on">Inschakelen</string>
+  <string name="vqe_notification_desc">Dolby kan het geluid van uw berichten verbeteren door achtergrondgeluiden te verminderen en de helderheid van stemmen te verbeteren.</string>
+  <string name="vqe_notification_label">Berichtverbetering</string>
+</resources>
