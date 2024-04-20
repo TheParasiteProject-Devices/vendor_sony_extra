@@ -47,6 +47,30 @@ PRODUCT_COPY_FILES += \
     vendor/sony/extra/proprietary/vendor/etc/windnoise_reduction_back.data:$(TARGET_COPY_OUT_VENDOR)/etc/windnoise_reduction_back.data \
     vendor/sony/extra/proprietary/vendor/etc/windnoise_reduction_stat.data:$(TARGET_COPY_OUT_VENDOR)/etc/windnoise_reduction_stat.data \
     vendor/sony/extra/proprietary/vendor/etc/windnoise_reduction_stat_back.data:$(TARGET_COPY_OUT_VENDOR)/etc/windnoise_reduction_stat_back.data \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_Front_44k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_Front_44k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_Front_48k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_Front_48k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_Front_mono_44k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_Front_mono_44k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_Front_mono_48k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_Front_mono_48k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_Logical_44k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_Logical_44k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_Logical_48k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_Logical_48k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_Logical_mono_44k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_Logical_mono_44k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_Logical_mono_48k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_Logical_mono_48k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_P_Tele_44k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_P_Tele_44k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_P_Tele_48k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_P_Tele_48k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_P_Tele_mono_44k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_P_Tele_mono_44k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_P_Tele_mono_48k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_P_Tele_mono_48k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_P_UWide_44k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_P_UWide_44k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_P_UWide_48k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_P_UWide_48k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_P_UWide_mono_44k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_P_UWide_mono_44k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_P_UWide_mono_48k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_P_UWide_mono_48k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_P_Wide_44k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_P_Wide_44k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_P_Wide_48k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_P_Wide_48k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_P_Wide_mono_44k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_P_Wide_mono_44k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_P_Wide_mono_48k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_P_Wide_mono_48k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_default_44k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_default_44k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_default_48k.tbl:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_default_48k.tbl \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_parameter.xml:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_parameter.xml \
+    vendor/sony/extra/proprietary/vendor/etc/zoom_noise_reduction/znr_parameter_back.xml:$(TARGET_COPY_OUT_VENDOR)/etc/zoom_noise_reduction/znr_parameter_back.xml \
     vendor/sony/extra/proprietary/vendor/lib64/libXtcApi.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libXtcApi.so \
     vendor/sony/extra/proprietary/vendor/lib64/libaudiokeymgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudiokeymgr.so \
     vendor/sony/extra/proprietary/vendor/lib64/libaudiosnpewrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudiosnpewrapper.so \
