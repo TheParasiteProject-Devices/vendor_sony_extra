@@ -35,6 +35,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/extra/extra/proprietary/vendor/etc/DrangeparaPCM48.bin:$(TARGET_COPY_OUT_VENDOR)/etc/DrangeparaPCM48.bin \
     vendor/sony/extra/extra/proprietary/vendor/etc/XTC_speaker_coef.hki:$(TARGET_COPY_OUT_VENDOR)/etc/XTC_speaker_coef.hki \
     vendor/sony/extra/extra/proprietary/vendor/etc/alc.speaker.bin:$(TARGET_COPY_OUT_VENDOR)/etc/alc.speaker.bin \
+    vendor/sony/extra/extra/proprietary/vendor/etc/audio/audio-silence.wav:$(TARGET_COPY_OUT_VENDOR)/etc/audio/audio-silence.wav \
     vendor/sony/extra/extra/proprietary/vendor/etc/dsx_param_file.bin:$(TARGET_COPY_OUT_VENDOR)/etc/dsx_param_file.bin \
     vendor/sony/extra/extra/proprietary/vendor/etc/init/android.hardware.media.c2@1.0-threesixty-ra-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.media.c2@1.0-threesixty-ra-service.rc \
     vendor/sony/extra/extra/proprietary/vendor/etc/init/vendor.dolby.hardware.dms@2.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.dolby.hardware.dms@2.0-service.rc \
