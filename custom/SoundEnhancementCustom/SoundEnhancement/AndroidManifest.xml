@@ -7,7 +7,7 @@
           platformBuildVersionCode="34"
           platformBuildVersionName="14" xmlns:android="http://schemas.android.com/apk/res/android">
   <uses-sdk android:minSdkVersion="34"
-            android:targetSdkVersion="33" />
+            android:targetSdkVersion="34" />
   <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
   <uses-permission android:name="android.permission.READ_SEARCH_INDEXABLES" />
   <uses-permission android:name="android.permission.RECORD_AUDIO" />
@@ -57,9 +57,12 @@
               android:screenOrientation="behind"
               android:configChanges="keyboard|keyboardHidden">
       <intent-filter>
-        <action android:name="android.intent.action.MAIN" />
-        <category android:name="android.intent.category.MONKEY_AudioEffectMenu" />
+        <action android:name="com.android.settings.action.IA_SETTINGS" />
       </intent-filter>
+      <meta-data android:name="com.android.settings.category"
+                 android:value="com.android.settings.category.ia.sound" />
+      <meta-data android:name="com.android.settings.summary"
+                 android:resource="@string/sound_enhance_strings_audio_settings_txt" />
     </activity>
     <activity android:theme="@style/DefaultTheme"
               android:label="@string/sound_enhance_strings_audio_settings_txt"
