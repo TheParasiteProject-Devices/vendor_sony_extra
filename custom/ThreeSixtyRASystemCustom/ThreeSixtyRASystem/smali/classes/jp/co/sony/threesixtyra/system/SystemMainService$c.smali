@@ -118,8 +118,6 @@
 
     invoke-virtual {p2, p1, v0}, Landroid/os/BaseBundle;->putBoolean(Ljava/lang/String;Z)V
 
-    invoke-virtual {p0, p2}, Landroid/content/BroadcastReceiver;->setResultExtras(Landroid/os/Bundle;)V
-
     goto :goto_0
 
     :cond_0
