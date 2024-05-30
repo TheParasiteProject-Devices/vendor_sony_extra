@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Zvuk može zastajkivati ili može doći do prekida podatkovnog prometa putem WLAN mreže zbog mrežnih smetnji jer Bluetooth veza i WLAN mreža koriste isti frekvencijski pojas (2,4 GHz).
+
+Za stabilnu vezu isprobajte sljedeće:
+・ isključite WLAN
+・ premjestite se negdje gdje nema drugog mrežnog uređaja koji koristi frekvenciju od 2,4GHz
+・ odaberite [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Zbog mrežnih smetnji moglo bi doći do preskakanja zvuka ili prekida podatkovnog prometa putem WLAN veze jer Bluetooth veza i WLAN mreža koriste isti raspon frekvencija (2,4 GHz).
+
+Da bi veza bila stabilna, isprobajte sljedeća rješenjas:
+・ Isključite WLAN
+・ premjestite se na mjesto bez drugih mrežnih uređaja koji koriste raspon od 2,4 GHz
+・ odaberite [Najbolji pokušaj]
+
+Ako želite zadržati podatkovni promet putem WLAN veze, odaberite [Najbolji pokušaj].
+Zvuk se reproducira najprikladnijom brzinom prijenosa za trenutno mrežno okruženje.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Možete odabrati koji će se kodek koristiti prilikom povezivanja s aptX HD uređajem. Ako zvuk zastajkuje ili dođe do prekida podatkovnog prometa putem WLAN mreže, dotaknite [%s] da biste saznali kako uspostaviti stabilnu vezu između uređaja.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Priključivanjem LDAC uređaja putem Bluetooth veze možete uživati u zvuku visoke razlučivosti. Ako zvuk preskače ili se prekine podatkovni promet putem WLAN veze, dotaknite [%s] da biste saznali kako uspostaviti stabilnu vezu između uređaja.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Zvuk može preskakati, a može se i prekinuti podatkovni promet putem WLAN veze zbog smetnji na mreži jer Bluetooth veza i WLAN mreža koriste isti pojas frekvencija (2,4 GHz).
+
+Da biste ostvarili stabilnu vezu, pokušajte s ovim rješenjima:
+<ul><li>isključite WLAN</li>
+<li>premjestite se na mjesto na kojem nema drugih mrežnih uređaja koji koriste pojas od 2,4 GHz</li>
+<li>odaberite [Preferirana veza]</li></ul>
+
+Ako želite zadržati podatkovni promet putem WLAN veze, odaberite [Preferirana veza].</string>
+</resources>

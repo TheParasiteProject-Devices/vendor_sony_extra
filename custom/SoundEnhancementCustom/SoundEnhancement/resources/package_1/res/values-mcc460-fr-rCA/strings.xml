@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Le flux audio ou le trafic de données par WLAN peut être interrompu en raison d'une interférence réseau puisque la connexion Bluetooth et le réseau WLAN utilisent la même bande de fréquence (2,4 GHz).
+
+Pour obtenir une connexion stable, essayez les solutions suivantes :
+・ Désactiver la connexion WLAN
+・ Déplacez-vous vers un endroit où il n'y a pas d'autre périphérique réseau utilisant une bande de fréquence 2,4 GHz
+・ Sélectionnez [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">L'audio peut sauter ou le trafic de données via WLAN peut être déconnecté en raison d'interférences sur le réseau puisque la connexion Bluetooth et le réseau WLAN utilisent la même bande de fréquence (2,4 GHz).
+
+Pour une connexion stable, essayez ce qui suit :
+・ Désactivez WLAN
+・ Déplacez-vous dans un endroit où il n'y a pas d'autres appareils sur le réseau qui utilisent la bande 2,4 GHz
+・ Sélectionnez [Meilleur effort]
+
+Si vous préférez que le trafic de données s'effectue via WLAN, sélectionnez [Meilleur effort].
+L'audio est lu au débit le plus approprié en fonction de l'environnement réseau.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Vous pouvez sélectionner le codec à utiliser lorsqu'un appareil aptX HD est connecté. Si le flux audio ou le trafic de données via WLAN est interrompu, tapez sur [%s] pour savoir comment établir une connexion stable entre les appareils.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Vous pouvez profiter d'un son haute résolution en connectant un appareil LDAC via Bluetooth. Si l'audio saute ou le trafic de données via WLAN est interrompu, tapez sur [%s] pour savoir comment établir une connexion stable entre les appareils.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">L'audio peut sauter ou le trafic de données via WLAN peut être déconnecté en raison d'interférences sur le réseau puisque la connexion Bluetooth et le réseau WLAN utilisent la même bande de fréquence (2,4 GHz).
+
+Pour une connexion stable, essayez ce qui suit :
+<ul><li>Désactivez WLAN</li>
+<li>Déplacez-vous dans un endroit où il n'y a pas d'autres appareils sur le réseau qui utilisent la bande 2,4 GHz </li>
+<li>Sélectionnez [Connexion préférée]</li></ul>
+
+Si vous préférez que le trafic de données s'effectue via WLAN, sélectionnez [Connexion préférée].</string>
+</resources>

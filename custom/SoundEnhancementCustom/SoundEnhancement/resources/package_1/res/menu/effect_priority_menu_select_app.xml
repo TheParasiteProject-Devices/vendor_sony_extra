@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:enabled="false"
+        android:id="@id/action_add_app"
+        android:title="@string/audio_settings_white_list_string_btn_add_txt"
+        android:showAsAction="ifRoom" />
+</menu>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+  <PreferenceScreen android:layout="@layout/preference"
+                    android:title="@string/sound_enhance_strings_setting_sound_effect_txt"
+                    android:key="music_fx"
+                    android:summary="@string/sound_enhance_strings_setting_sound_effect_desc_txt" />
+</PreferenceScreen>

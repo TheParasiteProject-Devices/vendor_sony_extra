@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">El audio se puede entrecortar y el tráfico de datos mediante WLAN se puede desconectar debido a las interferencias de red, ya que la conexión Bluetooth y la red WLAN utilizan la misma banda de frecuencia (2,4 GHz).
+
+Pruebe las siguientes soluciones para conseguir una conexión estable:
+・Desactive el WLAN.
+・Muévase hasta una zona en la que no haya ningún dispositivo de red que utilice la banda de 2,4 GHz.
+・Seleccione [aptX].</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">El audio puede saltar y el tráfico de datos por WLAN se puede desconectar por interferencias de red debido a que la conexión Bluetooth y la red WLAN utilizan la misma banda de frecuencia (2,4 GHz).
+
+Para conseguir una conexión estable, pruebe las siguientes soluciones:
+・ Apague el WLAN.
+・ Vaya a otro lugar en que no haya otro dispositivo de red utilizando la banda de 2,4 GHz.
+・ Seleccione [Mejor esfuerzo].
+
+Si desea conservar el tráfico de datos por WLAN, seleccione [Mejor esfuerzo].
+El audio se reproduce a la velocidad de bits más adecuada en función del entorno de red.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Puede seleccionar el códec que desea utilizar durante la conexión con el dispositivo aptX HD. Si el audio se entrecorta o se interrumpe el tráfico de datos mediante WLAN, puntee [%s] para saber cómo mantener una conexión estable entre los dispositivos.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Puede disfrutar de audio de alta resolución conectando un dispositivo LDAC mediante Bluetooth. Si el audio salta o el tráfico de datos mediante WLAN se interrumpe, puntee [%s] para saber cómo establecer una conexión estable entre los dispositivos.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">El audio puede saltar o el tráfico de datos mediante WLAN puede desconectarse debido a una interferencia de red ya que la conexión Bluetooth y la red WLAN utilizan la misma banda de frecuencia (2,4 GHz).
+
+Para tener una conexión estable, pruebe las soluciones siguientes:
+<ul><li>Desactive WLAN.</li>
+<li>Muévase a un lugar donde no haya otros dispositivos de red que estén utilizando una banda de 2,4 GHz.</li>
+<li>Seleccione [Conexión preferida].</li></ul>
+
+Si desea mantener el tráfico de datos mediante WLAN, seleccione [Conexión preferida].</string>
+</resources>

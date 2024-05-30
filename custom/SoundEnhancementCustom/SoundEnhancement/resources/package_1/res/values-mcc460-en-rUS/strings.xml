@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">The audio may skip or the data traffic via WLAN may be disconnected due to network interference since the Bluetooth connection and WLAN network use same frequency band (2.4GHz).
+
+To get a stable connection, try the following solutions:
+・ Turn off WLAN
+・ Move to where there is no other network device using 2.4GHz band
+・ Select [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">The audio may skip or the data traffic via WLAN may be disconnected due to network interference since the Bluetooth connection and WLAN network use same frequency band (2.4GHz).
+
+To get a stable connection, try the following solutions:
+・ Turn off WLAN
+・ Move to where there is no other network device using 2.4GHz band
+・ Select [Best effort]
+
+If you would like to keep the data traffic via WLAN, select [Best effort].
+The audio is played at the most appropriate bit rate depending on network environment.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">You can select the codec for use when connected to the aptX HD device. If the audio skips or the data traffic via WLAN is interrupted, tap [%s] to learn how to establish stable connection between the devices.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">You can enjoy Hi-Res Audio by connecting an LDAC device via Bluetooth connection. If the audio skips or the data traffic via WLAN is interrupted, tap [%s] to learn how to establish stable connection between the devices.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">The audio may skip or the data traffic via WLAN may be disconnected due to network interference since the Bluetooth connection and WLAN network use same frequency band (2.4GHz).
+
+For stable connection, try following solutions:
+<ul><li>Turn WLAN Off</li>
+<li>Move to the place where there is no other network devices using 2.4GHz band</li>
+<li>Select [Connection preferred]</li></ul>
+
+If you would like to keep the data traffic via WLAN, select [Connection preferred].</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Mivel a Bluetooth-kapcsolat és a WLAN-hálózat ugyanazt a frekvenciasávot (2,4 GHz) használja, a hálózati interferencia következtében kimaradhat a hang, vagy megszakadhat a WLAN-hálózaton keresztüli adatforgalom.
+
+Stabil kapcsolat létrehozásához próbálkozzon meg az alábbi megoldásokkal:
+・ Kapcsolja ki a WLAN funkciót.
+・ Keressen egy olyan helyet, ahol nincs másik, 2,4 GHz-es sávot használó hálózati eszköz.
+・ Jelölje be az [aptX] választógombot.</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Mivel a Bluetooth-kapcsolat és a WLAN-hálózat ugyanazt a frekvenciasávot (2,4 GHz) használja, a hálózati interferencia következtében kimaradhat a hang, vagy megszakadhat a WLAN-hálózaton keresztüli adatforgalom.
+
+A stabil kapcsolat érdekében próbálkozzon az alábbiakkal:
+・ Kapcsolja ki a WLAN funkciót.
+・ Keressen olyan helyet, ahol nincs másik, 2,4 GHz-es sávot használó hálózati eszköz.
+・ Válassza a [Legjobb lehetőség] elemet.
+
+Ha az adatforgalmat szeretné továbbra is WLAN-kapcsolaton keresztül bonyolítani, válassza a [Legjobb lehetőség] elemet.
+A hang lejátszása a hálózati környezettől függően a legmegfelelőbb bitsebességen történik.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Az aptX HD eszközhöz csatlakozáskor kiválaszthatja a használni kívánt kodeket. Ha kihagy a hang, vagy megszakad a WLAN-hálózaton keresztüli adatforgalom, a [%s] lehetőségre koppintva megtudhatja, hogy miként hozhat létre stabil kapcsolatot az eszközök között.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Az LDAC-eszköz Bluetooth-kapcsolaton keresztüli csatlakoztatása nagy felbontású hangot eredményez. Ha a hang megakad, vagy a WLAN-n keresztüli adatforgalom félbeszakad, a [%s] gombra koppintva megtudhatja, hogy miként hozhat létre stabil kapcsolatot az eszközök között.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Hálózati interferencia miatt kimaradhat a hang vagy megszakadhat a WLAN-n keresztüli adatforgalom, mivel a Bluetooth-kapcsolat és a WLAN hálózat ugyanazt a frekvenciasávot használja (2,4 GHz).
+
+A stabil kapcsolat érdekében próbálkozzon az alábbiakkal:
+<ul><li>Kapcsolja ki a WLAN-t</li>
+<li>Menjen olyan helyre, ahol nincs a 2,4 GHz-es sávot használó másik hálózati eszköz</li>
+<li>Válassza a [Kapcsolat előnyben] lehetőséget</li></ul>
+
+Ha meg szeretné tartani a WLAN-n keresztüli adatforgalmat, válassza a [Kapcsolat előnyben] lehetőséget.</string>
+</resources>

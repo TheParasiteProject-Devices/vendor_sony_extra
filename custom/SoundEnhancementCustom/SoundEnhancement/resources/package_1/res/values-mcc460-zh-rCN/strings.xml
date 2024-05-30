@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">由于蓝牙连接和WLAN网络使用同一频带(2.4GHz)造成网络干扰，可能导致音频跳过或通过WLAN传输的数据通信断开连接。
+
+要获取稳定的连接，请尝试以下解决方法：
+・ 关闭WLAN
+・ 移动到没有其他使用2.4GHz频带的设备的位置
+・ 选择[aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">由于蓝牙连接和WLAN网络使用同一频带(2.4GHz)造成网络干扰，可能导致音频跳过或通过WLAN传输的数据通信断开连接。
+
+要获取稳定的连接，请尝试以下解决方案：
+・ 关闭WLAN
+・ 移动到没有其他使用2.4GHz频带的设备的位置
+・ 选择[最佳效果]
+
+如果您想继续通过WLAN进行数据通信，请选择[最佳效果]。
+音频将根据网络环境以最合适的比特率进行播放。</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">您可以在连接至aptX HD设备时选择要使用的编解码器。如果音频跳过或通过WLAN的数据流量中断，请点按[%s]了解如何在设备之间建立稳定的连接。</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">您可以通过蓝牙连接LDAC设备来享受高分辨率音频。如果发生音频跳读或通过WLAN的数据流量中断，请点按[%s]了解如何在设备之间建立稳定连接。</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">由于蓝牙连接和WLAN网络使用的是同一频段(2.4GHz)，造成的网络干扰可能导致发生音频跳读或通过WLAN的数据通讯中断。
+
+若要进行稳定连接，请尝试以下解决方案：
+<ul><li>关闭WLAN</li>
+<li>移动到未使用2.4GHz波段的其他网络设备的位置</li>
+<li>选择[首选连接]</li></ul>
+
+如果您想继续通过WLAN保持数据通讯，请选择[首选连接]。</string>
+</resources>

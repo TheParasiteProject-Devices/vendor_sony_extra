@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Maaaring lumaktaw ang audio o maaaring madiskonekta ang data traffic sa pamamagitan ng WLAN dahil sa network interference dahil iisang band ng frequency (2.4GHz) ang ginagamit ng koneksyon ng Bluetooth at WLAN network.
+
+Para magkaroon ng malakas na koneksyon, subukan ang mga sumusunod na solusyon:
+I-off ang WLAN
+Lumipat kung saan walang ibang network device na gumagamit ng 2.4GHz band
+Piliin ang [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Maaaring lumaktaw ang audio o maaaring madiskonekta ang trapiko ng data sa pamamagitan ng WLAN dahil sa interference sa network dahil iisang frequency band (2.4GHz) lang ang ginagamit ng Bluetooth at WLAN.
+
+Para makakuha ng stable na koneksyon, subukan ang mga sumusunod na solusyon:
+I-off ang WLAN
+Lumipat sa kung saan walang iba pang network device na gumagamit ng 2.4GHz band
+Piliin ang [Pinakamagaling]
+
+Kung gusto mong patuloy na gamitin ang WLAN para sa trapiko ng data, piliin ang [Pinakamagaling].
+Ipe-play ang audio sa pinakanaaangkop na bit rate depende sa kalagayan ng network.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Maaari mong piliin ang ginagamit na codec habang nakakonekta sa aptX HD device. Kung lumaktaw ang audio o naantala ang data traffic sa pamamagitan ng WLAN, i-tap ang [%s] para matutunan kung paano magkaroon ng malakas na koneksyon sa pagitan ng mga device.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Maaari kang mag-enjoy ng Hi-Res Audio sa pamamagitan ng LDAC device sa pamamagitan ng koneksyon ng Bluetooth. Kung lalaktaw ang audio o maaantala ang trapiko ng data sa pamamagitan ng WLAN, tapikin ang [%s] upang matutunan kung paano magtaguyod ng matatag na koneksyon sa pamamagitan ng mga device.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Maaaring lumaktaw ang audio o madiskonekta ang trapiko ng data sa pamamagitan ng WLAN dahil sa interference sa network dahil ginagamit ng koneksyon sa Bluetooth at WLAN network ang parehong frequency band (2.4GHz).
+
+Para sa matatag na koneksyon, subukan ang mga sumusunod na solusyon:
+<ul><li>I-off ang WLAN</li>
+<li>Lumipat sa isang lugar kung saan walang mga network device na gumagamit ng 2.4GHz band</li>
+<li>Piliin ang [Gustong koneksyon]</li></ul>
+
+Kung gusto mong panatilihin ang trapiko ng data sa pamamagitan ng WLAN, piliin ang [Gustong koneksyon].</string>
+</resources>

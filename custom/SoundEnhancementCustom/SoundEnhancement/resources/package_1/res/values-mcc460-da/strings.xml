@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Det er muligt, at lyden hakker, eller at datatrafikken via WLAN forstyrres på grund af netværksinterferens, da Bluetooth-forbindelsen og WLAN-netværket bruger samme frekvensbånd (2,4 GHz).
+
+Du kan prøve følgende løsninger for at få en stabil forbindelse:
+・ Slå WLAN fra
+・ Flyt til et sted, hvor der ikke er andre netværksenheder, der bruger båndet på 2,4 GHz
+・ Vælg [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Lyden stopper måske, eller datatrafikken via WLAN afbrydes måske på grund af netværksinterferens, da Bluetooth-forbindelsen og WLAN-netværket bruger samme frekvensbånd (2,4 GHz).
+
+Prøv følgende løsninger for at få en stabil forbindelse:
+・ Slå WLAN fra
+・ Gå til et sted, hvor der ikke er andre netværksenheder, som bruger 2,4 GHz-båndet
+・ Vælg [Bedste resultat]]
+
+Hvis du vil bevare datatrafikken via WLAN, skal du vælge [Bedste resultat].
+Lyden afspilles ved den mest passende bithastighed, afhængigt af netværksmiljøet.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Du kan vælge det codec, der skal bruges, når der er forbindelse til aptX HD-enheden. Hvis lyden hakker, eller datatrafikken via WLAN forstyrres, skal du tappe på [%s] for at få mere at vide om, hvordan du opretter en stabil forbindelse mellem enhederne.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Du kan nyde lyd i høj opløsning ved at tilslutte en LDAC-enhed via Bluetooth-forbindelsen. Hvis lyden hakker, eller datatrafikken via WLAN afbrydes, kan du tappe på [%s] for at se, hvordan du kan oprette en stabil forbindelse mellem enhederne.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Lyden hakker måske, eller datatrafikken via WLAN afbrydes måske på grund af netværksforstyrrelser, da Bluetooth-forbindelsen og WLAN-netværket bruger samme frekvensbånd (2,4 GHz).
+
+Prøv følgende for at få en stabil forbindelse:
+<ul><li>Slå WLAN fra</li>
+<li>Gå til et sted, hvor der ikke er andre netværksenheder, som bruger 2,4 GHz-båndet</li>
+<li>Vælg [Foretrukket forbindelse]</li></ul>
+
+Hvis du vil bevare datatrafikken via WLAN, skal du vælge [Foretrukket forbindelse].</string>
+</resources>

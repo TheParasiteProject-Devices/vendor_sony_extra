@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<LinearLayout android:orientation="vertical"
+              android:id="@id/audio_effect_menu"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+  <ListView android:scrollbarStyle="outsideOverlay"
+            android:id="@android:id/list"
+            android:layout_width="fill_parent"
+            android:layout_height="0.0dp"
+            android:layout_weight="1.0"
+            android:layout_marginStart="@dimen/listview_margin_start"
+            android:layout_marginEnd="@dimen/listview_margin_end" />
+  <Button android:layout_gravity="right"
+          android:id="@id/delete_button"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="@string/sound_enhance_strings_mpegh_menu_delete_txt" />
+</LinearLayout>

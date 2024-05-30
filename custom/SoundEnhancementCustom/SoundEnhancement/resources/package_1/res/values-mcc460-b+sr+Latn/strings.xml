@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Zvuk može da preskače ili prenos podataka preko WLAN mreže može da se prekine zbog smetnji na mreži jer Bluetooth veza i WLAN mreža koriste isti frekventni opseg (2,4 GHz).
+
+Da biste uspostavili stabilnu vezu, isprobajte sledeća rešenja:
+・ Isključite WLAN 
+・ Premestite se negde gde nema drugih mrežnih uređaja koji koriste frekvenciju od 2,4 GHz
+・ Izaberite opciju [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Zvuk može da preskače ili prenos podataka preko WLAN mreže može da se prekine zbog smetnji na mreži jer Bluetooth veza i WLAN mreža koriste isti frekventni opseg (2,4 GHz).
+
+Da biste uspostavili stabilnu vezu, isprobajte sledeća rešenja:
+・ Isključite WLAN
+・ Premestite se negde gde nema drugih mrežnih uređaja koji koriste frekvenciju od 2,4 GHz
+・ Izaberite opciju [Najprikladnije]
+
+Ako želite da zadržite saobraćaj podataka putem WLAN mreže, izaberite opciju [Najprikladnije].
+Zvuk se reprodukuje najprikladnijom brzinom protoka u zavisnosti od mrežnog okruženja.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Možete da izaberete kodek koji ćete koristiti kada se povežete sa aptX HD uređajem. Ako zvuk preskače ili se prekida prenos podataka preko WLAN veze, tapnite na [%s] da biste saznali kako da zasnujete stabilnu vezu između uređaja.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Možete uživati u zvuku visoke rezolucije tako što ćete povezati LDAC uređaj putem Bluetooth veze. Ako zvuk preskače ili se razmena podataka putem WLAN mreže prekine, tapnite na [%s] da biste saznali kako da uspostavite stabilnu vezu između uređaja.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Zvuk može da preskače odnosno razmena podataka putem WLAN mreže može biti prekinuta zbog ometanja mreže pošto Bluetooth veza i WLAN mreža koriste isti opseg frekvencije (2,4 GHz).
+
+Za stabilnu vezu isprobajte sledeća rešenja:
+<ul><li>Isključite WLAN</li>
+<li>Pomerite se negde gde nema drugih mrežnih uređaja koji koriste opseg od 2,4 GHz</li>
+<li>Izaberite [Željena veza]</li></ul>
+
+Ako želite da zadržite razmenu podataka putem WLAN mreže, izaberite [Željena veza].</string>
+</resources>

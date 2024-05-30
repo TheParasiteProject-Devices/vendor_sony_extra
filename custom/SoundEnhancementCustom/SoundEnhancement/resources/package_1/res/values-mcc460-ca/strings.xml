@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">L'àudio es pot ometre o el trànsit de dades per la WLAN es pot desconnectar degut a interferències a la xarxa, ja que la connexió Bluetooth i la xarxa WLAN fan servir la mateixa banda de freqüència (2,4 GHz).
+
+Per gaudir d'una connexió estable, proveu les solucions següents:
+・ Desactiveu la WLAN
+・ Moveu-vos a on no hi hagi cap altre dispositiu de xarxa que utilitzi la banda 2,4 GHz
+・ Seleccioneu [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">L'àudio es pot ometre o el trànsit de dades per WLAN es pot desconnectar degut a interferències a la xarxa ja que la connexió de Bluetooth i la xarxa WLAN utilitzen la mateixa banda de freqüència (2,4 GHz).
+
+Per obtenir una connexió estable, proveu les solucions següents:
+・ Desactiveu la WLAN
+・ Moveu-vos allà on no hi hagi cap altre dispositiu de xarxa que utilitzi la banda 2,4GHz
+・ Seleccioneu [El millor esforç]
+
+Si voleu conservar el trànsit de dades per WLAN, seleccioneu [El millor esforç].
+L'àudio es reprodueix a la velocitat de bits més adequada segons l'entorn de la xarxa.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Podeu seleccionar el còdec que voleu utilitzar quan us connecteu al dispositiu HD aptX. Si l'àudio s'omet o si el trànsit de dades per la WLAN s'interromp, puntegeu [%s] per aprendre com definir una connexió estable entre els dispositius.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Podeu gaudir de l'àudio d'alta resolució si connecteu un dispositiu LDAC via una connexió Bluetooth. Si l'àudio salta o s'interromp el trànsit de dades via WLAN, puntegeu [%s] per descobrir com establir una connexió de cable entre ambdós dispositius.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">És possible que l'àudio salti o el trànsit de dades via WLAN estigui desconnectat a causa d'interferències de xarxa, ja que la connexió Bluetooth i la xarxa WLAN utilitzen la mateixa banda de freqüència (2.4GHz).
+
+Per disposar d'una connexió estable, proveu les següents solucions:
+<ul><li>Apagueu la WLAN</li>
+<li>Aneu a un lloc on no hi hagi altres dispositius de xarxa utilitzant la banda 2.4GHz</li>
+<li>Seleccioneu [Connexió preferida]</li></ul>
+
+Si voleu mantenir el trànsit de dades via WLAN, seleccioneu [Connexió preferida].</string>
+</resources>

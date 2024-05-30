@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Tā kā Bluetooth savienojums un WLAN tīkls izmanto vienu frekvenču joslu (2,4 GHz), tīkla traucējumi var radīt audio satura atskaņošanas vai datplūsmas savienojuma pārtraukumu WLAN tīklā.
+
+Lai iegūtu stabilu savienojumu, mēģiniet izmantot tālāk norādītos risinājumus.
+・ Izslēdziet WLAN
+・ Pārvietojieties uz vietu, kur cita tīkla ierīce neizmanto 2,4HGz joslu
+・ Atlasiet [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Tā kā Bluetooth savienojumam un WLAN tīklam tiek izmantota viena frekvenču josla (2,4 GHz), tīkla traucējumi var radīt audio satura atskaņošanas vai datplūsmas savienojuma pārtraukumu WLAN tīklā.
+
+Lai izveidotu stabilu savienojumu, mēģiniet izmantot tālāk norādītos risinājumus.
+・ Izslēdziet WLAN savienojumu
+・ Pārvietojieties uz vietu, kur cita tīkla ierīce neizmanto 2,4 GHz joslu
+・ Atlasiet opciju [Labākais iespējamais]
+
+Ja vēlaties saglabāt datplūsmu WLAN tīklā, atlasiet opciju [Labākā darbība].
+Audio saturs tiek atskaņots ar piemērotāko bitu pārraides ātrumu atkarībā no tīkla vides.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Ja jūsu ierīce ir savienota ar aptX HD ierīci, varat izvēlēties kodeku. Ja rodas audio izlaidumi vai ir pārtraukts WLAN savienojums, pieskarieties [%s], lai uzzinātu, kā starp ierīcēm izveidot stabilu savienojumu.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">LDAC ierīce, kas pievienota, izmantojot Bluetooth savienojumu, ļauj baudīt augstas izšķirtspējas skaņu. Ja skaņa vai WLAN datplūsma tiek pārtraukta, piesitiet [%s], lai uzzinātu, kā izveidot stabilu savienojumu starp šīm ierīcēm.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Skaņa vai WLAN datplūsma var tikt pārtraukta tīkla traucējumu dēļ, jo Bluetooth savienojuma un WLAN tīkla nodrošināšanai tiek izmantota viena frekvenču josla (2,4 GHz).
+
+Lai nodrošinātu savienojuma stabilitāti, izmēģiniet šos risinājumus:
+<ul><li>izslēdziet WLAN;</li>
+<li>pārejiet uz vietu, kur tuvumā neatrodas citas tīkla ierīces, kas darbojas 2,4 GHz joslā;</li>
+<li>atlasiet [Vēlamais savienojums].</li></ul>
+
+Ja vēlaties turpināt izmantot WLAN datplūsmu, atlasiet [Vēlamais savienojums].</string>
+</resources>

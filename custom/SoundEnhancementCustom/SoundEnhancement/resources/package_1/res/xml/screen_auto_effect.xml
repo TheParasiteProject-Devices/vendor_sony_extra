@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+  <PreferenceScreen android:layout="@layout/preference"
+                    android:title="@string/sound_enhance_strings_auto_effect_txt"
+                    android:key="auto_effect"
+                    android:summary="@string/sound_enhance_strings_auto_effect_summary_txt" />
+</PreferenceScreen>

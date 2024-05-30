@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+  <PreferenceScreen android:layout="@layout/preference"
+                    android:title="@string/sound_enhance_strings_reality_audio_txt"
+                    android:key="reality_audio"
+                    android:summary="@string/sound_enhance_strings_reality_audio_summary_txt" />
+</PreferenceScreen>

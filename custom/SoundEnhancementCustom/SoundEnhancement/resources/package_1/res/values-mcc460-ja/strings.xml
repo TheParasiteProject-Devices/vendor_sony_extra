@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Bluetooth接続と一部のWLAN接続は、2.4GHz帯の同じ周波数を使用するために、接続環境によっては電波が干渉し、再生時に音飛びが発生したり、WLANによるデータ通信が切断したりする可能性があります。
+
+音飛びが発生する場合は、以下の方法により改善します。
+・ WLAN設定をOFFにする
+・ 他の2.4GHz帯の周波数を利用している通信機器と電波干渉を起こさない環境に移動する
+・ [aptX]を選択する</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Bluetooth接続と一部のWLAN接続は、2.4GHz帯の同じ周波数を使用するために、接続環境によっては電波が干渉し、再生時に音飛びが発生したり、WLANによるデータ通信が切断したりする可能性があります。
+
+音飛びが発生する場合は、以下の方法により改善します。
+・ WLAN設定をOFFにする
+・ 他の2.4GHz帯の周波数を利用している通信機器と電波干渉を起こさない環境に移動する
+・ [自動]を選択する
+
+WLAN接続のデータ通信を維持したい場合は、[自動]を選択してください。
+ネットワーク環境に応じて最適なビットレートで再生します。</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">aptX HD対応機器と接続したときに使用するコーデックを選択することができます。音飛びが発生したり、WLANによるデータ通信に影響したりする場合は、[%s]をタップして、改善方法を確認してください。</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">LDAC対応機器をBluetooth接続し、ハイレゾ音源を楽しむことができます。音飛びが発生したり、WLANによるデータ通信に影響したりする場合は、[%s]をタップして、改善方法を確認してください。</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Bluetooth接続と一部のWLAN接続は、2.4GHz帯の同じ周波数を使用するために、接続環境によっては電波が干渉し、再生時に音飛びが発生したり、WLANによるデータ通信が切断する可能性があります。
+
+音飛びが発生する場合は、以下の方法により改善します。
+<ul><li>WLAN設定をOFFにする</li>
+<li>他の2.4GHz帯の周波数を利用している通信機器と電波干渉を起こさない環境に移動する</li>
+<li>[接続優先]を選択する</li></ul>
+
+WLAN接続のデータ通信を維持したい場合は、[接続優先]を選択してください。</string>
+</resources>

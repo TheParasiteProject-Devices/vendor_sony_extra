@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Audio mungkin melangkau atau trafik data melalui WLAN mungkin terputus sambungan akibat gangguan rangkaian kerana sambungan Bluetooth dan rangkaian WLAN menggunakan jalur frekuensi yang sama (2.4GHz).
+
+Untuk mendapatkan sambungan yang stabil, cuba penyelesaian berikut:
+・ Hidupkan WLAN
+・ Alih ke tempat di mana tiada peranti rangkaian lain yang menggunakan jalur 2.4GHz
+・ Pilih [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Audio mungkin dilangkau atau trafik data melalui WLAN mungkin terputus sambungan akibat gangguan rangkaian kerana sambungan Bluetooth dan rangkaian WLAN menggunakan jalur frekuensi yang sama (2.4GHz).
+
+Untuk mendapatkan sambungan yang stabil, cuba penyelesaian berikut:
+・ Matikan WLAN
+・ Alihkan ke tempat di mana tiada peranti rangkaian lain yang menggunakan jalur 2.4GHz
+・ Pilih [Usaha terbaik]
+
+Jika anda ingin mengekalkan trafik data melalui WLAN, pilih [Usaha terbaik].
+Audio dimainkan pada kadar bit yang paling sesuai bergantung pada persekitaran rangkaian.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Anda boleh memilih codec untuk digunakan apabila bersambung ke peranti aptX HD. Jika audio melangkau atau trafik data melalui WLAN diganggu, ketik [%s] untuk mengetahui cara mewujudkan sambungan stabil antara peranti.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Anda boleh menikmati Audio Resolusi Tinggi dengan menyambung peranti LDAC melalui sambungan Bluetooth. Jika audio melangkau atau trafik data melalui WLAN diganggu, ketik [%s] untuk mengetahui cara mewujudkan sambungan stabil antara peranti.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Audio mungkin melangkau atau trafik data melalui WLAN mungkin diputuskan sambungan disebabkan gangguan rangkaian kerana sambungan Bluetooth dan rangkaain WLAN menggunakan jalur frekuensi yang sama (2.4GHz).
+
+Untuk sambungan stabil, cuba penyelesaian berikut:
+<ul><li>Matikan WLAN</li>
+<li>Beralih ke tempat di mana tiada peranti rangkaian lain yang menggunakan jalur 2.4GHz</li>
+<li>Pilih [Sambungan diutamakan]</li></ul>
+
+Jika anda ingin menyimpan trafik data melalui WLAN, pilih [Sambungan diutamakan].</string>
+</resources>

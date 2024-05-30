@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+  <PreferenceScreen android:layout="@layout/preference"
+                    android:title="@string/sound_enhance_strings_setting_wind_noise_reduction_txt"
+                    android:key="wind_nr" />
+</PreferenceScreen>

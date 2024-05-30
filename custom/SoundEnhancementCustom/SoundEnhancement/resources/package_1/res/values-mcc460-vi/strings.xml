@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Âm thanh có thể bị đứt quãng hoặc đường truy cập dữ liệu qua WLAN có thể bị gián đoạn do nhiễu mạng vì kết nối Bluetooth và mạng WLAN sử dụng cùng một dải tần số (2,4 GHz).
+
+Để có kết nối ổn định, hãy thử các giải pháp sau:
+・ Tắt WLAN
+・ Chuyển đến nơi không có thiết bị mạng nào khác đang dùng dải tần số 2,4 GHz
+・ Chọn [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Âm thanh có thể ngắt quãng hoặc đường truy cập dữ liệu qua WLAN có thể bị ngắt kết nối do nhiễu mạng vì kết nối Bluetooth và mạng WLAN sử dụng cùng dải tần số (2,4 GHz).
+
+Để có kết nối ổn định, hãy thử các giải pháp sau:
+・ Tắt WLAN
+・ Di chuyển tới nơi không có thiết bị mạng nào khác sử dụng dải 2,4 GHz
+・ Chọn [Nỗ lực cao nhất]
+
+Nếu bạn muốn duy trì lưu lượng truy cập dữ liệu qua WLAN, hãy chọn [Nỗ lực cao nhất].
+Âm thanh được phát ở tốc độ bit thích hợp nhất tùy vào môi trường mạng.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Bạn có thể chọn codec để sử dụng khi kết nối với thiết bị aptX HD. Nếu âm thanh đứt quãng hoặc lưu lượng truy cập dữ liệu qua WLAN bị gián đoạn, hãy nhấn vào [%s] để tìm hiểu cách thiết lập kết nối ổn định giữa các thiết bị.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Bạn có thể thưởng thức Âm thanh Chất lượng Cao bằng cách kết nối thiết bị LDAC qua Bluetooth. Nếu âm thanh gián đoạn hoặc lưu lượng dữ liệu qua WLAN bị gián đoạn, hãy nhấn [%s] để tìm hiểu cách thiết lập kết nối ổn định giữa các thiết bị.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Âm thanh có thể gián đoạn hoặc lưu lượng dữ liệu qua WLAN có thể bị ngắt kết nối do nhiễu mạng vì kết nối Bluetooth và mạng WLAN sử dụng cùng một băng tần (2,4GHz).
+
+Để có kết nối ổn định, hãy thử các giải pháp sau:
+<ul><li>Tắt WLAN</li>
+<li>Di chuyển đến địa điểm không có thiết bị của mạng khác sử dụng băng tần 2,4GHz</li>
+<li>Chọn [Kết nối ưa thích]</li></ul>
+
+Nếu bạn muốn tiếp tục sử dụng lưu lượng dữ liệu qua WLAN, hãy chọn [Kết nối ưa thích].</string>
+</resources>

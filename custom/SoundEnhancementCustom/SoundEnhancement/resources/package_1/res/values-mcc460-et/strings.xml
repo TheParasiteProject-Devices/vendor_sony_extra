@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Võrguhäirete tõttu võib heli olla katkendlik või WLAN kaudu toimuv andmeliiklus katkeda, kuna Bluetooth-ühendus ja WLAN võrk kasutavad sama sagedusriba (2,4GHz).
+
+Stabiilse ühenduse loomiseks proovige järgmiseid lahendusi:
+・ lülitage WLAN välja;
+・ liikuge kohta, kus pole ühtegi teist seadet, mis kasutaks sagedusriba 2,4GHz;
+・ valige [aptX].</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Võrguhäirete tõttu võib heli vahele jääda või andmeliiklus WLAN kaudu katkeda, kuna Bluetooth-ühendus ja WLAN-võrk kasutavad sama sagedusriba (2,4 GHz).
+
+Stabiilse ühenduse tagamiseks proovige järgmisi lahendusi:
+・ lülitage WLAN välja;
+・ liikuge kohta, kus pole teisi võrguseadmeid, mis kasutavad 2,4 GHz riba;
+・ valige [Parim tulemus].
+
+Kui soovite säilitada andmeliikluse WLAN kaudu, valige [Parim tulemus].
+Heli esitatakse sobivaimal bitikiirusel olenevalt võrgukeskkonnast.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Saate valida koodeki, mida kasutatakse aptX HD-seadme ühenduse korral. Kui heli hüppab või kui WLAN kaudu toimuv andmeliiklus katkeb, koputage valikut [%s], et näha, kuidas tagada seadmete vahel stabiilne ühendus.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Bluetoothi kaudu LDAC-seadme ühendamisel saate nautida kvaliteetset heli. Kui heli on katkendlik või WLAN kaudu toimuv andmeliiklus häiritud, puudutage valikut [%s], et teada saada, kuidas seadmete vahel stabiilset ühendust luua.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Võrguhäirete tõttu võib heli olla katkendlik või WLAN kaudu toimuv andmeliiklus katkestatud, kuna Bluetooth-ühendus ja WLAN-võrk kasutavad sama sagedusriba (2,4 GHz).
+
+Stabiilse ühenduse saavutamiseks proovige järgmisi lahendusi.
+<ul><li>Lülitage WLAN välja.</li>
+<li>Minge kohta, kus ükski teine võrguseade ei kasuta 2,4 GHz riba.</li>
+<li>Tehke valik [Eelistatud ühendus].</li></ul>
+
+Kui soovite WLAN kaudu toimuvat andmeliiklust säilitada, tehke valik [Eelistatud ühendus].</string>
+</resources>

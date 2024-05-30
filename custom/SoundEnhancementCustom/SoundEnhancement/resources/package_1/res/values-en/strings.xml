@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ahc_description">Enjoy the best sound quality, optimised for your headphones and your listening preferences.
+
+This feature will analyse the connected headphones and your listening preferences when you play music. The sound experience will be optimised just for you.</string>
+  <string name="ahc_title_accessory_settings">Automatic headphone optimisation</string>
+  <string name="ahc_title_on_off">Automatic optimisation</string>
+  <string name="notification_description">Always get the best sound quality, optimised for your ears.</string>
+  <string name="search_menu">Search in Settings</string>
+  <string name="sound_enhance_strings_accessibility_clear_bass_logo_txt">Clear Bass logo</string>
+  <string name="sound_enhance_strings_accessibility_nc_off_txt">Noise cancelling, off</string>
+  <string name="sound_enhance_strings_accessibility_nc_on_always_txt">Noise cancelling, always on</string>
+  <string name="sound_enhance_strings_accessibility_nc_on_auto_txt">Noise cancelling, auto</string>
+  <string name="sound_enhance_strings_accessibility_nc_on_simple_txt">Noise cancelling, on</string>
+  <string name="sound_enhance_strings_accessibility_noise_cancel_settings_txt">Advanced noise-cancelling settings</string>
+  <string name="sound_enhance_strings_accessibility_vpt_list_item_txt">%s. In a list. Four items. To select an item, scroll horizontally from the centre of the screen.</string>
+  <string name="sound_enhance_strings_advanced_setting_desc_txt">Manually adjust the equaliser or other settings</string>
+  <string name="sound_enhance_strings_ahc_invalid_txt">Automatic optimisation is not available if DSEE HX is turned on. To enable this setting, please turn off DSEE HX.</string>
+  <string name="sound_enhance_strings_ahc_txt">Automatic optimisation</string>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">The audio may skip or the data traffic via Wi-Fi may be disconnected due to network interference as the Bluetooth connection and Wi-Fi network use same frequency band (2.4 GHz).
+
+To get a stable connection, try the following solutions:
+・ Turn off Wi-Fi
+・ Move to somewhere where there is no other network device using the 2.4 GHz band
+・ Select [aptX]</string>
+  <string name="sound_enhance_strings_aptx_playback_quality_val_hd_desc_txt">Keep playing audio at a high bit-rate. The audio may skip when the Bluetooth connection becomes unstable.</string>
+  <string name="sound_enhance_strings_audio_accessory_setting_desc_txt">Select an input/output device to connect (stereo mic STM10, noise cancelling headset)</string>
+  <string name="sound_enhance_strings_cta_ahc_invalid_desc_txt">This setting is not available if Auto-start is turned off. To enable this, please turn on Auto-start.</string>
+  <string name="sound_enhance_strings_cta_auto_start_txt">Auto-start</string>
+  <string name="sound_enhance_strings_dolby_atmos_mode_custom_desc_txt">Apply your customised sound settings</string>
+  <string name="sound_enhance_strings_dolby_atmos_mode_movie_desc_txt">Suitable for watching a film or TV programme</string>
+  <string name="sound_enhance_strings_error_not_available_by_prio_low_txt">This function is not available because another sound effect application with a higher priority is active. To enable the function, go to Settings &gt; Sound &gt; Music effects and enable Audio settings.</string>
+  <string name="sound_enhance_strings_error_not_available_by_prio_txt">This function is not available because another sound effect application is active in higher priority. To enable the function, go to Settings &gt; Apps and uninstall the application.</string>
+  <string name="sound_enhance_strings_hi_res_audio_desc_txt">Play High-resolution Audio using USB DAC/DAC amp. When connected, sound effects become disabled.</string>
+  <string name="sound_enhance_strings_hi_res_audio_title_txt">Hi-res Audio via USB</string>
+  <string name="sound_enhance_strings_invalid_due_to_dolby_atmos_txt">This setting cannot be used with Dolby Atmos. Make sure that you turn off Dolby Atmos before using this setting.</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">The audio may skip or the data traffic via Wi-Fi may be disconnected due to network interference as the Bluetooth connection and Wi-Fi network use same frequency band (2.4 GHz).
+
+To get a stable connection, try the following solutions:
+・ Turn off Wi-Fi
+・ Move to a place where there is no other network device using the 2.4 GHz band
+・ Select [Best effort]
+
+If you would like to keep the data traffic via Wi-Fi, select [Best effort].
+Audio is played at the most appropriate bit rate depending on network environment.</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_val_quality_desc_txt">Keep playing audio at a high bit-rate. The audio may skip when the Bluetooth connection becomes unstable.</string>
+  <string name="sound_enhance_strings_notification_nc_desc_txt">Tap here to go to Noise cancelling settings</string>
+  <string name="sound_enhance_strings_notification_nc_headphone_connected_txt">Noise cancelling headphones connected</string>
+  <string name="sound_enhance_strings_notification_nc_txt">Noise cancelling</string>
+  <string name="sound_enhance_strings_notification_select_headphones_desc_txt">Select your noise-cancelling headphones</string>
+  <string name="sound_enhance_strings_permission_dialog_message_microphone_sub_txt">To analyse sound for a few seconds in order to optimise sound quality</string>
+  <string name="sound_enhance_strings_reality_audio_summary_txt">Tap here to personalise sound quality</string>
+  <string name="sound_enhance_strings_setting_audio_accessory_nc_headphone_txt">Noise-cancelling headphones</string>
+  <string name="sound_enhance_strings_setting_audio_accessory_nc_headset2_txt">Noise-cancelling headset for Xperia</string>
+  <string name="sound_enhance_strings_setting_audio_accessory_nc_headset_txt">Noise-cancelling headphones for Walkman</string>
+  <string name="sound_enhance_strings_setting_clear_stereo_txt">Clear stereo</string>
+  <string name="sound_enhance_strings_setting_clearaudio_plus_desc_txt">Optimise sound settings</string>
+  <string name="sound_enhance_strings_setting_dynamic_normalizer_desc_txt">Minimise volume differences between songs or videos</string>
+  <string name="sound_enhance_strings_setting_dynamic_normalizer_txt">Dynamic normaliser</string>
+  <string name="sound_enhance_strings_setting_noise_cancel_not_connect_nc_headphones_txt">Connect noise-cancelling headphones</string>
+  <string name="sound_enhance_strings_setting_noise_cancel_txt">Noise cancelling</string>
+  <string name="sound_enhance_strings_setting_power_save_desc_txt">Turn off Noise cancelling automatically when the screen is off and no music is playing</string>
+  <string name="sound_enhance_strings_setting_power_save_txt">Power saver mode</string>
+  <string name="sound_enhance_strings_setting_preset_txt">Equaliser presets</string>
+  <string name="sound_enhance_strings_setting_stereo_mic_val_auto_desc_txt">Automatically optimise the mic sensitivity</string>
+  <string name="sound_enhance_strings_setting_stereo_mic_val_concert_desc_txt">Suitable for recording a quiet sound or sound in a spacious room (e.g. lectures)</string>
+  <string name="sound_enhance_strings_setting_stereo_mic_val_conversation_desc_txt">Suitable for recording a loud sound or sound near the device (e.g. rock concerts, close-up interviews)</string>
+  <string name="sound_enhance_strings_setting_stereo_mic_val_event_desc_txt">Suitable for recording the sound of a normal conversation or sound within a short distance (e.g. house parties, meetings)</string>
+  <string name="sound_enhance_strings_setting_wind_noise_reduction_desc_txt">Removes noises from wind hitting the microphone when recording. Using Sony's sound separation technology based on machine learning, you can remove noise without losing the original audio quality.
+Only available when recording with the internal microphone.</string>
+  <string name="sound_enhance_strings_spatial_sound_desc1_txt">Not personalised</string>
+  <string name="sound_enhance_strings_spatial_sound_description_desc_txt">To further upgrade your experience, you can optimise the sound to match your ears via the "Sony | Headphones Connect" app when using Sony certified headphones.</string>
+  <string name="sound_enhance_strings_spatial_sound_description_title_txt">Personalisation</string>
+  <string name="sound_enhance_strings_spatial_sound_open_hpc_app_desc_txt">Personalise your smartphone in the 360 Reality Audio settings of Headphones Connect.</string>
+  <string name="sound_enhance_strings_spatial_sound_open_hpc_app_title_txt">Install app and personalise</string>
+  <string name="sound_enhance_strings_spatial_sound_personalized_desc_txt">After personalisation via the 360 Reality Audio Setup menu in the "Sony | Headphones Connect" app, your personal profile will be applied to this Xperia. To return to the preset profile, turn off this setting.</string>
+  <string name="sound_enhance_strings_spatial_sound_personalized_title_txt">Personalised</string>
+  <string name="sound_enhance_strings_spatial_sound_subheader_bt_devices_txt">Optimised Bluetooth headphones</string>
+  <string name="sound_enhance_strings_spatial_sound_subheader_wired_devices_txt">Optimised wired headphones</string>
+  <string name="sound_enhance_strings_tab_equalizer_txt">Equaliser</string>
+  <string name="sound_enhance_strings_tips_notification_title_txt">Set preferred sound quality</string>
+  <string name="sound_enhance_strings_toast_notification_nc_auto_txt">Noise cancelling is On (Auto)</string>
+  <string name="sound_enhance_strings_toast_notification_nc_off_txt">Noise cancelling is Off</string>
+  <string name="sound_enhance_strings_toast_notification_nc_on_simple_txt">Noise cancelling is On</string>
+  <string name="sound_enhance_strings_toast_notification_nc_on_txt">Noise cancelling is On (Always)</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">You can select the codec for use when connected to the aptX HD device. If the audio skips or the data traffic via Wi-Fi is interrupted, tap [%s] to learn how to establish a stable connection between the devices.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">You can enjoy Hi-Res Audio by connecting an LDAC device via Bluetooth connection. If the audio skips or the data traffic via Wi-Fi is interrupted, tap [%s] to learn how to establish a stable connection between the devices.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">The audio may skip or data traffic via Wi-Fi may be disconnected due to network interference, as the Bluetooth connection and Wi-Fi network use the same frequency band (2.4 GHz).
+
+For a stable connection, try the following solutions:
+<ul><li>Turn Wi-Fi Off</li>
+<li>Move to a place where there are no other network devices using the 2.4 GHz band</li>
+<li>Select [Connection preferred]</li></ul>
+
+If you would like to keep data traffic via Wi-Fi, select [Connection preferred].</string>
+</resources>

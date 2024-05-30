@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+  <CheckBoxPreference android:persistent="false"
+                      android:enabled="false"
+                      android:layout="@layout/radio_preference"
+                      android:title="@string/sound_enhance_strings_dolby_atmos_mode_dynamic_title_txt"
+                      android:key="dolby_dynamic"
+                      android:summary="@string/sound_enhance_strings_dolby_atmos_mode_dynamic_desc_txt" />
+  <CheckBoxPreference android:persistent="false"
+                      android:enabled="false"
+                      android:layout="@layout/radio_preference"
+                      android:title="@string/sound_enhance_strings_dolby_atmos_mode_movie_title_txt"
+                      android:key="dolby_movie"
+                      android:summary="@string/sound_enhance_strings_dolby_atmos_mode_movie_desc_txt" />
+  <CheckBoxPreference android:persistent="false"
+                      android:enabled="false"
+                      android:layout="@layout/radio_preference"
+                      android:title="@string/sound_enhance_strings_dolby_atmos_mode_music_title_txt"
+                      android:key="dolby_music"
+                      android:summary="@string/sound_enhance_strings_dolby_atmos_mode_music_desc_txt" />
+  <CheckBoxPreference android:persistent="false"
+                      android:enabled="false"
+                      android:layout="@layout/radio_preference"
+                      android:title="@string/sound_enhance_strings_dolby_atmos_mode_custom_title_txt"
+                      android:key="dolby_custom"
+                      android:summary="@string/sound_enhance_strings_dolby_atmos_mode_custom_desc_txt" />
+</PreferenceScreen>

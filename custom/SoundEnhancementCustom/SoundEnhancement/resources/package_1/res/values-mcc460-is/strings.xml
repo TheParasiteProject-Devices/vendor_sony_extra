@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Hljóðrásin getur hrokkið til eða gagnaumferðin á WLAN getur rofnað vegna truflana á netinu þar sem Bluetooth tengingin og WLAN netið nota sama tíðnisivið (2.4GHz).
+
+Til að fá stöðugt samband skaltu reyna þessar lausnir:
+・Slökktu á WLAN
+・Færðu þig þangað sem enginn er að nota 2.4GHz bandið
+・Veldu [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Hljóðið kann að hiksta eða gagnaumferðin um WLAN að aftengjast vegna netkerfistruflunar þar sem Bluetooth tengingin og WLAN netið nota sama tíðnisvið (2.4GHz).
+
+Prófaðu eftirfarandi lausnir til að fá stöðuga tengingu:
+・Slökktu á WLAN
+・Farðu þangað sem ekkert annað nettengt tæki er að nota 2.4GHz sviðið
+・Veldu [Sem best]
+
+Ef þú vilt halda gagnaumferð um WLAN skaltu velja [Sem best].
+Hljóðið er spilað á viðeigandi bitahraða miðað við netumhverfið.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Þú getur valið víxlbreytinn sem á að nota þegar tengt er við aptX HD tæki. Ef hljóðrásin hrekkur til eða gagnaumferðin með WLAN er rofin þá pikkarðu á [%s] til að komast að því hvernig á að setja upp stöðuga tengingu milli tækjanna.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Þú getur notið hágæðahljóms með því að tengja LDAC-tæki í gegnum Bluetooth. Ef hljóðið hikstar eða gagnaumferð um WLAN rofnar skaltu pikka á [%s] til að komast að því hvernig á að koma á stöðugri tengingu á milli tækjanna.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Hljóðið getur hikstað eða gagnaumferð um WLAN rofnað vegna nettruflana þar sem Bluetooth tengingin og WLAN netið nota sömu tíðni (2,4 GHz).
+
+Til að koma á stöðugri tengingu skaltu reyna eitt af eftirfarandi:
+<ul><li>Slökktu á WLAN</li>
+<li>Færðu þig á stað þar sem engin önnur nettengd tæki nota tíðnina 2,4 GHz</li>
+<li>Veldu [Tenging valin]</li></ul>
+
+Ef þú vilt hafa gagnaumferð um WLAN skaltu velja [Tenging valin].</string>
+</resources>

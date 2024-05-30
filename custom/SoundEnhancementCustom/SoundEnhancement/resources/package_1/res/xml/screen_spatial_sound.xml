@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+  <PreferenceScreen android:icon="@drawable/ic_info_outline_24dp"
+                    android:layout="@layout/preference_info"
+                    android:title="@string/sound_enhance_strings_spatial_sound_info_txt"
+                    android:selectable="false"
+                    android:key="spatial_sound_info" />
+  <PreferenceCategory android:layout="@layout/divider" />
+  <PreferenceScreen android:layout="@layout/preference_desc"
+                    android:title="@string/sound_enhance_strings_spatial_sound_description_title_txt"
+                    android:selectable="false"
+                    android:key="spatial_sound_description"
+                    android:summary="@string/sound_enhance_strings_spatial_sound_description_desc_txt" />
+  <PreferenceScreen android:icon="@drawable/baseline_launch_black_24"
+                    android:layout="@layout/preference_icon"
+                    android:title="@string/sound_enhance_strings_spatial_sound_open_hpc_web_page_txt"
+                    android:key="open_hcp_web_page" />
+  <PreferenceScreen android:icon="@drawable/baseline_launch_black_24"
+                    android:layout="@layout/preference_icon"
+                    android:title="@string/sound_enhance_strings_spatial_sound_open_certified_web_page_txt"
+                    android:key="open_certified_web_page" />
+  <PreferenceScreen android:icon="@drawable/baseline_launch_black_24"
+                    android:layout="@layout/preference_icon"
+                    android:title="@string/sound_enhance_strings_spatial_sound_open_hpc_app_title_txt"
+                    android:key="open_hpc_app" />
+  <PreferenceCategory android:layout="@layout/divider" />
+  <SwitchPreference android:persistent="false"
+                    android:enabled="true"
+                    android:layout="@layout/preference"
+                    android:title="@string/sound_enhance_strings_spatial_sound_personalized_title_txt"
+                    android:key="spatial_sound_personalized"
+                    android:summary="@string/sound_enhance_strings_spatial_sound_personalized_desc_txt" />
+</PreferenceScreen>

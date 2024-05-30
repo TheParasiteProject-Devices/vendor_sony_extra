@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+  <PreferenceScreen android:icon="@drawable/baseline_launch_black_24"
+                    android:layout="@layout/preference_icon"
+                    android:title="@string/sound_enhance_strings_advanced_setting_title_txt"
+                    android:key="open_dolby_app"
+                    android:summary="@string/sound_enhance_strings_advanced_setting_desc_txt" />
+</PreferenceScreen>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Bluetooth bağlantısı və WLAN şəbəkəsi eyni tezlik zolağından (2.4GHz) istifadə etdiyi üçün şəbəkədə yaranan fasiləyə görə audio keçilə və ya WLAN ilə məlumat trafiki kəsilə bilər.
+
+Sabit bağlantı əldə etmək üçün aşağıdakı həlləri sınayın:
+・ WLAN-ı söndürün
+・ 2.4GHz tezlik zolağından istifadə edən başqa şəbəkə cihazının olmadığı yerə keçin
+・ [aptX] seçin</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Bluetooth bağlantısı və WLAN şəbəkəsi eyni tezlik dalğasından (2.4GHz) istifadə etdiyinə görə şəbəkədə maneələr yarana bilər və bu səbəbdən audio buraxıla və ya WLAN ilə məlumat trafiki kəsilə bilər.
+
+Sabit bağlantı əldə etmək üçün aşağıdakı həll yollarını sınayın:
+・ WLAN-ı söndürün
+・ 2.4GHz tezliyindən istifadə edən başqa şəbəkə cihazının olmadığı yerə keçin
+・ Seçin: [Ən yaxşı cəhd]
+
+Əgər WLAN vasitəsilə məlumat trafikini saxlamaq istəyirsinizsə, [Ən yaxşı cəhd] seçin.
+Audio şəbəkə mühitindən asılı olaraq ən müvafiq bit sürətində səslənir.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">aptX HD cihazına qoşulduqda istifadə üçün kodek seçə bilərsiniz. Audio keçilərsə və ya WLAN ilə məlumat trafiki kəsilərsə, cihazlar arasında sabit bağlantı yaratmağın yolunu öyrənmək üçün [%s] vurun.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Siz LDAC cihazını Bluetooth bağlantısı vasitəsilə qoşmaqla Yüksək Rezolyusiyalı Audiodan zövq ala bilərsiniz. Audio buraxılarsa və ya WLAN vasitəsilə məlumat trafiki dayanarsa, cihazlar arasında sabit bağlantı qurmaq qaydasını öyrənmk üçün [%s] vurun.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Bluetooth bağlantısı və WLAN şəbəkəsi eyni tezlik kanalından (2,4 GHz) istifadə etdiyi üçün audio buraxıla və ya WLAN vasitəsilə məlumat trafiki ayrılmış ola bilər.
+
+Sabit bağlantı üçün, aşağıdakı həlləri sınayın:
+<ul><li>WLAN-ı söndürün</li>
+<li>2,4 GHz kanalından istifadə edən başqa cihaz şəbəkəsinin olmadığı yerə keçin</li>
+<li>[Üstünlük verilən bağlantı] seçin</li></ul>
+
+WLAN vasitəsilə məlumat trafikini saxlamaq istəyirsinizsə, [Üstünlük verilən bağlantı] seçin.</string>
+</resources>

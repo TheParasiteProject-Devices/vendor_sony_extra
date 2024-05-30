@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <color name="eq_freq_num_color">#8affffff</color>
+  <color name="eq_text_color">@android:color/white</color>
+  <color name="scalebar_center_line_color">#8affffff</color>
+  <color name="scalebar_line_color">#4dffffff</color>
+  <color name="surround_preset_name_color">@android:color/white</color>
+  <color name="surround_preset_summary_color">#8affffff</color>
+  <color name="switchbar_switch_thumb_tint">@android:color/black</color>
+  <color name="switchbar_switch_track_tint">#82000000</color>
+</resources>

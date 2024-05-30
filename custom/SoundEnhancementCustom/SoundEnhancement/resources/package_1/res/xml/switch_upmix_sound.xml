@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+  <com.sonyericsson.soundenhancement.widget.TwoTargetSwitchPreference android:layout="@layout/two_target_switch"
+                        android:title="@string/sound_enhance_strings_upmix_txt"
+                        android:key="upmix_sound_switch"
+                        android:summary="@string/sound_enhance_strings_upmix_summary_txt" />
+</PreferenceScreen>

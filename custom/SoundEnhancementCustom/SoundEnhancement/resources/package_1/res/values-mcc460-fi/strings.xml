@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Ääni saattaa katkeilla tai tietoliikenne WLANn kautta saattaa katketa, sillä Bluetooth-yhteys ja WLAN-yhteys käyttävät samaa taajuutta (2,4 GHz).
+
+Kokeile seuraavia vakaan yhteyden luomiseksi:
+・ Sammuta WLAN
+・ Siirry alueelle, jossa ei ole muita laitteita, jotka käyttävät 2,4 GHz:n taajuutta
+・ Valitse [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Äänissä saattaa esiintyä häiriöitä tai WLAN-yhteys saattaa katketa verkkohäiriöiden vuoksi, koska Bluetooth-yhteys ja WLAN-verkko käyttävät samaa taajuusaluetta (2,4 GHz).
+
+Voit parantaa yhteyden laatua seuraavasti:
+・ Poista WLAN käytöstä
+・ Siirry paikkaan, jossa ei ole muita 2,4 GHz taajuutta käyttäviä verkkolaitteita.
+・ Valitse [Paras]
+
+Jos haluat jatkaa WLAN-yhteyden käyttöä, valitse [Paras].
+Äänten siirtonopeus määräytyy verkkoympäristön mukaan.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Voit valita käytettävän koodekin, kun aptX HD -laite on kytketty. Jos ääni katkeilee tai tietoliikenne WLANn kautta häiriintyy, lue vakaan yhteyden luomisesta kahden laitteen välille valitsemalla [%s]</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Voit nauttia korkealaatuisista äänistä yhdistämällä LDAC-laitteen Bluetoothin avulla. Jos ääni katkeaa tai WLAN-tietoliikenteessä on häiriöitä, napauta [%s] ja lue lisätietoja vakaan yhteyden luomisesta laitteiden välille.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Ääni voi pätkiä tai WLAN-tietoliikenne voi kärsiä yhteysongelmista verkon häiriöiden vuoksi, koska Bluetooth-yhteys ja WLAN-verkko käyttävät samaa taajuuskaistaa (2,4 GHz).
+
+Voit luoda vakaan yhteyden kokeilemalla seuraavia:
+<ul><li>Poista WLAN käytöstä.</li>
+<li>Siirry paikkaan, jossa ei ole muita 2,4 GHz:n kaistaa käyttäviä verkkolaitteita.</li>
+<li>Valitse [Ensisijainen yhteys]</li></ul>.
+
+Jos haluat säilyttää tietoliikenteen WLAN-muotoisena, valitse [Ensisijainen yhteys].</string>
+</resources>

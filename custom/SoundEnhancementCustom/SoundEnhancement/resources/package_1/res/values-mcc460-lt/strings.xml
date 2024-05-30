@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Garso įrašas gali būti praleistas arba duomenų srautas per „WLAN“ išjungtas dėl tinklo trikdžių, nes „Bluetooth“ ryšys ir „WLAN“ tinklas naudoja tą pačią dažnių juostą (2,4 GHz).
+
+Kad ryšys būtų stabilus, išbandykite toliau nurodytus sprendimus.
+・Išjunkite „WLAN“.
+・Nueikite ten, kur nėra kito tinklo įrenginio, kuris naudotų 2,4 GHz dažnių juostą.
+・Pasirinkite [aptX].</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Garsas arba duomenų srautas per „WLAN“ gali trūkinėti dėl tinklo trikdžių, nes „Bluetooth“ ryšys ir „WLAN“ tinklas naudoja tą pačią dažnių juostą (2,4 GHz).
+
+Kad ryšys būtų stabilus, išbandykite šiuos sprendimus.
+・ Išjunkite „WLAN“.
+・ Pereikite į vietą, kurioje nėra kitų įrenginių, naudojančių 2,4 GHz dažnių juostą.
+・ Pasirinkite [Geriausias rezultatas].
+
+Jei norite išlaikyti duomenų srautą per „WLAN“, pasirinkite [Geriausias rezultatas].
+Garso įrašas leidžiamas tinkamiausiu bitų dažniu atsižvelgiant į tinko aplinką.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Prijungę prie „aptX HD“ įrenginio, galite pasirinkti, kurį kodeką naudoti.Jeigu garso įrašas praleidžiamas arba duomenų srautas per „WLAN“ pertraukiamas, bakstelėkite [%s], kad sužinotumėte, kaip sukurti stabilų ryšį tarp įrenginių.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Galite mėgautis aukštos raiškos garsu LDAC prietaisą prijungę per „Bluetooth“. Jei garsas arba duomenų srautas per „WLAN“ trūkinėja, bakstelėkite [%s] ir sužinokite, kaip sukurti stabilų ryšį tarp prietaisų.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Garsas arba duomenų srautas per „WLAN“ gali trūkinėti dėl tinklo trikdžių, nes „Bluetooth“ ryšys ir „WLAN“ tinklas naudoja tą pačią dažnių juostą (2,4 GHz).
+
+Norėdami išlaikyti stabilų ryšį, pabandykite:
+<ul><li>išjungti „WLAN“;</li>
+<li>pereiti į kitą vietą, kur nėra tinklo prietaisų, naudojančių 2,4 GHz juostą;</li>
+<li>pasirinkti [Connection preferred]</li></ul>.
+
+Jei norite išlaikyti duomenų srautą per „WLAN“, pasirinkite [Connection preferred].</string>
+</resources>

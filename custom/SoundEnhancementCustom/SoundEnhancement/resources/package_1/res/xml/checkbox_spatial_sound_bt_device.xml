@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+  <PreferenceCategory android:layout="@layout/preference_category"
+                      android:title="@string/sound_enhance_strings_spatial_sound_subheader_bt_devices_txt"
+                      android:key="spatial_sound_bt_devices">
+    <CheckBoxPreference android:layout="@layout/radio_button_preference"
+                        android:title="BT device 1"
+                        android:key="spatial_sound_bt_device_0" />
+    <CheckBoxPreference android:layout="@layout/radio_button_preference"
+                        android:title="BT device 2"
+                        android:key="spatial_sound_bt_device_1" />
+    <CheckBoxPreference android:layout="@layout/radio_button_preference"
+                        android:title="BT device 3"
+                        android:key="spatial_sound_bt_device_2" />
+    <CheckBoxPreference android:layout="@layout/radio_button_preference"
+                        android:title="BT device 4"
+                        android:key="spatial_sound_bt_device_3" />
+    <CheckBoxPreference android:layout="@layout/radio_button_preference"
+                        android:title="BT device 5"
+                        android:key="spatial_sound_bt_device_4" />
+  </PreferenceCategory>&gt; </PreferenceScreen>

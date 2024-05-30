@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">V důsledku rušení sítě může zvuk přeskakovat nebo mobilní data přes připojení WLAN mohou být odpojena, protože připojení Bluetooth a síť WLAN používají stejné frekvenční pásmo (2,4 GHz).
+
+Chcete-li zajistit stabilní připojení, zkuste následující řešení:
+・ Vypněte WLAN
+・ Přejděte na místo, kde pásmo 2,4 GHz nepoužívají žádná další síťová zařízení
+・ Vyberte [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">V případě síťového rušení může docházet k přeskakování zvuku nebo přerušení datového připojení prostřednictvím WLAN, protože připojení Bluetooth a síť WLAN používají stejné frekvenční pásmo (2,4 GHz).
+
+Chcete-li stabilní připojení, vyzkoušejte následující řešení:
+・ Vypněte WLAN
+・ Přejděte tam, kde se nenachází žádné jiné síťové zařízení používající pásmo 2,4 GHz
+・ Zvolte [Nejlepší výsledek]
+
+Chcete-li dále používat datové připojení přes WLAN, zvolte [Nejlepší výsledek]. 
+Zvuk se přehraje s nejvhodnější přenosovou rychlostí podle síťového prostředí.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Můžete vybrat kodek, který se použije při připojení k zařízení aptX HD. Pokud zvuk přeskakuje nebo je datový přenos prostřednictvím WLAN přerušen, ťuknutím na [%s] zobrazíte pokyny k navázání stabilního připojení mezi zařízeními.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Připojením zařízení LDAC prostřednictvím Bluetooth si můžete vychutnat zvuk ve vysokém rozlišení. Pokud zvuk přeskakuje nebo jsou mobilní data přes připojení WLAN přerušovaná, ťuknutím na [%s] zjistíte, jak mezi zařízeními zajistit stabilní připojení.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">V důsledku rušení sítě může zvuk přeskakovat nebo mobilní data přes připojení WLAN mohou být odpojena, protože připojení Bluetooth a síť WLAN používají stejné frekvenční pásmo (2,4 GHz).
+
+Chcete-li zajistit stabilní připojení, zkuste následující řešení:
+<ul><li>Vypněte WLAN</li>
+<li>Přejděte na místo, kde pásmo 2,4 GHz nepoužívají žádná další síťová zařízení</li>
+<li>Vyberte [Preferované připojení]</li></ul>
+
+Pokud chcete zachovat přenos dat přes připojení WLAN, vyberte [Preferované připojení].</string>
+</resources>

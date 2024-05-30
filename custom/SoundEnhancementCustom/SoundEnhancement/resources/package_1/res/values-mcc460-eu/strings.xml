@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Baliteke audioa saltatzea edo WLAN bidezko datu trafikoa deskonektatzea sare interferentziak direla-eta. Izan ere, Bluetooth konexioak eta WLAN sareak frekuentzia banda bera erabiltzen dute (2,4 GHz).
+
+Konexio egonkorra lortzeko, hauek dira irtenbideak:
+・ Desaktibatu WLAN konexioa
+・ Mugitu 2,4 GHz banda erabiltzen ari den beste sare gailurik ez dagoen leku batera
+・ Hautatu [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Baliteke audioa saltatzea edo WLAN bidezko datu trafikoa deskonektatzea sare interferentziak direla-eta. Izan ere, Bluetooth konexioak eta WLAN sareak frekuentzia banda bera erabiltzen dute (2,4 GHz).
+
+Konexio egonkorra lortzeko, hauek dira irtenbideak:
+・ Desaktibatu WLAN konexioa
+・ Mugitu 2,4 GHz banda erabiltzen ari den sare gailurik ez dagoen leku batera
+・ Hautatu [Ahaleginik handiena]
+
+WLAN bidezko datu trafikoari eutsi nahi badiozu, hautatu [Ahaleginik handiena].
+Sare ingurunearen arabera, bit emari egokienean erreproduzitzen ari da audioa.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">aptX HD gailura konektatuta zaudenean zein kodek erabili nahi duzun hauta dezakezu. Audioa saltatzen edo WLAN bidezko datu trafikoa eteten bada, punteatu [%s] eta gailuen arteko konexio egonkorra ezartzeari buruzko informazio gehiago lortuko duzu.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">LDAC gailu bat Bluetooth bidez konektatuz gero, bereizmen handiko soinuaz goza dezakezu. Audioak huts egiten badu edo WLAN bidezko datu trafikoa eteten bada, punteatu [%s] gailuen arteko konexio egonkorra ezartzezko argibideak irakurtzeko.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Baliteke audioak huts egitea edo WLAN bidezko datu trafikoak deskonektatzea, Bluetooth konexioak eta WLAN sareak frekuentzia banda bera erabiltzen dutelako (2,4 GHz).
+
+Konexio egonkorra lortzeko, saiatu irtenbide hauek:
+<ul><li>Itzali WLANa</li>
+<li>Joan 2,4 Ghz banda erabiltzen ez duen beste gailurik ez dagoen toki batera</li>
+<li>Hautatu [Konexio hobetsia]</li></ul>
+
+WLAN bidezko datu trafikoa mantendu nahi baduzu, hautatu [Konexio hobetsia].</string>
+</resources>

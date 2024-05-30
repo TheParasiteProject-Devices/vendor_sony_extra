@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Het geluid of het dataverkeer via WLAN kunnen worden onderbroken door verstoring van het netwerk omdat de Bluetooth-verbinding en het WLAN-netwerk dezelfde frequentie gebruiken (2,4 GHz).
+
+Probeer de volgende oplossingen voor een stabiele verbinding:
+・ Schakel WLAN uit
+・ Ga naar een plek waar geen ander netwerkapparaat op 2,4 GHz actief is
+・ Selecteer [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">De audio of het dataverkeer via WLAN kunnen worden onderbroken door verstoring van het netwerk omdat de Bluetooth-verbinding en het WLAN-netwerk dezelfde frequentie gebruiken (2,4 GHz).
+
+Probeer de volgende oplossingen voor een stabiele verbinding:
+・ Schakel WLAN uit
+・ Ga naar een plek waar geen ander netwerkapparaat op 2,4 GHz actief is
+・ Selecteer [Meest geschikt]
+
+Selecteer [Meest geschikt] wanneer u WLAN wilt blijven gebruiken voor dataverkeer.
+De audio wordt afgespeeld op de meest geschikte bitsnelheid, afhankelijk van de netwerkomgeving.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">U kunt de codec selecteren om met het aptX HD-apparaat verbinding te maken. Als het geluid stottert of als het dataverkeer via WLAN wordt onderbroken, tikt u op [%s] voor meer informatie over het maken van een stabiele verbinding tussen de apparaten.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Als u via Bluetooth verbinding maakt met een LDAC-apparaat, kunt u van audio met hoge resolutie genieten. Als het geluid overslaat of het dataverkeer via WLAN wordt onderbroken, tikt u op [%s] voor meer informatie over hoe u een stabiele verbinding tussen de apparaten tot stand brengt.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Omdat voor de Bluetooth-verbinding en het WLAN-netwerk van dezelfde frequentieband (2,4 GHz) gebruik wordt gemaakt, slaat het geluid mogelijk over of wordt het dataverkeer via WLAN mogelijk onderbroken wegens netwerkinterferentie.
+
+Probeer de volgende oplossingen voor een stabiele verbinding:
+<ul><li>Schakel WLAN uit</li>
+<li>Ga naar een plek waar geen andere netwerkapparaten gebruikmaken van de frequentieband van 2,4 GHz</li>
+<li>Selecteer [Verbinding van voorkeur]</li></ul>
+
+Als u het dataverkeer ongewijzigd via WLAN wilt laten verlopen, selecteert u [Verbinding van voorkeur].</string>
+</resources>

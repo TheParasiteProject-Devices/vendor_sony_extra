@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Audioja mund të kapërcehet ose trafiku i të dhënave me WLAN mund të shkëputet për shkak të ndërhyrjes së rrjetit pasi lidhja me Bluetooth dhe rrjeti WLAN përdorin të njëjtën brez frekuence (2,4 GHz).
+
+Për të pasur një lidhje të qëndrueshme, provoni zgjidhjet e mëposhtme:
+・ Çaktivizoni WLAN
+・ Zhvendosuni në një vend ku nuk ka asnjë pajisje tjetër të rrjetit që përdor brezin 2,4 GHz
+・ Përzgjidhni [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Audioja mund të anashkalohet ose trafiku i të dhënave nëpërmjet WLAN mund të shkëputet për shkak të ndërhyrjes së rrjetit pasi lidhja Bluetooth dhe rrjeti WLAN përdorin të njëjtin brez frekuencash (2,4 GHz).
+
+Për të pasur një lidhje të qëndrueshme, provoni zgjidhjet e mëposhtme:
+・ Çaktivizoni WLAN
+・ Lëvizni në një vend ku nuk ka një pajisje tjetër të rrjetit që përdor brezin 2,4 GHz
+・ Përzgjidhni [Përpjekja më e mirë]
+
+Nëse dëshironi ta mbani trafikun e të dhënave nëpërmjet WLAN, përzgjidhni [Përpjekja më e mirë].
+Audioja riprodhohet me shpejtësinë më të përshtatshme të bitëve në varësi të ambientit të rrjetit.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Mund të përzgjidhni kodekun për përdorim kur lidheni me pajisjen aptX HD. Nëse audioja kapërcehet ose trafiku i të dhënave nëpërmjet WLAN ndërpritet, trokitni lehtë te [%s] për të mësuar se si të vendosni një lidhje të qëndrueshme mes pajisjeve.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Mund të shijoni Audion me rezolucion të lartë duke lidhur një pajisje LDAC nëpërmjet lidhjes Bluetooth. Nëse audioja bën kapërcime ose trafiku i të dhënave nëpërmjet WLAN ndërpritet, trokitni lehtë [%s] për të mësuar se si të vendosni një lidhje të qëndrueshme midis pajisjeve.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Audioja mund të kapërcehet ose trafiku i të dhënave nëpërmjet WLAN mund të shkëputet për shkak të ndërhyrjes në rrjet, pasi lidhja me Bluetooth dhe rrjeti WLAN përdorin të njëjtin brez frekuence (2,4 GHz).
+
+Për një lidhje të qëndrueshme, provoni zgjidhjet në vijim:
+<ul><li>Çaktivizoni WLAN</li>
+<li>Zhvendosuni në një vend ku nuk ka pajisje të tjera të rrjetit që përdorin brezin 2,4 GHz</li>
+<li>Përzgjidhni [Lidhja e preferuar]</li></ul>
+
+Nëse dëshironi të mbani trafikun e të dhënave nëpërmjet WLAN, përzgjidhni [Lidhja e preferuar].</string>
+</resources>

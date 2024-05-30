@@ -1,0 +1,312 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ahc_description">Disfrute de la mejor calidad de sonido, optimizada para sus auriculares y sus preferencias de escucha.
+
+Esta característica analizará los auriculares conectados y sus preferencias de escucha al reproducir música. La experiencia del sonido se optimizará únicamente para usted.</string>
+  <string name="ahc_location">Esto se puede cambiar posteriormente en los ajustes de efectos de sonido.</string>
+  <string name="ahc_location_variable">Se puede cambiar después en %s.</string>
+  <string name="ahc_off">Desactivado</string>
+  <string name="ahc_on">Encendido</string>
+  <string name="ahc_switch_off">DES</string>
+  <string name="ahc_switch_on">ACT</string>
+  <string name="ahc_title">Obtenga siempre el mejor sonido.</string>
+  <string name="ahc_title_accessory_settings">Optimización automática de los auriculares</string>
+  <string name="ahc_title_on_off">Optimización automática</string>
+  <string name="audio_settings_white_list_instruction_txt">El efecto que activó (360 Upmix o DSEE Ultimate) tiene prioridad sobre Dolby Sound para el sonido multimedia de las aplicaciones registradas aquí.</string>
+  <string name="audio_settings_white_list_no_app_txt">No hay aplicaciones añadidas.
+Pulse el botón + para añadir aplicaciones.</string>
+  <string name="audio_settings_white_list_no_apps_to_add_txt">No hay aplicaciones para añadir</string>
+  <string name="audio_settings_white_list_select_app_title_txt">Seleccionar aplicación</string>
+  <string name="audio_settings_white_list_string_add_icon_txt">Añada una aplicación.</string>
+  <string name="audio_settings_white_list_string_btn_add_txt">AÑADIR</string>
+  <string name="audio_settings_white_list_string_delete_txt">Quitar de la lista</string>
+  <string name="audio_settings_white_list_title_txt">Prioridad del efecto</string>
+  <string name="gui_continue_txt">Continuar</string>
+  <string name="notification_description">Obtenga siempre la mejor calidad del sonido, optimizada para sus oídos.</string>
+  <string name="notification_header">Mejore el sonido de auriculares.</string>
+  <string name="permission_dialog_button_go_to_app_info_txt">INFO. DE APLIC.</string>
+  <string name="permission_dialog_message_1_txt">%s necesita el (los) siguiente(s) permiso(s)</string>
+  <string name="permission_dialog_message_2_txt">Para realizar esta acción, la aplicación necesita el (los) siguiente(s) permiso(s).</string>
+  <string name="permission_dialog_message_go_to_settings_txt">Para conceder permisos, vaya a Información de la aplicación &gt; Permisos.</string>
+  <string name="permission_dialog_title_continue_txt">No se pudo continuar</string>
+  <string name="permission_dialog_title_permission_txt">Permiso de %s</string>
+  <string name="search_menu">Buscar ajustes</string>
+  <string name="sound_enhance_strings_accessibility_clear_bass_logo_txt">El logotipo de Clear Bass</string>
+  <string name="sound_enhance_strings_accessibility_clear_bass_txt">Control deslizante para los ajustes de Clear Bass</string>
+  <string name="sound_enhance_strings_accessibility_freq_0_4_txt">Control deslizante para 400 hertzios</string>
+  <string name="sound_enhance_strings_accessibility_freq_16_txt">Control deslizante para 16 kilohertzios</string>
+  <string name="sound_enhance_strings_accessibility_freq_1_0_txt">Control deslizante para 1 kilohertzio</string>
+  <string name="sound_enhance_strings_accessibility_freq_2_5_txt">Control deslizante para 2,5 kilohertzios</string>
+  <string name="sound_enhance_strings_accessibility_freq_6_3_txt">Control deslizante para 6 kilohertzios</string>
+  <string name="sound_enhance_strings_accessibility_minus_10_txt">menos diez</string>
+  <string name="sound_enhance_strings_accessibility_minus_1_txt">menos uno</string>
+  <string name="sound_enhance_strings_accessibility_minus_2_txt">menos dos</string>
+  <string name="sound_enhance_strings_accessibility_minus_3_txt">menos tres</string>
+  <string name="sound_enhance_strings_accessibility_minus_4_txt">menos cuatro</string>
+  <string name="sound_enhance_strings_accessibility_minus_5_txt">menos cinco</string>
+  <string name="sound_enhance_strings_accessibility_minus_6_txt">menos seis</string>
+  <string name="sound_enhance_strings_accessibility_minus_7_txt">menos siete</string>
+  <string name="sound_enhance_strings_accessibility_minus_8_txt">menos ocho</string>
+  <string name="sound_enhance_strings_accessibility_minus_9_txt">menos nueve</string>
+  <string name="sound_enhance_strings_accessibility_nc_off_txt">Cancelación de ruido, desactivada</string>
+  <string name="sound_enhance_strings_accessibility_nc_on_always_txt">Cancelación de ruido, siempre activada</string>
+  <string name="sound_enhance_strings_accessibility_nc_on_auto_txt">Cancelación de ruido, auto</string>
+  <string name="sound_enhance_strings_accessibility_nc_on_simple_txt">Cancelación de ruido, activada</string>
+  <string name="sound_enhance_strings_accessibility_noise_cancel_settings_txt">Ajustes de cancelación de ruido avanzados</string>
+  <string name="sound_enhance_strings_accessibility_plus_10_txt">más diez</string>
+  <string name="sound_enhance_strings_accessibility_plus_1_txt">más uno</string>
+  <string name="sound_enhance_strings_accessibility_plus_2_txt">más dos</string>
+  <string name="sound_enhance_strings_accessibility_plus_3_txt">más tres</string>
+  <string name="sound_enhance_strings_accessibility_plus_4_txt">más cuatro</string>
+  <string name="sound_enhance_strings_accessibility_plus_5_txt">más cinco</string>
+  <string name="sound_enhance_strings_accessibility_plus_6_txt">más seis</string>
+  <string name="sound_enhance_strings_accessibility_plus_7_txt">más siete</string>
+  <string name="sound_enhance_strings_accessibility_plus_8_txt">más ocho</string>
+  <string name="sound_enhance_strings_accessibility_plus_9_txt">más nueve</string>
+  <string name="sound_enhance_strings_accessibility_vpt_list_item_txt">%s. En una lista. Cuatro elementos. Para seleccionar un elemento, desplácese horizontalmente desde el centro de la pantalla.</string>
+  <string name="sound_enhance_strings_accessibility_zero_txt">cero</string>
+  <string name="sound_enhance_strings_accessory_settings_txt">Ajustes de accesorios</string>
+  <string name="sound_enhance_strings_advanced_setting_desc_txt">Ajustar manualmente el ecualizador u otros ajustes</string>
+  <string name="sound_enhance_strings_advanced_setting_title_txt">Ajustes avanzados</string>
+  <string name="sound_enhance_strings_ahc_invalid_txt">La optimización automática no está disponible si DSEE HX está activado. Para habilitar este ajuste, desactive DSEE HX.</string>
+  <string name="sound_enhance_strings_ahc_txt">Optimización automática</string>
+  <string name="sound_enhance_strings_app_name_txt">Ajustes de audio</string>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">El audio se puede entrecortar y el tráfico de datos mediante Wi-Fi se puede desconectar debido a las interferencias de red, ya que la conexión Bluetooth y la red Wi-Fi utilizan la misma banda de frecuencia (2,4 GHz).
+
+Pruebe las siguientes soluciones para conseguir una conexión estable:
+・Desactive el Wi-Fi.
+・Muévase hasta una zona en la que no haya ningún dispositivo de red que utilice la banda de 2,4 GHz.
+・Seleccione [aptX].</string>
+  <string name="sound_enhance_strings_aptx_playback_quality_val_classic_desc_txt">Seguir reproduciendo audio a una velocidad de bits reducida. Utilice esta opción si el audio se entrecorta.</string>
+  <string name="sound_enhance_strings_aptx_playback_quality_val_classic_txt">aptX</string>
+  <string name="sound_enhance_strings_aptx_playback_quality_val_hd_desc_txt">Siga reproduciendo el audio a una elevada velocidad de bits. El audio puede saltar cuando la conexión de Bluetooth se vuelve inestable.</string>
+  <string name="sound_enhance_strings_aptx_playback_quality_val_hd_txt">aptX HD</string>
+  <string name="sound_enhance_strings_audio_accessory_setting_desc_txt">Seleccione un dispositivo de entrada/salida para conectarse (micrófono estéreo STM10, auriculares con cancelación de ruido)</string>
+  <string name="sound_enhance_strings_audio_accessory_setting_title_txt">Accesorios de audio</string>
+  <string name="sound_enhance_strings_audio_device_detect_desc_txt">El dispositivo de audio se ha conectado. Tenga en cuenta que la aplicación para el dispositivo de audio trabaja en segundo plano.</string>
+  <string name="sound_enhance_strings_audio_device_detect_title_txt">Dispositivo de audio conectado</string>
+  <string name="sound_enhance_strings_audio_info_spatial_audio_txt">Acerca de Audio espacial
+Para habilitar la característica 360 Reality Audio, active Audio espacial.
+Dolby Sound no admite Audio espacial.</string>
+  <string name="sound_enhance_strings_audio_info_summary_non_dolby_txt">Mientras reproduce contenido de 360 Reality Audio, la información del contenido tendrá precedencia sobre los ajustes en esta pantalla. El contenido de alta resolución se puede reproducir correctamente cuando 360 Upmix está desactivado.</string>
+  <string name="sound_enhance_strings_audio_info_summary_txt">Mientras reproduce contenido de Dolby Atmos o 360 Reality Audio, la información del contenido tendrá precedencia sobre los ajustes en esta pantalla.
+DSEE Ultimate reproducirá el contenido de alta resolución correctamente. El contenido de alta resolución también se puede reproducir correctamente cuando Dolby Sound y 360 Upmix están desactivados.</string>
+  <string name="sound_enhance_strings_audio_settings_desc_txt">Mejore la experiencia de sonido en Música, Películas, etc.</string>
+  <string name="sound_enhance_strings_audio_settings_description_dolby_dsee_txt">Dolby Atmos, DSEE HX</string>
+  <string name="sound_enhance_strings_audio_settings_description_txt">Puede ampliar su experiencia de sonido</string>
+  <string name="sound_enhance_strings_audio_settings_txt">Ajustes de audio</string>
+  <string name="sound_enhance_strings_auto_effect_summary_txt">El efecto que activó (360 Upmix o DSEE Ultimate) tiene prioridad sobre Dolby Sound para el sonido multimedia de las aplicaciones registradas aquí.</string>
+  <string name="sound_enhance_strings_auto_effect_txt">Prioridad del efecto</string>
+  <string name="sound_enhance_strings_button_got_it_txt">Entendido</string>
+  <string name="sound_enhance_strings_cta_ahc_invalid_desc_txt">Esta opción no está disponible si se ha desactivado el inicio automático. Para habilitarla, active el inicio automático.</string>
+  <string name="sound_enhance_strings_cta_auto_start_desc_txt">Inicie automáticamente la configuración de accesorios en segundo plano cuando estén conectados</string>
+  <string name="sound_enhance_strings_cta_auto_start_txt">Inicio automático</string>
+  <string name="sound_enhance_strings_dolby_atmos_info_txt">Dolby Atmos crea una asombrosa experiencia de audio con sonido multidimensional envolvente</string>
+  <string name="sound_enhance_strings_dolby_atmos_mode_custom_desc_txt">Aplicar sus ajustes de sonido personalizados</string>
+  <string name="sound_enhance_strings_dolby_atmos_mode_custom_title_txt">Personalizado</string>
+  <string name="sound_enhance_strings_dolby_atmos_mode_dynamic_desc_txt">Identifica el contenido y ofrece un sonido único en cada escena automáticamente </string>
+  <string name="sound_enhance_strings_dolby_atmos_mode_dynamic_title_txt">Dinámico</string>
+  <string name="sound_enhance_strings_dolby_atmos_mode_movie_desc_txt">Adecuado para ver una película o un programa de televisión</string>
+  <string name="sound_enhance_strings_dolby_atmos_mode_movie_title_txt">Películas</string>
+  <string name="sound_enhance_strings_dolby_atmos_mode_music_desc_txt">Adecuado para escuchar música</string>
+  <string name="sound_enhance_strings_dolby_atmos_mode_music_title_txt">Música</string>
+  <string name="sound_enhance_strings_dolby_sound_info_txt">Dolby Sound crea una asombrosa experiencia de audio con sonido multidimensional envolvente</string>
+  <string name="sound_enhance_strings_dont_show_again_txt">No mostrar de nuevo</string>
+  <string name="sound_enhance_strings_error_not_available_by_prio_low_txt">Esta función no está disponible porque otra aplicación de efecto de sonido está activa con prioridad superior. Para habilitar la función, vaya a Ajustes &gt; Sonido &gt; Efectos de música y habilite los ajustes de audio.</string>
+  <string name="sound_enhance_strings_error_not_available_by_prio_txt">Esta función no está disponible porque otra aplicación de efecto de sonido está activa con prioridad superior. Para habilitar la función, vaya a Ajustes &gt; Aplicaciones y desinstale la aplicación.</string>
+  <string name="sound_enhance_strings_error_not_available_txt">Los efectos de sonido no están disponibles en este momento.</string>
+  <string name="sound_enhance_strings_for_headphone_setting_txt">Este ajuste solo se aplica a los auriculares. Para escuchar música usando este ajuste, conecte los auriculares al móvil.</string>
+  <string name="sound_enhance_strings_guide_freq_0_4_txt">400</string>
+  <string name="sound_enhance_strings_guide_freq_16_txt">16 kHz</string>
+  <string name="sound_enhance_strings_guide_freq_1_0_txt">1 k</string>
+  <string name="sound_enhance_strings_guide_freq_2_5_txt">2,5 k</string>
+  <string name="sound_enhance_strings_guide_freq_6_3_txt">6 k</string>
+  <string name="sound_enhance_strings_hi_res_audio_desc_txt">Reproduzca audio de alta resolución con un amplificador USB DAC/DAC. Cuando se conecta, se deshabilitan los efectos del sonido.</string>
+  <string name="sound_enhance_strings_hi_res_audio_title_txt">Audio de alta res. por USB</string>
+  <string name="sound_enhance_strings_invalid_due_to_dolby_atmos_txt">Este ajuste no se puede usar con Dolby Atmos. Asegúrese de desactivar Dolby Atmos antes de usar este ajuste.</string>
+  <string name="sound_enhance_strings_invalid_due_to_dolby_sound_txt">Este ajuste no se puede usar con Dolby Sound. Asegúrese de desactivar Dolby Sound antes de usar este ajuste.</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">El audio puede saltar y el tráfico de datos por Wi-Fi se puede desconectar por interferencias de red debido a que la conexión Bluetooth y la red Wi-Fi utilizan la misma banda de frecuencia (2,4 GHz).
+
+Para conseguir una conexión estable, pruebe las siguientes soluciones:
+・ Apague el Wi-Fi.
+・ Vaya a otro lugar en que no haya otro dispositivo de red utilizando la banda de 2,4 GHz.
+・ Seleccione [Mejor esfuerzo].
+
+Si desea conservar el tráfico de datos por Wi-Fi, seleccione [Mejor esfuerzo].
+El audio se reproduce a la velocidad de bits más adecuada en función del entorno de red.</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_title_txt">Calidad de reproducción LDAC</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_val_best_effort_desc_txt">Reproducir audio a la velocidad de bits más adecuada según el entorno de la red</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_val_best_effort_txt">Mejor esfuerzo</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_val_quality_desc_txt">Siga reproduciendo el audio a una elevada velocidad de bits. El audio puede saltar cuando la conexión de Bluetooth se vuelve inestable.</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_val_quality_txt">Calidad de sonido preferida</string>
+  <string name="sound_enhance_strings_notification_5pole_init_desc_txt">Puntee para especificar tipo de dispositivo.</string>
+  <string name="sound_enhance_strings_notification_5pole_init_title_txt">Acces. audio 5 clavijas conectado</string>
+  <string name="sound_enhance_strings_notification_5pole_second_desc_txt">Puntee para cambiar el accesorio.</string>
+  <string name="sound_enhance_strings_notification_audio_settings_txt">Ajustes de audio</string>
+  <string name="sound_enhance_strings_notification_button_nc_on_always_txt">Siempre</string>
+  <string name="sound_enhance_strings_notification_button_nc_on_auto_txt">Auto</string>
+  <string name="sound_enhance_strings_notification_category_audio_accessory_txt">Accesorio de audio</string>
+  <string name="sound_enhance_strings_notification_channel_tips_txt">Consejos</string>
+  <string name="sound_enhance_strings_notification_connected_aptx_avoid_audio_skip_desc_txt">Dispositivo aptX HD conectado en [%1$s]. Puntee aquí para seleccionar [%2$s] si el audio se entrecorta.</string>
+  <string name="sound_enhance_strings_notification_connected_aptx_change_mode_desc_txt">Dispositivo aptX HD conectado en [%s]. Puntee aquí para cambiar el modo.</string>
+  <string name="sound_enhance_strings_notification_connected_aptx_title_txt">Dispositivo aptX HD conectado</string>
+  <string name="sound_enhance_strings_notification_connected_ldac_avoid_audio_skip_desc_txt">Dispositivo LDAC conectado en [%1$s]. Puntee aquí para seleccionar [%2$s] si se omite el audio.</string>
+  <string name="sound_enhance_strings_notification_connected_ldac_change_mode_desc_txt">Dispositivo LDAC conectado en [%s]. Puntee aquí para cambiar el modo.</string>
+  <string name="sound_enhance_strings_notification_connected_ldac_high_quality_desc_txt">Puntee aquí para selec. [%s] si audio salta.</string>
+  <string name="sound_enhance_strings_notification_connected_ldac_high_quality_title_txt">Conectado en [%s]</string>
+  <string name="sound_enhance_strings_notification_connected_ldac_title_txt">Dispositivo LDAC conectado</string>
+  <string name="sound_enhance_strings_notification_nc_desc_txt">Puntee aquí para ir a aj. de Elim. ruido</string>
+  <string name="sound_enhance_strings_notification_nc_headphone_connected_txt">Auriculares con cancelación de ruido conectados</string>
+  <string name="sound_enhance_strings_notification_nc_turn_off_txt">Desactivar</string>
+  <string name="sound_enhance_strings_notification_nc_turn_on_txt">Activar</string>
+  <string name="sound_enhance_strings_notification_nc_txt">Supresión de ruido</string>
+  <string name="sound_enhance_strings_notification_select_headphones_desc_txt">Selecc. auriculares con eliminac. de ruido.</string>
+  <string name="sound_enhance_strings_notification_select_headphones_title_txt">Auriculares conectados</string>
+  <string name="sound_enhance_strings_notification_sound_effects_txt">Efectos de sonido</string>
+  <string name="sound_enhance_strings_notification_stereo_mic_desc_txt">Puntee para seleccionar sensib. micrófono.</string>
+  <string name="sound_enhance_strings_notification_stereo_mic_txt">Micrófono estéreo</string>
+  <string name="sound_enhance_strings_permission_dialog_message_microphone_sub_txt">Para analizar el sonido durante unos segundos y optimizar la calidad del sonido</string>
+  <string name="sound_enhance_strings_reality_audio_summary_txt">Pulse aquí para personalizar la calidad de sonido</string>
+  <string name="sound_enhance_strings_setting_audio_accessory_desc_txt">Ajuste los auriculares conectados, micrófonos, etc.</string>
+  <string name="sound_enhance_strings_setting_audio_accessory_nc_headphone_txt">Auriculares con eliminación de ruido</string>
+  <string name="sound_enhance_strings_setting_audio_accessory_nc_headset2_txt">Auriculares con eliminación de ruido para Xperia</string>
+  <string name="sound_enhance_strings_setting_audio_accessory_nc_headset_txt">Auriculares con eliminación de ruido para Walkman</string>
+  <string name="sound_enhance_strings_setting_audio_accessory_other_txt">Otro</string>
+  <string name="sound_enhance_strings_setting_audio_accessory_stereo_mic_txt">Micrófono estéreo STM10</string>
+  <string name="sound_enhance_strings_setting_audio_accessory_title_txt">Accesorios de audio</string>
+  <string name="sound_enhance_strings_setting_clear_phase_desc_txt">Ajustar automáticamente la calidad del sonido del altavoz interno</string>
+  <string name="sound_enhance_strings_setting_clear_phase_desc_with_variable_txt">Ajustar automáticamente la calidad del sonido de %s</string>
+  <string name="sound_enhance_strings_setting_clear_stereo_desc_txt">Reducir las interferencias entre los canales derecho e izquierdo para reproducir el sonido estéreo original</string>
+  <string name="sound_enhance_strings_setting_clear_stereo_txt">Estéreo nítido</string>
+  <string name="sound_enhance_strings_setting_clearaudio_plus_desc_txt">Optimice los ajustes de sonido.</string>
+  <string name="sound_enhance_strings_setting_clearaudio_plus_txt">ClearAudio+</string>
+  <string name="sound_enhance_strings_setting_detail_txt">Detalles</string>
+  <string name="sound_enhance_strings_setting_dsee_desc_txt">Se actualiza la calidad de archivos de música comprimidos a una calidad próxima a alta resolución restaurando el sonido de rango alto.</string>
+  <string name="sound_enhance_strings_setting_dsee_hx_desc_txt">Mejore la calidad de los archivos de música comprimidos a una calidad de audio próxima a la alta resolución restaurando sonido de rango alto. Este ajuste solo es para auriculares con cable.</string>
+  <string name="sound_enhance_strings_setting_dsee_ultimate_desc_txt">Mejore con tecnología de IA su música comprimida</string>
+  <string name="sound_enhance_strings_setting_dynamic_normalizer_desc_txt">Minimice las diferencias de volumen entre canciones o vídeos.</string>
+  <string name="sound_enhance_strings_setting_dynamic_normalizer_txt">Normalizador dinámico</string>
+  <string name="sound_enhance_strings_setting_exclusive_dsee_desc_txt">Este ajuste no está disponible si DSEE Ultimate está activado. Para habilitarlo, desactive DSEE Ultimate.</string>
+  <string name="sound_enhance_strings_setting_exclusive_dsee_ultimate_desc_txt">Este ajuste no está disponible si DSEE Ultimate está activado. Para habilitarlo, desactive DSEE Ultimate.</string>
+  <string name="sound_enhance_strings_setting_exclusive_spatial_sound_desc_txt">Este ajuste no está disponible si 360 Spatial Sound está activado. Para habilitarlo, desactive 360 Spatial Sound.</string>
+  <string name="sound_enhance_strings_setting_headset_headphone_type_txt">Tipo de auricular/auriculares</string>
+  <string name="sound_enhance_strings_setting_headset_type_txt">Tipo de auriculares</string>
+  <string name="sound_enhance_strings_setting_manual_txt">Personalizar</string>
+  <string name="sound_enhance_strings_setting_noise_cancel_auto_txt">Activado (automático)</string>
+  <string name="sound_enhance_strings_setting_noise_cancel_incorrect_headphones_txt">Seleccione los auriculares en los ajustes correspondientes.</string>
+  <string name="sound_enhance_strings_setting_noise_cancel_not_connect_nc_headphones_txt">Conecte los auriculares con eliminación de ruido.</string>
+  <string name="sound_enhance_strings_setting_noise_cancel_off_txt">Desactivado</string>
+  <string name="sound_enhance_strings_setting_noise_cancel_on_simple_txt">Encendido</string>
+  <string name="sound_enhance_strings_setting_noise_cancel_on_txt">Activado (siempre)</string>
+  <string name="sound_enhance_strings_setting_noise_cancel_txt">Supresión de ruido</string>
+  <string name="sound_enhance_strings_setting_noise_env_airplane_txt">Avión</string>
+  <string name="sound_enhance_strings_setting_noise_env_bus_train_txt">Autobús/tren</string>
+  <string name="sound_enhance_strings_setting_noise_env_office_txt">Oficina</string>
+  <string name="sound_enhance_strings_setting_noise_env_txt">Entorno de ruido</string>
+  <string name="sound_enhance_strings_setting_off_txt">Desactivado</string>
+  <string name="sound_enhance_strings_setting_on_txt">Encendido</string>
+  <string name="sound_enhance_strings_setting_power_save_desc_txt">Se desactiva automáticamente la cancelación de ruido cuando la pantalla está desactivada y no está reproduciendo música.</string>
+  <string name="sound_enhance_strings_setting_power_save_txt">Modo ahorro de energía</string>
+  <string name="sound_enhance_strings_setting_preset_bass_boost_txt">Incremento bajos</string>
+  <string name="sound_enhance_strings_setting_preset_easy_listening_txt">Música ligera</string>
+  <string name="sound_enhance_strings_setting_preset_heavy_txt">Rock</string>
+  <string name="sound_enhance_strings_setting_preset_jazz_txt">Jazz</string>
+  <string name="sound_enhance_strings_setting_preset_off_txt">Desactivado</string>
+  <string name="sound_enhance_strings_setting_preset_pops_txt">Pop</string>
+  <string name="sound_enhance_strings_setting_preset_soul_txt">Soul</string>
+  <string name="sound_enhance_strings_setting_preset_treble_boost_txt">Incremento agudos</string>
+  <string name="sound_enhance_strings_setting_preset_txt">Preajustes del ecualizador</string>
+  <string name="sound_enhance_strings_setting_preset_unique_txt">Único</string>
+  <string name="sound_enhance_strings_setting_s_force3d_desc_txt">Reproducir virtualmente  sonido envolvente realista</string>
+  <string name="sound_enhance_strings_setting_select_headphone_txt">Auriculares</string>
+  <string name="sound_enhance_strings_setting_select_headphone_val_default_txt">General</string>
+  <string name="sound_enhance_strings_setting_sound_effect_desc_txt">Ajuste manualmente las diversas opciones de mejora del sonido.</string>
+  <string name="sound_enhance_strings_setting_sound_effect_txt">Efectos de sonido</string>
+  <string name="sound_enhance_strings_setting_stereo_mic_not_connect_mic_txt">Conecte un micrófono estéreo.</string>
+  <string name="sound_enhance_strings_setting_stereo_mic_txt">Sensibilidad del micrófono</string>
+  <string name="sound_enhance_strings_setting_stereo_mic_val_auto_desc_txt">Optimice automáticamente la sensibilidad del micrófono.</string>
+  <string name="sound_enhance_strings_setting_stereo_mic_val_auto_txt">Auto</string>
+  <string name="sound_enhance_strings_setting_stereo_mic_val_concert_desc_txt">Adecuado para grabar sonido tranquilo o sonido de sala espaciosa (p. ej., conferencias)</string>
+  <string name="sound_enhance_strings_setting_stereo_mic_val_concert_txt">Alto</string>
+  <string name="sound_enhance_strings_setting_stereo_mic_val_conversation_desc_txt">Adecuado para grabar un sonido elevado o un sonido próximo al dispositivo (por ejemplo, conciertos de rock, entrevistas cara a cara)</string>
+  <string name="sound_enhance_strings_setting_stereo_mic_val_conversation_txt">Bajo</string>
+  <string name="sound_enhance_strings_setting_stereo_mic_val_event_desc_txt">Adecuado para grabar el sonido de una conversación normal o el sonido a corta distancia (por ejemplo, fiestas en casa, reuniones)</string>
+  <string name="sound_enhance_strings_setting_stereo_mic_val_event_txt">Medio</string>
+  <string name="sound_enhance_strings_setting_surround_club_desc_txt">Crea el sonido de una sala pequeña.</string>
+  <string name="sound_enhance_strings_setting_surround_club_txt">Club</string>
+  <string name="sound_enhance_strings_setting_surround_concert_hall_desc_txt">Crea el sonido de una sala grande.</string>
+  <string name="sound_enhance_strings_setting_surround_concert_hall_txt">Auditorio</string>
+  <string name="sound_enhance_strings_setting_surround_off_desc_txt">Sin sonido envolvente</string>
+  <string name="sound_enhance_strings_setting_surround_off_txt">Desactivado</string>
+  <string name="sound_enhance_strings_setting_surround_studio_desc_txt">Crea el sonido de un estudio</string>
+  <string name="sound_enhance_strings_setting_surround_studio_txt">Estudio</string>
+  <string name="sound_enhance_strings_setting_surround_txt">Sonido envolvente para auriculares</string>
+  <string name="sound_enhance_strings_setting_title_common_settings_txt">Ajustes comunes</string>
+  <string name="sound_enhance_strings_setting_title_surround_txt">Ajustes de los auriculares</string>
+  <string name="sound_enhance_strings_setting_title_xloud_txt">Ajustes del altavoz</string>
+  <string name="sound_enhance_strings_setting_user_defined_1_txt">Definido por el usuario 1</string>
+  <string name="sound_enhance_strings_setting_user_defined_2_txt">Definido por el usuario 2</string>
+  <string name="sound_enhance_strings_setting_virtual_surround_txt">Sonido envolvente (VPT)</string>
+  <string name="sound_enhance_strings_setting_wind_noise_reduction_demo_txt">Reproducir vídeo de muestra (se recomienda usar auriculares)</string>
+  <string name="sound_enhance_strings_setting_wind_noise_reduction_desc_txt">Suprime el ruido que hace el viento al incidir sobre el micrófono durante la grabación. Con la tecnología de separación de sonido de Sony basada en el aprendizaje automático, puede suprimir el ruido sin perder la calidad de audio original.
+Disponible solo cuando se graba con el micrófono interno.</string>
+  <string name="sound_enhance_strings_setting_wind_noise_reduction_txt">Filtro inteligente de viento</string>
+  <string name="sound_enhance_strings_setting_xloud_desc_txt">Mejorar el volumen del altavoz interno</string>
+  <string name="sound_enhance_strings_setting_xloud_desc_with_variable_txt">Mejorar el volumen de %s</string>
+  <string name="sound_enhance_strings_settings_virtual_surround_desc_txt">Enriquezca la calidad del sonido en la reproduc. de vídeo.</string>
+  <string name="sound_enhance_strings_slice_open_settings_txt">Puntear para ir a Ajustes</string>
+  <string name="sound_enhance_strings_slice_under_sound_effecsts_txt">Para camb. el ajuste puntee y vaya a Efectos sonido.</string>
+  <string name="sound_enhance_strings_sound_enhancements_desc_txt">Ajuste manualmente las diversas opciones de mejora del sonido.</string>
+  <string name="sound_enhance_strings_sound_enhancements_txt">Mejoras de sonido</string>
+  <string name="sound_enhance_strings_sound_settings_txt">Ajustes de sonido</string>
+  <string name="sound_enhance_strings_spatial_sound_desc1_txt">Sin personalizar</string>
+  <string name="sound_enhance_strings_spatial_sound_desc2_txt">Pulse los ajustes de 360 Spatial Sound</string>
+  <string name="sound_enhance_strings_spatial_sound_description_desc_txt">Para mejorar aún más la experiencia, puede optimizar el sonido para que se adapte a sus oídos a través de la aplicación "Sony | Headphones Connect" cuando utiliza auriculares certificados por Sony.</string>
+  <string name="sound_enhance_strings_spatial_sound_description_title_txt">Personalización</string>
+  <string name="sound_enhance_strings_spatial_sound_device_none_txt">Ninguna</string>
+  <string name="sound_enhance_strings_spatial_sound_info_txt">Con la exclusiva tecnología de sonido de Sony, puede disfrutar de sonido espacial e inmersivo con fuentes de sonido estéreo regulares.</string>
+  <string name="sound_enhance_strings_spatial_sound_open_certified_web_page_txt">Audífonos de Sony certificados con el logotipo de 360 Reality Audio</string>
+  <string name="sound_enhance_strings_spatial_sound_open_hpc_app_desc_txt">Personalice su smartphone en los ajustes de 360 Reality Audio de Headphones Connect.</string>
+  <string name="sound_enhance_strings_spatial_sound_open_hpc_app_title_txt">Instalar y personalizar aplicación</string>
+  <string name="sound_enhance_strings_spatial_sound_open_hpc_no_app_desc_txt">Headphones Connect no está instalada. Para instalarla, consulte Acerca de Headphones Connect.</string>
+  <string name="sound_enhance_strings_spatial_sound_open_hpc_web_page_txt">Acerca de Headphones Connect</string>
+  <string name="sound_enhance_strings_spatial_sound_personalized_desc_txt">Después de la personalización a través de Configurac. 360 Reality Audio en la aplicación "Sony | Headphones Connect", su perfil personal se aplicará a este Xperia. Para volver al perfil actual, desactive este ajuste.</string>
+  <string name="sound_enhance_strings_spatial_sound_personalized_title_txt">Personalizado</string>
+  <string name="sound_enhance_strings_spatial_sound_subheader_bt_devices_txt">Auriculares Bluetooth optimizados</string>
+  <string name="sound_enhance_strings_spatial_sound_subheader_wired_devices_txt">Auriculares con cable optimizados</string>
+  <string name="sound_enhance_strings_switch_use_dolby_atmos_txt">Usar Dolby Atmos</string>
+  <string name="sound_enhance_strings_switch_use_dolby_sound_txt">Usar Dolby Sound</string>
+  <string name="sound_enhance_strings_tab_equalizer_txt">Ecualizador</string>
+  <string name="sound_enhance_strings_tab_more_txt">Más</string>
+  <string name="sound_enhance_strings_tab_settings_txt">Ajustes</string>
+  <string name="sound_enhance_strings_tips_notification_subtitle_txt">Puede ampliar su experiencia de sonido</string>
+  <string name="sound_enhance_strings_tips_notification_title_txt">Establecer calidad de sonido preferida</string>
+  <string name="sound_enhance_strings_toast_clear_audio_plus_on_txt">ClearAudio+ está activado</string>
+  <string name="sound_enhance_strings_toast_not_configurable_by_condition_txt">%1$s no se puede configurar mientras %2$s está activado.</string>
+  <string name="sound_enhance_strings_toast_notification_nc_auto_txt">La cancelación de ruido está activada (Auto)</string>
+  <string name="sound_enhance_strings_toast_notification_nc_off_txt">Cancelac. ruido desactivada</string>
+  <string name="sound_enhance_strings_toast_notification_nc_on_simple_txt">Cancelación de ruido activada</string>
+  <string name="sound_enhance_strings_toast_notification_nc_on_txt">La cancelación de ruido está activada (Siempre)</string>
+  <string name="sound_enhance_strings_upmix_summary_txt">Con la exclusiva tecnología de 360 Reality Audio Upmix de Sony, puede disfrutar de sonido espacial e inmersivo con fuentes de sonido estéreo regulares.
+Compruebe 360 Reality Audio para ver más detalles.</string>
+  <string name="sound_enhance_strings_use_service_txt">Utilizar el servicio</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Puede seleccionar el códec que desea utilizar durante la conexión con el dispositivo aptX HD. Si el audio se entrecorta o se interrumpe el tráfico de datos mediante Wi-Fi, puntee [%s] para saber cómo mantener una conexión estable entre los dispositivos.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_attention_txt">Establecer en [%s] si el audio salta con frecuencia</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Puede disfrutar de audio de alta resolución conectando un dispositivo LDAC mediante Bluetooth. Si el audio salta o el tráfico de datos mediante Wi-Fi se interrumpe, puntee [%s] para saber cómo establecer una conexión estable entre los dispositivos.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">El audio puede saltar o el tráfico de datos mediante Wi-Fi puede desconectarse debido a una interferencia de red ya que la conexión Bluetooth y la red Wi-Fi utilizan la misma banda de frecuencia (2,4 GHz).
+
+Para tener una conexión estable, pruebe las soluciones siguientes:
+<ul><li>Desactive Wi-Fi.</li>
+<li>Muévase a un lugar donde no haya otros dispositivos de red que estén utilizando una banda de 2,4 GHz.</li>
+<li>Seleccione [Conexión preferida].</li></ul>
+
+Si desea mantener el tráfico de datos mediante Wi-Fi, seleccione [Conexión preferida].</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_not_connect_ldac_aptx_txt">Conecte un dispositivo LDAC o aptX HD</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_not_connect_ldac_txt">Conectar dispositivo LDAC</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_title_txt">Calidad de reproducción inalámbrica</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_val_best_effort_txt">LDAC (mejor opción)</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_val_connection_txt">Conexión preferida</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_val_quality_preferred_txt">LDAC (calidad sonido preferida)</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_val_quality_txt">Calidad de sonido preferida</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_val_standard_txt">Estándar</string>
+</resources>

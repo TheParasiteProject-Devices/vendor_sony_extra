@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Audio dapat melompat atau lalu lintas data melalui WLAN dapat terputus oleh gangguan jaringan karena sambungan Bluetooth dan jaringan WLAN menggunakan pita frekuensi (2.4GHz) yang sama.
+
+Untuk mendapatkan sambungan yang stabil, cobalah solusi berikut ini:
+・ Matikan WLAN
+・ Pindahkan ke lokasi yang tidak ada perangkat menggunakan pita 2.4GHz
+・ Pilih [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Audio dapat terlewati atau lalu lintas data melalui WLAN dapat terputus disebabkan gangguan jaringan karena sambungan Bluetooth dan jaringan WLAN menggunakan pita frekuensi yang sama (2,4GHz).
+
+Untuk mendapatkan sambungan yang stabil, cobalah solusi berikut:
+・Nonaktifkan WLAN
+・Pindahkan ke tempat di mana tidak ada perangkat jaringan yang menggunakan pita 2,4GHz
+・Pilih [Upaya terbaik]
+
+Jika Anda ingin mempertahankan lalu lintas data melalui WLAN, pilih [Upaya terbaik].
+Audio diputar pada laju bit yang paling tepat tergantung pada lingkungan jaringan.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Anda dapat memilih codec untuk digunakan saat terhubung ke perangkat aptX HD. Jika audio lompat atau lalu lintas data melalui WLAN terputus, ketuk [%s] untuk mempelajari cara membuat sambungan yang stabil antar perangkat.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Anda dapat menikmati Audio Res-Tinggi dengan menyambungkan ke perangkat LDAC lewat Bluetooth. Jika audio terlewati atau lalu lintas data lewat WLAN terganggu, ketuk [%s] untuk mempelajari cara membuat sambungan yang stabil diantara perangkat.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Audio mungkin terlewati atau lalu lintas data lewat WLAN dilepaskan disebabkan gangguan jaringan karena sambungan Bluetooth dan jaringan WLAN menggunakan pita frekuensi yang sama (2,4 GHz).
+
+Untuk sambungan yang stabil, cobalah solusi berikut ini:
+<ul><li>Nonaktifkan WLAN</li>
+<li>Pindahkan ke tempat di mana tidak ada perangkat jaringan lain yang menggunakan pita 2,4GHz</li>
+<li>Pilih [Sambungan pilihan]</li></ul>
+
+Jika Anda ingin tetap memakai lalu lintas data lewat WLAN, pilih [Sambungan pilihan].</string>
+</resources>

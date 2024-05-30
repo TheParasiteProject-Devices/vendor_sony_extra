@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Zvuk môže vynechávať alebo dátový prenos cez WLAN sa môže prerušiť z dôvodu rušenia v sieti, pretože pripojenie Bluetooth a sieť WLAN používajú rovnaké frekvenčné pásmo (2,4 GHz).
+
+Ak chcete zaistiť stabilné pripojenie, vyskúšajte toto:
+・ Vypnite sieť WLAN.
+・ Prejdite na miesto, kde nie je žiadne iné zariadenie využívajúce pásmo 2,4 GHz.
+・ Vyberte [aptX].</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Z dôvodu rušenia siete, ku ktorému dochádza, keď pripojenia Bluetooth a WLAN používajú rovnaký frekvenčný rozsah (2,4 GHz), môže vynechávať zvuk alebo sa môže prerušiť prenos dát cez WLAN.
+
+Ak chcete pripojenie stabilizovať, vyskúšajte tento postup:
+・ Vypnite sieť WLAN.
+・ Prejdite na miesto, kde nie je iné sieťové zariadenie využívajúce rozsah 2,4 GHz.
+・ Vyberte možnosť [Najvyššia kvalita].
+
+Ak chcete dáta naďalej prenášať cez WLAN, vyberte možnosť [Najvyššia kvalita].
+Zvuk sa prehráva s použitím optimálnej bitovej rýchlosti v danej sieti.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Môžete si vybrať kodek, ktorý sa použije pri pripojení k zariadeniu aptX HD. Ak vynecháva zvuk alebo sa dátový prenos cez WLAN preruší, ťuknite na [%s], kde sa dozviete, ako medzi zariadeniami nadviazať stabilné pripojenie.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Pripojením zariadenia LDAC cez Bluetooth si môžete užívať zvuk vo vysokom rozlíšení. Ak začne zvuk vynechávať alebo sa preruší prenos dát cez WLAN, ťuknite na [%s] a prečítajte si, ako medzi zariadeniami nastaviť stabilnejšie pripojenie.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">K vynechávaniu zvuku alebo k prerušeniu prenosu dát cez sieť WLAN dochádza z dôvodu rušenia v sieti, pretože pripojenie Bluetooth a sieť WLAN využívajú rovnaké frekvenčné pásmo (2,4 GHz).
+
+Vyskúšajte niektoré z týchto riešení na stabilizáciu pripojenia:
+<ul><li>Vypnite pripojenie WLAN.</li>
+<li>Presuňte sa na miesto, kde žiadne iné sieťové zariadenia nepoužívajú pásmo 2,4 GHz.</li>
+<li>Vyberte [želané pripojenie].</li></ul>
+
+Ak chcete naďalej využívať dátový prenos cez WLAN, vyberte [želané pripojenie].</string>
+</resources>

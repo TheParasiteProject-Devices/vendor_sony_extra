@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">音訊跳動或透過WLAN的資料傳輸斷線可能是來自於網路干擾，因為藍牙連線及WLAN網路使用的是相同頻帶(2.4GHz)。
+
+若要取得穩定的連線，請嘗試以下解決方案：
+・關閉WLAN
+・移至沒有其他使用2.4GHz頻帶的網路裝置之處
+・選取[aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">由於藍牙連線和WLAN網路使用相同頻帶(2.4GHz)，因此音訊可能會略過，或者WLAN的資料流量可能會因為網路干擾而斷線。
+
+為了取得穩定連線，請嘗試下列解決方案：
+• 關閉WLAN
+• 移至其他位置，並確定該範圍中沒有其他使用2.4GHz頻帶的網路裝置
+• 選取[最佳品質]
+
+如果您要繼續透過WLAN傳輸資料，請選取[最佳品質]。
+已根據網路環境以最適當的位元率播放音訊。</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">您可以在連接至aptX HD裝置時選擇使用CODEC。若音訊跳動或透過WLAN的資料傳輸受到干擾，輕觸[%s]以了解如何在裝置之間建立穩定的連線。</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">您可透過藍牙連接LDAC裝置來享受高解析音訊。若音訊中斷或透過WLAN資料傳輸中斷，請輕觸[%s]了解如何在兩部裝置間建立穩定連線。</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">音訊可能會中斷或透過WLAN的資料傳輸可能會因網路干擾而中斷，因為藍牙連線和WLAN網路使用相同頻帶 (2.4GHz)。
+
+為建立穩定連線，請嘗試下列解決方案：
+<ul><li>關閉WLAN</li>
+<li>移動至沒有其他使用2.4GHz頻帶裝置的位置</li>
+<li>選取[慣用連線]</li></ul>
+
+若您想繼續透過WLAN進行資料傳輸，請選取[慣用連線]。</string>
+</resources>

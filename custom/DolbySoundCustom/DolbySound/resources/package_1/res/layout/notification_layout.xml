@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <androidx.constraintlayout.widget.ConstraintLayout android:background="@android:color/white"
                       android:layout_width="fill_parent"
-                      android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:daxappui2="http://schemas.android.com/apk/res-auto">
+                      android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
   <ImageView android:id="@id/notification_logo_image"
              android:layout_width="wrap_content"
              android:layout_height="wrap_content"
              android:src="@drawable/ic_dolby_vertical_notification"
              android:layout_marginStart="16.0dp"
-             daxappui2:layout_constraintBottom_toBottomOf="@id/notification_logo_text"
-             daxappui2:layout_constraintStart_toStartOf="parent"
-             daxappui2:layout_constraintTop_toTopOf="@id/notification_logo_text" />
+             app:layout_constraintBottom_toBottomOf="@id/notification_logo_text"
+             app:layout_constraintStart_toStartOf="parent"
+             app:layout_constraintTop_toTopOf="@id/notification_logo_text" />
   <TextView android:textSize="12.0sp"
             android:textColor="#192123"
             android:id="@id/notification_logo_text"
@@ -19,8 +19,8 @@
             android:text="@string/dolby_sound"
             android:fontFamily="@font/opensans_regular"
             android:layout_marginStart="10.0dp"
-            daxappui2:layout_constraintStart_toEndOf="@id/notification_logo_image"
-            daxappui2:layout_constraintTop_toTopOf="parent" />
+            app:layout_constraintStart_toEndOf="@id/notification_logo_image"
+            app:layout_constraintTop_toTopOf="parent" />
   <TextView android:textSize="14.0sp"
             android:textColor="#192123"
             android:id="@id/notification_text"
@@ -29,8 +29,8 @@
             android:layout_marginTop="16.0dp"
             android:text="@string/notification_profile"
             android:fontFamily="@font/opensans_regular"
-            daxappui2:layout_constraintStart_toStartOf="@id/notification_logo_image"
-            daxappui2:layout_constraintTop_toBottomOf="@id/notification_logo_image" />
+            app:layout_constraintStart_toStartOf="@id/notification_logo_image"
+            app:layout_constraintTop_toBottomOf="@id/notification_logo_image" />
   <TextView android:textSize="14.0sp"
             android:textColor="#1a73e8"
             android:id="@id/goto_settings"
@@ -40,6 +40,6 @@
             android:layout_marginTop="9.0dp"
             android:text="@string/notification_goto_settings"
             android:fontFamily="@font/opensans_regular"
-            daxappui2:layout_constraintStart_toStartOf="@id/notification_text"
-            daxappui2:layout_constraintTop_toBottomOf="@id/notification_text" />
+            app:layout_constraintStart_toStartOf="@id/notification_text"
+            app:layout_constraintTop_toBottomOf="@id/notification_text" />
 </androidx.constraintlayout.widget.ConstraintLayout>

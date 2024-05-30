@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">A reprodução de áudio poderá falhar ou o tráfego de dados via WLAN poderá desligar-se devido a interferência na rede, uma vez que a ligação Bluetooth e a rede WLAN utilizam a mesma banda de frequência (2,4 GHz).
+
+Para obter uma ligação estável, experimente as seguintes soluções:
+・ Desligar o WLAN
+・ Desloque-se para um local onde não exista um dispositivo de rede a utilizar a banda 2,4 GHz
+・ Selecionar [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">O áudio pode falhar ou o tráfego de dados através de WLAN pode desligar-se devido a interferência na rede, uma vez que a ligação Bluetooth e a rede WLAN utilizam a mesma banda de frequência (2,4 GHz).
+
+Para obter uma ligação estável, experimente as seguintes soluções:
+・ Desligar o WLAN
+・ Deslocar-se para um local onde não exista outro dispositivo de rede que utilize a banda 2,4 GHz
+・ Selecionar [Melhor resultado]
+
+Se pretender manter o tráfego de dados através de WLAN, selecione [Melhor resultado].
+A reprodução de áudio é efetuada à velocidade de bits mais adequada consoante o ambiente de rede.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Pode selecionar o coedc para utilizar quando ligado ao dispositivo aptX HD. Se a reprodução de áudio falhar ou o tráfego de dados via WLAN for interrompido, toque em [%s] para saber como estabelecer uma ligação estável entre os dispositivos.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Desfrute do Áudio de Alta Resolução ao ligar um dispositivo LDAC via ligação Bluetooth. Se o áudio falhar ou o tráfego de dados via WLAN for interrompido, toque em [%s] para saber como estabelecer uma ligação estável entre os dispositivos.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">O áudio poderá falhar ou o tráfego de dados via WLAN poderá desligar-se devido a interferência na rede, dado que a ligação Bluetooth e a rede WLAN utilizam a mesma banda de frequência (2,4 GHz).
+
+Para uma ligação estável, experimente as seguintes soluções:
+<ul><li>Desative o WLAN</li>
+<li>Desloque-se para um lugar onde não existam outros dispositivos de rede a utilizar a banda de 2,4 GHz</li>
+<li>Selecione [Ligação preferida]</li></ul>
+
+Se desejar manter o tráfego de dados via WLAN, selecione [Ligação preferida].</string>
+</resources>

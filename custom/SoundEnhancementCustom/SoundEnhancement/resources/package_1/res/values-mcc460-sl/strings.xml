@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Zvok bo morda preskakoval ali pa bo prenos podatkov prek omrežja WLAN morda prekinjen zaradi motenj v omrežju, ker povezava Bluetooth in omrežje WLAN uporabljata enak frekvenčni pas (2,4GHz).
+
+Če želite stabilno povezavo, upoštevajte ta priporočila:
+・ Izklopite WLAN.
+・ Premaknite se na mesto, kjer nobena druga omrežna naprava ne uporablja pasu 2,4 GHz.
+・ Izberite [aptX].</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Zvok bo morda preskakoval ali pa bo prenos podatkov prek omrežja WLAN morda prekinjen zaradi motenj v omrežju, ker povezava Bluetooth in omrežje WLAN uporabljata enak frekvenčni pas (2,4GHz).
+
+Če želite stabilno povezavo, upoštevajte ta priporočila:
+・ Izklopite WLAN.
+・ Premaknite se na mesto, kjer nobena druga omrežna naprava ne uporablja pasu 2,4 GHz.
+・ Izberite [Najboljši možen način].
+
+Če želite ohraniti prenos podatkov prek omrežja WLAN, izberite [Najboljši možen način].
+Zvok bo predvajan pri najbolj primerni bitni hitrosti glede na omrežno okolje.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Ko imate vzpostavljeno povezavo z napravo aptX HD, lahko izberete kodek, ki ga želite uporabiti. Če zvok preskakuje ali je prenos podatkov prek omrežja WLAN prekinjen, tapnite [%s], da prikažete navodila za vzpostavitev stabilne povezave med napravama.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Vzpostavite povezavo z napravo LDAC prek povezave Bluetooth in uživajte pri predvajanju zvoka v visoki ločljivosti. Če zvok preskakuje ali je prekinjen prenos podatkov prek omrežja WLAN, tapnite [%s], da boste izvedeli več informacij o vzpostavljanju zanesljive povezave med napravama.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Zvok morda preskakuje ali pa je prenos podatkov prek omrežja WLAN prekinjen zaradi motenj v omrežju, ker povezava Bluetooth in omrežje WLAN uporabljata isti frekvenčni pas (2,4GHz).
+
+Upoštevajte priporočila za zanesljivo povezavo:
+<ul><li>Izklopite WLAN</li>
+<li>Poskrbite, da v bližini ni drugih omrežnih naprav, ki uporabljajo pas 2,4 GHz</li>
+<li>Izberite [Prednostna povezava]</li></ul>
+
+Če želite ohraniti prenos podatkov prek omrežja WLAN, izberite [Prednostna povezava].</string>
+</resources>

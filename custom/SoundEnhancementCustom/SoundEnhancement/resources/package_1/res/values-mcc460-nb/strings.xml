@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Lyden kan hoppe eller datatrafikken via WLAN kan frakobles på grunn av nettverksstøy, fordi Bluetooth-tilkoblingen og WLAN-nettverk bruker samme frekvensbånd (2,4 GHz).
+
+Prøv følgende løsninger for å oppnå en stabil tilkobling:
+・ Slå av WLAN
+・ Flytt til et sted der ingen andre nettverksenheter benytter 2,4 GHz-båndet
+・ Velg [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Lyden kan hoppe eller datatrafikken via WLAN kan frakobles på grunn av nettverksinterferens, siden Bluetooth-tilkoblingen og WLAN-nettverk bruker samme frekvensbånd (2,4 GHz).
+
+For å få en stabil tilkobling prøv følgende løsninger:
+・ Slå av WLAN
+・ Flytt til et sted der ingen andre nettverksenheter bruker 2,4 GHz-båndet
+・ Velg [Best innsats]
+
+Hvis du vil beholde datatrafikken via WLAN, velg [Best innsats]. 
+Lyden spilles i bithastigheten som passer best avhengig av nettverksmiljøet.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Du kan velge kodeken som skal brukes ved tilkobling til aptX HD-enheten. Hvis lyden hopper eller datatrafikk via WLAN forstyrres, kan du trykke på [%s] for å lese hvordan du oppretter en stabil forbindelse mellom enhetene.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Du kan nyte høyoppløselig lyd ved koble til en LDAC-enhet via Bluetooth. Hvis lyden avbrytes eller datatrafikken via WLAN forstyrres, trykk på [%s] for å lære hvordan du oppretter en stabil tilkobling mellom enhetene.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Lyden kan avbrytes eller datatrafikken via WLAN kan frakobles på grunn av nettverksstøy siden Bluetooth-tilkoblinger og WLAN-nettverk bruker samme frekvensbånd (2,4 GHz).
+
+For en stabil tilkobling, prøv følgende løsninger:
+<ul><li>Slå av WLAN</li>
+<li>Flytt til et sted der det ikke er noen andre nettverksenheter som bruker 2,4 GHz-båndet</li>
+<li>Velg [Tilkobling prioritert]</li></ul>
+
+Hvis du vil beholde datatrafikken via WLAN, velg [Tilkobling prioritert].</string>
+</resources>

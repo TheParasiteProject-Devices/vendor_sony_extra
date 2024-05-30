@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<manifest android:versionCode="1"
+          android:versionName="1.0"
+          android:compileSdkVersion="34"
+          android:compileSdkVersionCodename="14"
+          package="com.sonyericsson.soundenhancement"
+          platformBuildVersionCode="34"
+          platformBuildVersionName="14" xmlns:android="http://schemas.android.com/apk/res/android">
+  <uses-sdk android:minSdkVersion="34"
+            android:targetSdkVersion="33" />
+  <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+  <uses-permission android:name="android.permission.READ_SEARCH_INDEXABLES" />
+  <uses-permission android:name="android.permission.RECORD_AUDIO" />
+  <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE" />
+  <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+  <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS" />
+  <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL" />
+  <uses-permission android:name="android.permission.MANAGE_USERS" />
+  <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+  <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+  <uses-permission android:name="com.dolby.permission.DOLBY_UPDATE_BROADCAST" />
+  <uses-permission android:name="com.dolby.permission.DAXSERVICE" />
+  <uses-permission android:name="android.permission.CHANGE_COMPONENT_ENABLED_STATE" />
+  <uses-permission android:name="com.sonymobile.gameenhancer.provider.permission.READ_STATUS" />
+  <uses-permission android:name="jp.co.sony.threesixtyra.system.permission.ACCESS" />
+  <permission android:name="com.sonyericsson.soundenhancement.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              android:protectionLevel="signature" />
+  <uses-permission android:name="com.sonyericsson.soundenhancement.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+  <application android:theme="@style/DefaultTheme"
+               android:label="@string/sound_enhance_strings_app_name_txt"
+               android:icon="@drawable/sound_enhance_application_icn"
+               android:allowBackup="false"
+               android:supportsRtl="true"
+               android:extractNativeLibs="true"
+               android:resizeableActivity="true"
+               android:supportsPictureInPicture="false"
+               android:defaultToDeviceProtectedStorage="true"
+               android:directBootAware="true"
+               android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+               android:usesNonSdkApi="true">
+    <uses-library android:name="com.sonyericsson.idd" />
+    <activity android:theme="@android:style/Theme.NoDisplay"
+              android:label="@string/sound_enhance_strings_app_name_txt"
+              android:name="com.sonyericsson.soundenhancement.SoundEnhancementRedirector"
+              android:exported="true"
+              android:screenOrientation="behind"
+              android:configChanges="keyboard|keyboardHidden">
+      <intent-filter>
+        <action android:name="android.media.action.DISPLAY_AUDIO_EFFECT_CONTROL_PANEL" />
+        <category android:name="android.intent.category.DEFAULT" />
+      </intent-filter>
+    </activity>
+    <activity android:theme="@style/DefaultTheme"
+              android:label="@string/sound_enhance_strings_audio_settings_txt"
+              android:name="com.sonyericsson.soundenhancement.AudioEffectMenuActivity"
+              android:exported="true"
+              android:screenOrientation="behind"
+              android:configChanges="keyboard|keyboardHidden">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.MONKEY_AudioEffectMenu" />
+      </intent-filter>
+    </activity>
+    <activity android:theme="@style/DefaultTheme"
+              android:label="@string/sound_enhance_strings_audio_settings_txt"
+              android:name="com.sonyericsson.soundenhancement.AudioEffectMenuForAudioActivity"
+              android:exported="true"
+              android:screenOrientation="behind"
+              android:configChanges="keyboard|keyboardHidden">
+      <meta-data android:name="com.sonymobile.settings.preference.TITLE"
+                 android:resource="@string/sound_enhance_strings_audio_settings_txt" />
+      <meta-data android:name="com.sonymobile.settings.preference.SUMMARY"
+                 android:resource="@string/sound_enhance_strings_audio_settings_description_txt" />
+    </activity>
+    <activity android:theme="@style/DefaultTheme"
+              android:label="@string/sound_enhance_strings_audio_settings_txt"
+              android:name="com.sonyericsson.soundenhancement.AudioEffectMenuForDolbyAudioActivity"
+              android:enabled="false"
+              android:exported="true"
+              android:screenOrientation="behind"
+              android:configChanges="keyboard|keyboardHidden">
+      <meta-data android:name="com.sonymobile.settings.preference.TITLE"
+                 android:resource="@string/sound_enhance_strings_audio_settings_txt" />
+      <meta-data android:name="com.sonymobile.settings.preference.SUMMARY"
+                 android:resource="@string/sound_enhance_strings_audio_settings_description_txt" />
+    </activity>
+    <activity android:theme="@style/DefaultSwitchBarTheme"
+              android:label="@string/sound_enhance_strings_dolby_sound_txt"
+              android:name="com.sonyericsson.soundenhancement.DolbyEffectActivity"
+              android:exported="true"
+              android:screenOrientation="behind"
+              android:configChanges="keyboard|keyboardHidden" />
+    <activity android:theme="@style/DefaultTheme"
+              android:label="@string/sound_enhance_strings_mpegh_optimization_txt"
+              android:name="com.sonyericsson.soundenhancement.MpeghOptimizationActivity"
+              android:exported="true"
+              android:screenOrientation="behind"
+              android:configChanges="keyboard|keyboardHidden" />
+    <activity android:theme="@style/DefaultSwitchBarTheme"
+              android:label="@string/sound_enhance_strings_setting_wind_noise_reduction_txt"
+              android:name="com.sonyericsson.soundenhancement.WindNoiseReductionActivity"
+              android:exported="true"
+              android:screenOrientation="behind"
+              android:configChanges="keyboard|keyboardHidden" />
+    <activity android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+              android:name="com.sonyericsson.soundenhancement.WindNrDemoVideoActivity"
+              android:exported="true"
+              android:screenOrientation="sensorLandscape"
+              android:configChanges="keyboard|keyboardHidden" />
+    <activity android:theme="@style/DefaultSwitchBarTheme"
+              android:label="@string/sound_enhance_strings_spatial_sound_txt"
+              android:name="com.sonyericsson.soundenhancement.SpatialSoundActivity"
+              android:exported="true"
+              android:screenOrientation="behind"
+              android:configChanges="keyboard|keyboardHidden" />
+    <activity android:label="@string/audio_settings_white_list_select_app_title_txt"
+              android:name="com.sonyericsson.soundenhancement.EffectPriority.SelectAppActivity"
+              android:configChanges="orientation|screenSize" />
+    <activity android:label="@string/audio_settings_white_list_title_txt"
+              android:name="com.sonyericsson.soundenhancement.EffectPriority.TargetAppListActivity"
+              android:exported="true"
+              android:configChanges="orientation|screenSize" />
+    <receiver android:name="com.sonyericsson.soundenhancement.SoundEnhancementReceiver"
+              android:exported="true">
+      <intent-filter>
+        <action android:name="com.sonymobile.media.intent.action.ACTION_AUDIO_SETTINGS_UPDATED_WITH_USER_SWTICH" />
+        <action android:name="com.sonyericsson.idd.CONFIG_UPDATED" />
+        <action android:name="com.dolby.intent.action.DAP_PARAMS_UPDATE" />
+        <action android:name="com.sonymobile.action.BT_CPLIST_UPDATED" />
+        <action android:name="com.sonymobile.action.CREATE_HRTF" />
+        <action android:name="com.sonymobile.action.CREATE_CP" />
+        <action android:name="com.sonymobile.intent.action.USER_REMOVED" />
+      </intent-filter>
+    </receiver>
+    <service android:name="com.sonyericsson.soundenhancement.SoundEnhancementService"
+             android:exported="true" />
+    <provider android:name="com.sonyericsson.soundenhancement.SoundEnhancementSearchIndexablesProvider"
+              android:permission="android.permission.READ_SEARCH_INDEXABLES"
+              android:exported="true"
+              android:multiprocess="false"
+              android:authorities="com.sonyericsson.soundenhancement"
+              android:grantUriPermissions="true">
+      <intent-filter>
+        <action android:name="android.content.action.SEARCH_INDEXABLES_PROVIDER" />
+      </intent-filter>
+    </provider>
+    <provider android:name="com.sonyericsson.soundenhancement.audioeffect.SettingsProvider"
+              android:exported="true"
+              android:authorities="com.sonyericsson.soundenhancement.audioeffect.settingsprovider" />
+    <provider android:name="com.sonyericsson.soundenhancement.SoundSliceProvider"
+              android:exported="true"
+              android:authorities="com.sonyericsson.soundenhancement.slice">
+      <intent-filter>
+        <action android:name="android.intent.action.VIEW" />
+        <category android:name="android.app.slice.category.SLICE" />
+      </intent-filter>
+    </provider>
+    <receiver android:name="com.sonyericsson.soundenhancement.NotificationBootReceiver"
+              android:exported="true">
+      <intent-filter>
+        <action android:name="android.intent.action.BOOT_COMPLETED" />
+        <action android:name="android.intent.action.LOCALE_CHANGED" />
+      </intent-filter>
+    </receiver>
+    <service android:name="com.sonyericsson.soundenhancement.NotificationJobScheduler"
+             android:permission="android.permission.BIND_JOB_SERVICE"
+             android:exported="true" />
+    <receiver android:name="androidx.remotecallback.ProviderRelayReceiver" />
+    <activity android:name="androidx.slice.compat.SlicePermissionActivity"
+              android:excludeFromRecents="true" />
+    <provider android:name="androidx.startup.InitializationProvider"
+              android:exported="false"
+              android:authorities="com.sonyericsson.soundenhancement.androidx-startup">
+      <meta-data android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                 android:value="androidx.startup" />
+    </provider>
+    <receiver android:name="androidx.profileinstaller.ProfileInstallReceiver"
+              android:permission="android.permission.DUMP"
+              android:enabled="true"
+              android:exported="true"
+              android:directBootAware="false">
+      <intent-filter>
+        <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+      </intent-filter>
+      <intent-filter>
+        <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+      </intent-filter>
+      <intent-filter>
+        <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+      </intent-filter>
+      <intent-filter>
+        <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<LinearLayout android:orientation="vertical"
+              android:id="@id/dolby_effect_menu"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+  <com.sonyericsson.soundenhancement.switchbar.SwitchBar android:theme="?attr/switchBarTheme"
+                        android:id="@id/switch_bar"
+                        android:layout_width="fill_parent"
+                        android:layout_height="?android:attr/actionBarSize" />
+  <include android:id="@id/dolby_settinglist"
+           layout="@layout/settinglist" />
+</LinearLayout>

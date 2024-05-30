@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">O áudio pode falhar ou o tráfego de dados via WLAN pode ser desconectado devido a interferências de rede, uma vez que a conexão Bluetooth e a rede WLAN usam a mesma banda de frequência (2.4GHz).
+
+Para uma conexão estável, tente as seguintes soluções:
+・ Desative o WLAN
+・ Afaste-se de qualquer dispositivo de rede que use a banda de 2.4GHz
+・ Selecione [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">O áudio pode falhar ou o tráfego de dados via WLAN pode ser desconectado devido a interferências na rede, já que a conexão Bluetooth e a rede WLAN usam a mesma banda de frequência (2,4GHz).
+
+Para uma conexão estável, tente as seguintes soluções:
+・ Desative o WLAN
+・ Vá para um lugar onde não haja outros dispositivos de rede usando a banda 2,4 GHz
+・ Selecione [Melhor esforço]
+
+Se quiser manter o tráfego de dados via WLAN, selecione [Melhor esforço].
+O áudio é reproduzido na taxa de bits mais adequada de acordo com o ambiente de rede.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Você pode escolher o codec a ser usado ao se conectar ao dispositivo aptX HD. Se o áudio falhar ou o tráfego de dados via WLAN for interrompido, toque em [%s] para saber como estabelecer uma conexão estável entre os dispositivos.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Você pode apreciar áudio de alta qualidade conectando um dispositivo LDAC via conexão Bluetooth. Se o áudio pular ou o tráfego de dados via WLAN for interrompido, toque em [%s] para aprender a estabelecer uma ligação estável entre os dispositivos.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">O áudio pode pular ou o tráfego de dados via WLAN pode ser desligado devido a uma interferência na rede já que a conexão Bluetooth e rede WLAN usam a mesma banda de frequência (2,4 GHz).
+
+Para uma conexão estável, tente as seguintes soluções:
+<ul><li>Desligue o WLAN</li>
+<li>Mova-se para um lugar onde não hajam outros dispositivos de rede usando banda de 2,4 GHz</li>
+<li>Selecione [Conexão preferida]</li></ul>
+
+Se você quiser manter o tráfego de dados via WLAN, selecione [Conexão preferida].</string>
+</resources>

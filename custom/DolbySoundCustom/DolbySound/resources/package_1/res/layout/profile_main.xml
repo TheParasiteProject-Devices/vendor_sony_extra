@@ -2,7 +2,7 @@
 <androidx.constraintlayout.widget.ConstraintLayout android:background="@color/colorPrimary"
                       android:layout_width="fill_parent"
                       android:layout_height="fill_parent"
-                      daxappui2:layout_behavior="@string/appbar_scrolling_view_behavior" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:daxappui2="http://schemas.android.com/apk/res-auto">
+                      app:layout_behavior="@string/appbar_scrolling_view_behavior" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
   <FrameLayout android:id="@id/containerView"
                android:layout_width="fill_parent"
                android:layout_height="fill_parent" />

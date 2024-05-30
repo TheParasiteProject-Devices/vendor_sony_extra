@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Sunetul sau traficul de date prin WLAN poate fi întrerupt din cauza interferenţelor reţelei deoarece conexiunea Bluetooth şi reţeaua WLAN utilizează aceeaşi bandă de frecvenţă (2,4 GHz).
+
+Pentru a avea o conexiune stabilă, încercaţi soluţiile următoare:
+・ Dezactivaţi WLAN
+・ Mutaţi-vă într-un loc în care nu există alt dispozitiv în reţea care să utilizeze banda de 2,4 GHz
+・ Selectaţi [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Sunetul sau traficul de date prin WLAN poate fi întrerupt din cauza interferenţelor reţelei deoarece conexiunea Bluetooth şi reţeaua WLAN utilizează aceeaşi bandă de frecvenţă (2,4 GHz).
+
+Pentru a avea o conexiune stabilă, încercaţi soluţiile următoare:
+・ Activaţi WLAN
+・ Mutaţi-vă într-un loc în care nu există alt dispozitiv în reţea care să utilizeze banda de 2,4 GHz
+・ Selectaţi [Maxim]
+
+Dacă doriţi să menţineţi traficul de date prin WLAN, selectaţi [Maxim].
+Sunetul este redat la cel mai potrivit raport de biţi, în funcţie de mediul reţelei.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Puteţi să selectaţi codecul de utilizat când este conectat dispozitivul aptX HD. Dacă sunetul are sincope sau traficul de date prin WLAN se întrerupe, atingeţi uşor [%s] pentru a învăţa cum să stabiliţi o conexiune stabilă între dispozitive.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Puteţi beneficia de sunet la rezoluţie ridicată conectând un dispozitiv LDAC printr-o conexiune Bluetooth. Dacă sunetul este intermitent sau dacă traficul de date prin WLAN este întrerupt, atingeţi uşor [%s] pentru a afla cum se realizează o conexiune stabilă între dispozitive.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Sunetul poate fi intermitent sau traficul de date prin WLAN poate fi întrerupt din cauza interferenţelor de reţea, deoarece conexiunea Bluetooth şi reţeaua WLAN utilizează aceeaşi bandă de frecvenţă (2,4 GHz).
+
+Pentru a avea o conexiune stabilă, încercaţi soluţiile următoare:
+<ul><li>dezactivaţi WLAN;</li>
+<li>mutaţi-vă într-un loc în care nu există alte dispozitive de reţea care utilizează banda de 2,4 GHz;</li>
+<li>selectaţi [Conexiune preferată].</li></ul>
+
+Dacă doriţi să menţineţi traficul de date prin WLAN, selectaţi [Conexiune preferată].</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Aufgrund von Netzwerkinterferenzen kann das Audio springen oder der Datenverkehr über WLAN unterbrochen werden, da die Bluetooth-Verbindung und das WLAN-Netzwerk denselben Frequenzbereich verwenden (2,4 GHz).
+
+Versuchen Sie Folgendes, um eine stabile Verbindung zu erlangen:
+・ Schalten Sie WLAN aus
+・ Gehen Sie zu einer Stelle, an der keine anderen Netzwerkgeräte vorhanden sind, die den Frequenzbereich 2,4 GHz nutzen
+・ Wählen Sie [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Aufgrund von Netzwerkinterferenzen kann das Audio springen oder der Datenverkehr über WLAN unterbrochen werden, da die Bluetooth-Verbindung und das WLAN-Netzwerk denselben Frequenzbereich verwenden (2,4 GHz).
+
+Versuchen Sie Folgendes, um eine stabile Verbindung zu erlangen:
+・ Schalten Sie WLAN aus
+・ Gehen Sie zu einer Stelle, an der kein anderes Netzwerkgerät vorhanden sind, das den Frequenzbereich 2,4 GHz nutzt
+・ Wählen Sie [Mindestqualität] aus
+
+Wenn der Datenverkehr weiterhin über WLAN erfolgen soll, wählen Sie [Mindestqualität] aus.
+Das Audio wird mit der für die jeweilige Netzwerkumgebung geeignetsten Bitrate abgespielt.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Sie können den Codec auswählen, der verwendet werden soll, wenn das aptX HD-Gerät verbunden ist. Falls das Audio springt oder die Datenübertragung über WLAN unterbrochen wird, tippen Sie auf [%s], um zu erfahren, wie Sie eine stabile Verbindung zwischen den Geräten herstellen können.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Wenn Sie ein LDAC-Gerät über Bluetooth verbinden, kommen Sie in den Genuss einer hochauflösenden Audioqualität. Sollte das Audio springen oder der Datenverkehr über WLAN unterbrochen werden, tippen Sie auf [%s], um zu erfahren, wie Sie eine stabile Verbindung zwischen den Geräten herstellen.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Aufgrund von Netzwerkinterferenzen kann das Audio springen oder der Datenverkehr über WLAN unterbrochen werden, da die Bluetooth-Verbindung und das WLAN-Netzwerk denselben Frequenzbereich verwenden (2,4 GHz).
+
+Versuchen Sie Folgendes, um eine stabile Verbindung zu erlangen:
+<ul><li> Schalten Sie WLAN aus</li>
+<li>Gehen Sie zu einer Stelle, an der keine anderen Netzwerkgeräte vorhanden sind, die den Frequenzbereich 2,4 GHz nutzen</li>
+<li>Wählen Sie [Verbindung bevorzugt aus]</li></ul>
+
+Wenn der Datenverkehr weiterhin über WLAN erfolgen soll, wählen Sie [Verbindung bevorzugt] aus.</string>
+</resources>

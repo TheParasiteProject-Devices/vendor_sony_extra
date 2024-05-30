@@ -31,10 +31,6 @@
               android:configChanges="keyboardHidden|orientation|screenSize">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
-        <action android:name="android.media.action.DISPLAY_AUDIO_EFFECT_CONTROL_PANEL" />
-        <action android:name="android.media.action.OPEN_AUDIO_EFFECT_CONTROL_SESSION" />
-        <category android:name="android.intent.category.DEFAULT" />
-        <category android:name="android.intent.category.CATEGORY_CONTENT_MUSIC" />
       </intent-filter>
       <intent-filter android:priority="1">
         <action android:name="com.dolby.LAUNCH_DS_APP" />

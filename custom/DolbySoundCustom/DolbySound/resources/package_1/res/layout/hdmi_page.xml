@@ -2,13 +2,13 @@
 <androidx.constraintlayout.widget.ConstraintLayout android:id="@id/hdmi_layout"
                       android:background="#161819"
                       android:layout_width="fill_parent"
-                      android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:daxappui2="http://schemas.android.com/apk/res-auto">
+                      android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
   <RelativeLayout android:layout_width="wrap_content"
                   android:layout_height="wrap_content"
-                  daxappui2:layout_constraintBottom_toBottomOf="parent"
-                  daxappui2:layout_constraintEnd_toEndOf="parent"
-                  daxappui2:layout_constraintStart_toStartOf="parent"
-                  daxappui2:layout_constraintTop_toTopOf="parent">
+                  app:layout_constraintBottom_toBottomOf="parent"
+                  app:layout_constraintEnd_toEndOf="parent"
+                  app:layout_constraintStart_toStartOf="parent"
+                  app:layout_constraintTop_toTopOf="parent">
     <ImageView android:id="@id/Hdmi_image"
                android:layout_width="wrap_content"
                android:layout_height="wrap_content"

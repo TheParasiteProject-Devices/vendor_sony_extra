@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Ljudet kan hoppa eller datatrafiken via WLAN avbrytas på grund av nätverksstörningar eftersom Bluetooth-anslutningen och WLAN-nätverket använder samma frekvensband (2,4 GHz).
+
+Testa följande lösningar för att göra anslutningen stabil:
+・ Stäng av WLAN
+・ Flytta dig till en plats där ingen annan nätverksenhet använder 2,4 GHz-bandet
+・ Välj [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Ljudet kan hacka eller datatrafik via WLAN kan kopplas från på grund av nätverksstörningar eftersom Bluetooth-anslutningen och WLAN-nätverket använder samma frekvensband (2,4 GHz).
+
+Prova följande lösningar för en stabil anslutning:
+・ Stäng av WLAN
+・ Se till att inga andra nätverksenheter som använder 2,4 GHz-bandet finns i närheten
+・ Välj [Bästa kombination]
+
+Om du vill fortsätta att använda datatrafik via WLAN väljer du [Bästa kombination].
+Ljudet spelas upp med lämplig bithastighet baserat på nätverksmiljön.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Du kan välja kodeken för användning när aptX HD-enheten är ansluten. Om ljudet hoppar eller datatrafiken via WLAN avbryts trycker du på [%s] för att lära dig hur du upprättar en stabil anslutning mellan enheterna.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Du kan njuta av högupplöst ljud genom att ansluta en LDAC-enhet via Bluetooth-anslutningen. Om ljudet hackar eller om datatrafiken via WLAN avbryts trycker du på [%s] för mer information om att skapa en stabil anslutning mellan enheterna.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Ljudet kan hacka eller WLAN-datatrafiken kan kopplas bort på grund av nätverksstörningar, eftersom Bluetooth-anslutningar och WLAN-nätverk använder samma frekvensband (2,4 GHz).
+
+Försök med följande för en stabil anslutning:
+<ul><li>Stäng av WLAN</li>
+<li>Flytta till en plats där det inte finns andra nätverksenheter som använder 2,4 GHz-bandet</li>
+<li>Välj [Anslutning prioriterad]</li></ul>
+
+Om du vill använda WLAN för datatrafiken väljer du [Prioriterad anslutning].</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Do przerywania dźwięku lub transmisji danych przez sieć WLAN może dochodzić wskutek zakłóceń sieciowych, ponieważ połączenie Bluetooth i sieć WLAN używają tego samego pasma częstotliwości (2,4 GHz).
+
+Aby uzyskać stabilne połączenie, spróbuj użyć następujących sposobów:
+・ wyłącz funkcję WLAN;
+・przejdź do miejsca, w którym nie ma innych urządzeń działających w sieci w paśmie 2,4 GHz;
+・wybierz pozycję [aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Do przerywania dźwięku lub transmisji danych przez sieć WLAN może dochodzić wskutek zakłóceń sieciowych, ponieważ połączenie Bluetooth i sieć WLAN używają tego samego pasma częstotliwości (2,4 GHz).
+
+Aby uzyskać stabilne połączenie, spróbuj użyć następujących sposobów:
+・ wyłącz funkcję WLAN;
+・przejdź do miejsca, w którym nie ma innych urządzeń działających w sieci w paśmie 2,4 GHz;
+・wybierz pozycję [Optymalnie].
+
+Jeżeli wolisz utrzymać ruch danych w sieci WLAN, wybierz pozycję [Optymalnie].
+Dźwięk jest odtwarzany z optymalną przepływnością dla danego środowiska sieciowego.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">Podczas połączenia z urządzeniem obsługującym aptX HD możesz wybrać kodek. Jeżeli dźwięk jest przerywany lub występują zakłócenia transferu danych przez sieć WLAN, stuknij [%s], aby dowiedzieć się, jak nawiązać stabilne połączenie między urządzeniami.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Aby słuchać dźwięku o wysokiej rozdzielczości, podłącz urządzenie LDAC przez Bluetooth. Jeżeli dźwięk jest przerywany lub występują zakłócenia transferu danych przez WLAN, stuknij [%s], aby dowiedzieć się, jak nawiązać stabilne połączenie między urządzeniami.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Do przerywania dźwięku lub transmisji danych przez sieć WLAN może dochodzić wskutek zakłóceń sieciowych, ponieważ połączenie Bluetooth i sieć WLAN używają tego samego pasma częstotliwości (2,4 GHz).
+
+Aby uzyskać stabilne połączenie, spróbuj użyć następujących sposobów:
+<ul><li>wyłącz funkcję WLAN;</li>
+<li>przejdź do miejsca, w którym nie ma innych urządzeń działających w sieci w paśmie 2,4 GHz;</li>
+<li>wybierz [Prefer. połączenie].</li></ul>
+
+Jeżeli wolisz utrzymać ruch danych w sieci WLAN, wybierz [Prefer. połączenie].</string>
+</resources>

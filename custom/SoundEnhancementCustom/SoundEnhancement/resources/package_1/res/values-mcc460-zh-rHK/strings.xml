@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">由於藍牙連接和WLAN網絡使用相同的頻段(2.4GHz)，產生的網絡干擾可能會導致音訊跳過或透過WLAN的數據流量中斷連接。
+
+若要取得穩定的連接，請嘗試以下的解決方法：
+・ 關閉WLAN
+・ 移至沒有其他使用2.4GHz頻帶網絡裝置的位置
+・ 選取[aptX]</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">由於藍牙連線和WLAN網絡使用相同頻帶(2.4GHz)，因此音訊可能會略過，或者WLAN的數據流量可能會因為網絡干擾而中斷。
+
+為了取得穩定連線，請嘗試下列解決方案：
+・ 關閉WLAN
+・ 移至沒有其他使用2.4GHz頻帶網絡裝置的位置
+・ 選擇[最佳品質]
+
+如果您要繼續透過WLAN傳送數據資料，請選取[最佳方式]。
+會根據網絡環境以最適當的位元率播放音訊。</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">連接aptX HD裝置後，您可以選取要使用的編解碼器。如果音訊跳進或透過WLAN的數據流量受到干擾，請輕按[%s]瞭解如何在裝置之間建立穩定的連接。</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">透過藍牙連接LDAC，您可欣賞高解析度音樂。如果音效跳過或WLAN數據流量中斷，輕按[%s]以瞭解如何建立裝置間穩定的連接。</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">因為藍牙連接和WLAN網絡使用相同的頻率頻寬，受到網絡干擾造成音效可能跳過或WLAN數據流量中斷(2.4GHz)。
+
+如需穩定的連接，請嘗試下列解決方案：
+<ul><li>將WLAN關閉</li>
+<li>移至沒有其他網絡裝置使用2.4GHz頻寬的地方</li>
+<li>選擇[慣用連接]</li></ul>
+
+如果您要保留WLAN數據流量，請選擇[慣用連接]。</string>
+</resources>

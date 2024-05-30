@@ -5,15 +5,15 @@
                       android:fitsSystemWindows="false"
                       android:clickable="true"
                       android:layout_width="fill_parent"
-                      android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:daxappui2="http://schemas.android.com/apk/res-auto">
+                      android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
   <TextView android:id="@id/reset_help_title"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="110.0dp"
             android:text="@string/reset_profile"
             android:layout_marginStart="32.0dp"
-            daxappui2:layout_constraintStart_toStartOf="parent"
-            daxappui2:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
             style="@style/HelpTitleTextStyle" />
   <TextView android:id="@id/reset_help_desc"
             android:layout_width="fill_parent"
@@ -22,9 +22,9 @@
             android:text="@string/reset_profile_desc"
             android:layout_marginStart="32.0dp"
             android:layout_marginEnd="10.0dp"
-            daxappui2:layout_constraintEnd_toEndOf="parent"
-            daxappui2:layout_constraintStart_toStartOf="parent"
-            daxappui2:layout_constraintTop_toBottomOf="@id/reset_help_title"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/reset_help_title"
             style="@style/HelpDescTextStyle" />
   <TextView android:id="@id/reset_profile_desc_ask"
             android:layout_width="wrap_content"
@@ -32,8 +32,8 @@
             android:layout_marginTop="20.0dp"
             android:text="@string/reset_profile_desc_ask"
             android:layout_marginStart="32.0dp"
-            daxappui2:layout_constraintStart_toStartOf="parent"
-            daxappui2:layout_constraintTop_toBottomOf="@id/reset_help_desc"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/reset_help_desc"
             style="@style/HelpDescTextStyle" />
   <TextView android:id="@id/help_reset_button"
             android:paddingTop="8.0dp"
@@ -44,8 +44,8 @@
             android:text="@string/reset"
             android:textAllCaps="true"
             android:layout_marginEnd="32.0dp"
-            daxappui2:layout_constraintEnd_toEndOf="parent"
-            daxappui2:layout_constraintTop_toBottomOf="@id/reset_profile_desc_ask"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/reset_profile_desc_ask"
             style="@style/HelpButtonTextStyle" />
   <TextView android:id="@id/help_cancel_button"
             android:paddingTop="8.0dp"
@@ -56,7 +56,7 @@
             android:text="@string/reset_cancel"
             android:textAllCaps="true"
             android:layout_marginEnd="20.0dp"
-            daxappui2:layout_constraintEnd_toStartOf="@id/help_reset_button"
-            daxappui2:layout_constraintTop_toBottomOf="@id/reset_profile_desc_ask"
+            app:layout_constraintEnd_toStartOf="@id/help_reset_button"
+            app:layout_constraintTop_toBottomOf="@id/reset_profile_desc_ask"
             style="@style/HelpButtonTextStyle" />
 </androidx.constraintlayout.widget.ConstraintLayout>

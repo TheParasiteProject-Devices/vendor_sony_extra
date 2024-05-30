@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:icon="@drawable/ic_add_24dp_effect_priority"
+        android:id="@id/action_add_to_list"
+        android:title="@string/audio_settings_white_list_string_add_icon_txt"
+        android:showAsAction="ifRoom" />
+</menu>

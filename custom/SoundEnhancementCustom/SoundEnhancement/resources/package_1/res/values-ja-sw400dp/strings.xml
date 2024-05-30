@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_hi_res_audio_title_txt">USB経由のハイレゾオーディオ</string>
+  <string name="sound_enhance_strings_notification_5pole_init_title_txt">5極オーディオアクセサリーが接続済みです</string>
+</resources>

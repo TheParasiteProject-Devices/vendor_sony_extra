@@ -45,17 +45,6 @@
     </service>
     <service android:name="com.dolby.daxservice.VqeService"
              android:singleUser="true" />
-    <service android:label="@string/dax_tile_name_atmos"
-             android:icon="@drawable/ic_qs_dolby_on"
-             android:name="com.dolby.daxservice.DaxTileService"
-             android:permission="android.permission.BIND_QUICK_SETTINGS_TILE"
-             android:exported="true">
-      <intent-filter>
-        <action android:name="android.service.quicksettings.action.QS_TILE" />
-      </intent-filter>
-      <meta-data android:name="android.service.quicksettings.TOGGLEABLE_TILE"
-                 android:value="false" />
-    </service>
     <activity android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"
               android:name="com.dolby.daxservice.DaxTileLongClickEmptyActivity"
               android:exported="true">

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="sound_enhance_strings_aptx_playback_quality_detail_txt">Ses atlayabilir veya Bluetooth bağlantısı ile WLAN ağı aynı frekans bandını (2.4GHz) kullandığı için WLAN üzerinden veri trafiği bağlantısı ağ paraziti nedeniyle kesilebilir.
+
+Sabit bir bağlantı elde etmek için şu çözümleri deneyin:
+・ WLAN'yı kapatın
+・ 2.4GHz bandını kullanan başka bir cihazın olmadığı bir yere gidin
+・ [aptX] öğesini seçin</string>
+  <string name="sound_enhance_strings_ldac_playback_quality_detail_txt">Bluetooth bağlantısı ve WLAN ağı aynı frekans bandını kullandığından (2.4GHz), ağ paraziti nedeniyle ses içeriği atlayabilir veya WLAN üzerinden sağlanan veri trafiğinin bağlantısı kesilebilir.
+
+Sabit bir bağlantı elde etmek için aşağıdaki çözümleri deneyin:
+・ WLAN bağlantısını kapatın
+・ 2.4GHz bandını kullanan başka bir ağ cihazının bulunmadığı bir yere geçin
+・ Şunu seçin: [En iyi çalışma]
+
+WLAN üzerinden sağlanan veri trafiğini sürdürmek istiyorsanız [En iyi çalışma] öğesini seçin. 
+Ses içeriği ağ ortamına göre en uygun bit hızında oynatılır.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_aptx_desc_txt">aptX HD cihazına bağlandığınızda codec kullanmayı seçebilirsiniz. Ses atlarsa veya WLAN üzerinden veri trafiği kesilirse, cihazlar arasında sabit bir bağlantı kurma hakkında bilgi edinmek için [%s] öğesine dokunun.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_desc_txt">Bluetooth bağlantısı üzerinden bir LDAC cihazı bağlayarak Yüksek Çözünürlüklü Ses özelliğinden faydalanabilirsiniz. Ses atlarsa veya WLAN üzerinden veri trafiği kesintiye uğrarsa cihazlar arasında sabit bağlantı kurmak için neler yapmanız gerektiğini [%s] seçeneğine dokunarak öğrenebilirsiniz.</string>
+  <string name="sound_enhance_strings_wireless_playback_quality_detail_txt">Bluetooth bağlantısı ile WLAN ağı aynı frekans bandını (2,4GHz) kullandığı için ağ karışması nedeniyle ses atlayabilir veya WLAN üzerinden veri trafiği bağlantısı kesilebilir.
+
+Sabit bağlantı için şu çözümleri deneyin:
+<ul><li>WLAN'yı Kapatın</li>
+<li>2,4GHz bandını kullanan başka bir ağ cihazının bulunmadığı bir yere gidin</li>
+<li>[Tercih edilen bağlantı] seçeneğini belirleyin</li></ul>
+
+WLAN üzerinden veri trafiğini korumak isterseniz [Tercih edilen bağlantı] seçeneğini belirleyin.</string>
+</resources>

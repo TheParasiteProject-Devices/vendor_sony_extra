@@ -1,0 +1,439 @@
+{
+    "Version": "20230615",
+    "BrandList": {
+        "Sony": [
+            {
+                "Model": "LinkBuds",
+                "Type": "active",
+                "FastPair": 3,
+                "DeviceParameter": "PHIL.ba"
+            },
+            {
+                "Model": "LinkBuds S",
+                "Type": "active",
+                "FastPair": 3,
+                "DeviceParameter": "WF-LS900N.ba"
+            },
+            {
+                "Model": "MDR-XB950B1",
+                "Type": "both",
+                "FastPair": 0,
+                "DeviceParameter": "MDR-XB950B1.ba",
+                "Image": "a_device_image_mdr_xb950b1_black.png"
+            },
+            {
+                "Model": "MDR-XB950N1",
+                "Type": "both",
+                "FastPair": 0,
+                "DeviceParameter": "MDR-XB950N1.ba",
+                "Image": "a_device_image_mdr_xb950n1_black.png"
+            },
+            {
+                "Model": "SRS-NS7",
+                "Type": "active",
+                "FastPair": 2,
+                "DeviceParameter": "SRS-NS7.ba"
+            },
+            {
+                "Model": "SRS-NS7R",
+                "Type": "active",
+                "FastPair": 2,
+                "DeviceParameter": "SRS-NS7R.ba"
+            },
+            {
+                "Model": "WF-1000X",
+                "Type": "active",
+                "FastPair": 1,
+                "DeviceParameter": "WF-1000X.ba"
+            },
+            {
+                "Model": "WF-1000XM3",
+                "Type": "active",
+                "FastPair": 1,
+                "DeviceParameter": "WF-1000XM3.ba"
+            },
+            {
+                "Model": "WF-1000XM4",
+                "Type": "active",
+                "FastPair": 2,
+                "DeviceParameter": "WF-1000XM4.ba"
+            },
+            {
+                "Model": "WF-1000XM5",
+                "Type": "active",
+                "FastPair": 3,
+                "DeviceParameter": "WF-1000XM5.ba"
+            },
+            {
+                "Model": "WF-C500",
+                "Type": "active",
+                "FastPair": 2,
+                "DeviceParameter": "WF-C500.ba"
+            },
+            {
+                "Model": "WF-C700N",
+                "Type": "active",
+                "FastPair": 3,
+                "DeviceParameter": "WF-C700N.ba"
+            },
+            {
+                "Model": "WF-H800",
+                "Type": "active",
+                "FastPair": 2,
+                "DeviceParameter": "WF-H800.ba"
+            },
+            {
+                "Model": "WF-H800 (h.ear)",
+                "Type": "active",
+                "FastPair": 2,
+                "DeviceParameter": "WF-H800.ba"
+            },
+            {
+                "Model": "WF-L900UC",
+                "Type": "active",
+                "FastPair": 3,
+                "DeviceParameter": "LinkBuds_UC.ba"
+            },
+            {
+                "Model": "WF-SP800N",
+                "Type": "active",
+                "FastPair": 2,
+                "DeviceParameter": "WF-SP800N.ba"
+            },
+            {
+                "Model": "WH-1000XM2",
+                "Type": "both",
+                "FastPair": 1,
+                "DeviceParameter": "WH-1000XM2.ba",
+                "Image": "a_device_image_wh_1000xm2_black.png"
+            },
+            {
+                "Model": "WH-1000XM3",
+                "Type": "both",
+                "FastPair": 1,
+                "DeviceParameter": "WH-1000XM3.ba",
+                "Image": "a_device_image_wh_1000xm3_black.png"
+            },
+            {
+                "Model": "WH-1000XM4",
+                "Type": "both",
+                "FastPair": 2,
+                "DeviceParameter": "WH-1000XM4.ba",
+                "Image": "a_device_image_wh_1000xm4_black.png"
+            },
+            {
+                "Model": "WH-1000XM5",
+                "Type": "both",
+                "FastPair": 3,
+                "DeviceParameter": "WH-1000XM5.ba",
+                "Image": "a_device_image_yy2954_black.png"
+            },
+            {
+                "Model": "WH-CH520",
+                "Type": "active",
+                "FastPair": 3,
+                "DeviceParameter": "WH-CH520.ba"
+            },
+            {
+                "Model": "WH-CH720N",
+                "Type": "active",
+                "FastPair": 3,
+                "DeviceParameter": "WH-CH720N.ba"
+            },
+            {
+                "Model": "WH-H800",
+                "Type": "both",
+                "FastPair": 0,
+                "DeviceParameter": "WH-H800.ba",
+                "Image": "a_device_image_wh_h800_black.png"
+            },
+            {
+                "Model": "WH-H800 (h.ear)",
+                "Type": "active",
+                "FastPair": 0,
+                "DeviceParameter": "WH-H800.ba"
+            },
+            {
+                "Model": "WH-H810",
+                "Type": "both",
+                "FastPair": 2,
+                "DeviceParameter": "WH-H810.ba",
+                "Image": "a_device_image_wh_h810_black.png"
+            },
+            {
+                "Model": "WH-H810 (h.ear)",
+                "Type": "active",
+                "FastPair": 2,
+                "DeviceParameter": "WH-H810.ba"
+            },
+            {
+                "Model": "WH-H900N",
+                "Type": "both",
+                "FastPair": 1,
+                "DeviceParameter": "WH-H900N.ba",
+                "Image": "a_device_image_wh_h900n_black.png"
+            },
+            {
+                "Model": "WH-H900N (h.ear)",
+                "Type": "active",
+                "FastPair": 1,
+                "DeviceParameter": "WH-H900N.ba"
+            },
+            {
+                "Model": "WH-H910N",
+                "Type": "both",
+                "FastPair": 2,
+                "DeviceParameter": "WH-H910N.ba",
+                "Image": "a_device_image_wh_h910n_black.png"
+            },
+            {
+                "Model": "WH-H910N (h.ear)",
+                "Type": "active",
+                "FastPair": 2,
+                "DeviceParameter": "WH-H910N.ba"
+            },
+            {
+                "Model": "WH-XB700",
+                "Type": "both",
+                "FastPair": 1,
+                "DeviceParameter": "WH-XB700.ba",
+                "Image": "a_device_image_wh_xb700_black.png"
+            },
+            {
+                "Model": "WH-XB900N",
+                "Type": "both",
+                "FastPair": 1,
+                "DeviceParameter": "WH-XB900N.ba",
+                "Image": "a_device_image_wh_xb900n_black.png"
+            },
+            {
+                "Model": "WH-XB910N",
+                "Type": "both",
+                "FastPair": 2,
+                "DeviceParameter": "WH-XB910N.ba",
+                "Image": "a_device_image_wh_xb910n_black.png"
+            },
+            {
+                "Model": "WI-1000X",
+                "Type": "both",
+                "FastPair": 1,
+                "DeviceParameter": "WI-1000X.ba",
+                "Image": "a_device_image_wi_1000x_black.png"
+            },
+            {
+                "Model": "WI-1000XM2",
+                "Type": "both",
+                "FastPair": 1,
+                "DeviceParameter": "WI-1000XM2.ba",
+                "Image": "a_device_image_wi_1000xm2_black.png"
+            },
+            {
+                "Model": "WI-C100",
+                "Type": "active",
+                "FastPair": 3,
+                "DeviceParameter": "WI-C100.ba"
+            },
+            {
+                "Model": "WI-H700",
+                "Type": "both",
+                "FastPair": 0,
+                "DeviceParameter": "WI-H700.ba",
+                "Image": "a_device_image_wi_h700_black.png"
+            },
+            {
+                "Model": "WI-H700 (h.ear)",
+                "Type": "active",
+                "FastPair": 0,
+                "DeviceParameter": "WI-H700.ba"
+            },
+            {
+                "Model": "MDR-Z1R",
+                "Type": "passive",
+                "FastPair": 0,
+                "DeviceParameter": "MDR-Z1R.ba",
+                "Image": "a_device_image_mdr-z1r.png"
+            },
+            {
+                "Model": "MDR-Z7",
+                "Type": "passive",
+                "FastPair": 0,
+                "DeviceParameter": "MDR-Z7.ba",
+                "Image": "a_device_image_mdr-z7.png"
+            },
+            {
+                "Model": "MDR-Z7M2",
+                "Type": "passive",
+                "FastPair": 0,
+                "DeviceParameter": "MDR-Z7M2.ba",
+                "Image": "a_device_image_mdr-z7m2.png"
+            },
+            {
+                "Model": "MDR-1A",
+                "Type": "passive",
+                "FastPair": 0,
+                "DeviceParameter": "MDR-1A.ba",
+                "Image": "i_device_image_mdr_1a.png"
+            },
+            {
+                "Model": "MDR-1AM2",
+                "Type": "passive",
+                "FastPair": 0,
+                "DeviceParameter": "MDR-1AM.ba",
+                "Image": "a_device_image_mdr-1am2.png"
+            },
+            {
+                "Model": "MDR-7506",
+                "Type": "passive",
+                "FastPair": 0,
+                "DeviceParameter": "MDR-7506.ba",
+                "Image": "i_device_image_mdr_7506.png"
+            },
+            {
+                "Model": "MDR-CD900ST",
+                "Type": "passive",
+                "FastPair": 0,
+                "DeviceParameter": "MDR-CD900ST.ba",
+                "Image": "i_device_image_mdr_cd900st.png"
+            },
+            {
+                "Model": "MDR-H600A",
+                "Type": "passive",
+                "FastPair": 0,
+                "DeviceParameter": "MDR-H600A.ba",
+                "Image": "a_device_image_mdr-h600a.png"
+            },
+            {
+                "Model": "MDR-M1ST",
+                "Type": "passive",
+                "FastPair": 0,
+                "DeviceParameter": "MDR-M1ST.ba",
+                "Image": "i_device_image_mdr_m1st.png"
+            },
+            {
+                "Model": "MDR-MV1",
+                "Type": "passive",
+                "FastPair": 0,
+                "DeviceParameter": "MDR-MV1.ba",
+                "Image": "a_device_image_mdr-mv1.png"
+            },
+            {
+                "Model": "IER-H500A",
+                "Type": "passive",
+                "FastPair": 0,
+                "DeviceParameter": "IER-H500A.ba",
+                "Image": "a_device_image_ier-h500a.png"
+            },
+            {
+                "Model": "IER-M7",
+                "Type": "passive",
+                "FastPair": 0,
+                "DeviceParameter": "IER-M7.ba",
+                "Image": "a_device_image_ier-m7.png"
+            },
+            {
+                "Model": "IER-M9",
+                "Type": "passive",
+                "FastPair": 0,
+                "DeviceParameter": "IER-M9.ba",
+                "Image": "a_device_image_ier-m9.png"
+            },
+            {
+                "Model": "IER-NW510N",
+                "Type": "passive",
+                "FastPair": 0,
+                "DeviceParameter": "IER-NW510N.ba",
+                "Image": "a_device_image_ier-nw510n.png"
+            },
+            {
+                "Model": "IER-Z1R",
+                "Type": "passive",
+                "FastPair": 0,
+                "DeviceParameter": "IER-Z1R.ba",
+                "Image": "a_device_image_ier-z1.png"
+            },
+            {
+                "Model": "XBA-N1",
+                "Type": "passive",
+                "FastPair": 0,
+                "DeviceParameter": "XBA-N1.ba",
+                "Image": "a_device_image_xba-n1.png"
+            },
+            {
+                "Model": "XBA-N3",
+                "Type": "passive",
+                "FastPair": 0,
+                "DeviceParameter": "XBA-N3.ba",
+                "Image": "a_device_image_xba-n3.png"
+            },
+            {
+                "Model": "XBA-Z5",
+                "Type": "passive",
+                "FastPair": 0,
+                "DeviceParameter": "XBA-Z5.ba",
+                "Image": "a_device_image_xba-z5.png"
+            },
+            {
+                "Model": "STH50C",
+                "Type": "passive",
+                "FastPair": 0,
+                "DeviceParameter": "STH50C.ba",
+                "Image": "i_device_image_sth50c_black.png"
+            },
+            {
+                "Model": "SBH90C",
+                "Type": "passive",
+                "FastPair": 0,
+                "DeviceParameter": "SBH90C.ba",
+                "Image": "a_device_image_sbh90c.png"
+            }
+        ],
+        "audio-technica": [
+            {
+                "Model": "ATH-HL7BT",
+                "Type": "both",
+                "FastPair": 0,
+                "DeviceParameter": "jp.co.audiotechnica.ATH-HL7BT.ba",
+                "Image": "jp.co.audiotechnica.ATH-HL7BT.png"
+            },
+            {
+                "Model": "LE_ATH-HL7BT",
+                "Type": "active",
+                "FastPair": 0,
+                "DeviceParameter": "jp.co.audiotechnica.ATH-HL7BT.ba",
+                "Image": "jp.co.audiotechnica.ATH-HL7BT.png"
+            },
+            {
+                "Model": "ATH-CKS50TW",
+                "Type": "active",
+                "FastPair": 3,
+                "DeviceParameter": "jp.co.audiotechnica.ATH-CKS50TW.ba",
+                "Image": "jp.co.audiotechnica.ATH-CKS50TW.png"
+            },
+            {
+                "Model": "LE_ATH-CKS50TW",
+                "Type": "active",
+                "FastPair": 3,
+                "DeviceParameter": "jp.co.audiotechnica.ATH-CKS50TW.ba",
+                "Image": "jp.co.audiotechnica.ATH-CKS50TW.png"
+            },
+            {
+                "Model": "ATH-TWX9",
+                "Type": "active",
+                "FastPair": 3,
+                "DeviceParameter": "jp.co.audiotechnica.ATH-TWX9.ba",
+                "Image": "jp.co.audiotechnica.ATH-TWX9.png"
+            },
+            {
+                "Model": "LE_ATH-TWX9",
+                "Type": "active",
+                "FastPair": 3,
+                "DeviceParameter": "jp.co.audiotechnica.ATH-TWX9.ba",
+                "Image": "jp.co.audiotechnica.ATH-TWX9.png"
+            }
+        ]
+    },
+    "BrandId": {
+        "Sony": "com.sony.360ra",
+        "audio-technica": "jp.co.audiotechnica"
+    }
+}
