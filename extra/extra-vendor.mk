@@ -20,6 +20,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/extra/extra/proprietary/system_ext/etc/permissions/com.sony.threesixtyra.audiofx.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/com.sony.threesixtyra.audiofx.xml \
     vendor/sony/extra/extra/proprietary/system_ext/etc/permissions/com.sonyericsson.soundenhancement.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/com.sonyericsson.soundenhancement.xml \
     vendor/sony/extra/extra/proprietary/system_ext/etc/permissions/com.sonymobile.colorgamut.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/com.sonymobile.colorgamut.xml \
+    vendor/sony/extra/extra/proprietary/system_ext/etc/permissions/com.sonymobile.gesdklibrary.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/com.sonymobile.gesdklibrary.xml \
     vendor/sony/extra/extra/proprietary/system_ext/etc/permissions/jp.co.sony.threesixtyra.system.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/jp.co.sony.threesixtyra.system.xml \
     vendor/sony/extra/extra/proprietary/system_ext/lib64/vendor.dolby.hardware.dms@2.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.dolby.hardware.dms@2.0.so \
     vendor/sony/extra/extra/proprietary/vendor/bin/hw/android.hardware.media.c2@1.0-threesixty-ra-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.media.c2@1.0-threesixty-ra-service \
@@ -110,8 +111,11 @@ PRODUCT_COPY_FILES += \
     vendor/sony/extra/extra/proprietary/vendor/lib64/vendor.dolby.hardware.dms@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.dolby.hardware.dms@2.0.so
 
 PRODUCT_PACKAGES += \
+    GamingAccessorySettings \
+    GamingFanService \
     SomcDualshockManager \
     SomcMediaExtensionProviderStarter \
+    ThermalFanService \
     ExtMonitorApp \
     SomcMediaExtensionProvider-Yodo \
     UsbExtOutAudio \
@@ -125,6 +129,7 @@ PRODUCT_PACKAGES += \
     com.sonymobile.home.resourceprovider \
     somc-ext-mmwdiapi \
     com.sony.threesixtyra.audiofx \
+    com.sonymobile.gesdklibrary \
     vendor.dolby.hardware.dms \
     vendor.dolby.media.c2@1.0-service \
     vendor.threesixty_ra.codec2

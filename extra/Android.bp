@@ -8,6 +8,28 @@ soong_namespace {
 }
 
 android_app_import {
+	name: "GamingAccessorySettings",
+	owner: "sony/extra",
+	apk: "proprietary/product/app/GamingAccessorySettings/GamingAccessorySettings.apk",
+	certificate: "platform",
+	dex_preopt: {
+		enabled: false,
+	},
+	product_specific: true,
+}
+
+android_app_import {
+	name: "GamingFanService",
+	owner: "sony/extra",
+	apk: "proprietary/product/app/GamingFanService/GamingFanService.apk",
+	certificate: "platform",
+	dex_preopt: {
+		enabled: false,
+	},
+	product_specific: true,
+}
+
+android_app_import {
 	name: "SomcDualshockManager",
 	owner: "sony/extra",
 	apk: "proprietary/product/app/SomcDualshockManager/SomcDualshockManager.apk",
@@ -25,6 +47,17 @@ android_app_import {
 	apk: "proprietary/product/app/SomcMediaExtensionProviderStarter/SomcMediaExtensionProviderStarter.apk",
 	preprocessed: true,
 	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	product_specific: true,
+}
+
+android_app_import {
+	name: "ThermalFanService",
+	owner: "sony/extra",
+	apk: "proprietary/product/app/ThermalFanService/ThermalFanService.apk",
+	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
 	},
@@ -168,6 +201,13 @@ dex_import {
 	name: "com.sony.threesixtyra.audiofx",
 	owner: "sony/extra",
 	jars: ["proprietary/system_ext/framework/com.sony.threesixtyra.audiofx.jar"],
+	system_ext_specific: true,
+}
+
+dex_import {
+	name: "com.sonymobile.gesdklibrary",
+	owner: "sony/extra",
+	jars: ["proprietary/system_ext/framework/com.sonymobile.gesdklibrary.jar"],
 	system_ext_specific: true,
 }
 
