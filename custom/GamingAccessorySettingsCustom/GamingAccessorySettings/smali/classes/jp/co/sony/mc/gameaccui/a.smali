@@ -70,9 +70,9 @@
 
     invoke-virtual {v0, v1, v2}, Landroid/content/Intent;->putExtra(Ljava/lang/String;Ljava/lang/String;)Landroid/content/Intent;
 
-    const-string v1, "com.sonymobile.gameenhancer"
+    const-string v1, "com.google.android.apps.nexuslauncher"
 
-    const-string v2, "com.sonymobile.gameenhancer.common.MainActivity"
+    const-string v2, "com.google.android.apps.nexuslauncher.NexusLauncherActivity"
 
     invoke-virtual {v0, v1, v2}, Landroid/content/Intent;->setClassName(Ljava/lang/String;Ljava/lang/String;)Landroid/content/Intent;
 
