@@ -1,6 +1,3 @@
-custom/DolbySoundCustom/*.apk
-custom/daxServiceCustom/*.apk
-custom/SoundEnhancementCustom/*.apk
-custom/ThreeSixtyRASystemCustom/*.apk
+custom/**/*.apk
 AndroidManifest.xml.bak
 .cache

@@ -22,3 +22,10 @@ ifeq ($(TARGET_SHIPS_CUSTOM_THREESIXRA_SYSTEM),true)
 PRODUCT_PACKAGES += \
     ThreeSixtyRASystemtCustom
 endif
+
+TARGET_SHIPS_CUSTOM_GAMING_ACCESSORY_SETTINGS ?= true
+ifeq ($(TARGET_SHIPS_CUSTOM_GAMING_ACCESSORY_SETTINGS),true)
+# Modified GamingAccessorySettings
+PRODUCT_PACKAGES += \
+    GamingAccessorySettingsCustom
+endif

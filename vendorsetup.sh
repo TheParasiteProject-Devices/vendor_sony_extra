@@ -30,6 +30,12 @@ if [ -d "custom/ThreeSixtyRASystemCustom" ]; then
     cd ../../
 fi
 
+if [ -d "custom/GamingAccessorySettingsCustom" ]; then
+    cd custom/GamingAccessorySettingsCustom
+    $APKEDITOR b -i GamingAccessorySettings -f -o GamingAccessorySettingsCustom.apk
+    cd ../../
+fi
+
 cd ../../../
 
 export VENDOR_SONY_EXTRA_SETUP_DONE=true
