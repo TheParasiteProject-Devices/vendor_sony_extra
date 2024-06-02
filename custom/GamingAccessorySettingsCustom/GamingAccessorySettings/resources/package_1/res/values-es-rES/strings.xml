@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="ge_floating_gamingfan_caution_low_battery_txt">El ventilador y la salida HDMI dejarán de funcionar cuando el nivel de batería baje a %d %%. Cargue el smartphone.</string>
+  <string name="ge_floating_gamingfan_start_err_emergecy_mode_txt">No se puede iniciar la rotación del ventilador porque este se detuvo.</string>
+  <string name="ge_floating_gamingfan_start_err_no_fan_txt">No se puede iniciar la rotación del ventilador porque el %s no está conectado.</string>
+  <string name="ge_floating_gamingfan_start_txt">Se inició el ventilador.</string>
+  <string name="ge_floating_gamingfan_stop_reason_emergency_button_txt">El ventilador se detuvo porque se presionó el botón de apagado de emergencia del %s.</string>
+  <string name="ge_floating_gamingfan_stop_reason_exit_game_app_txt">El ventilador se detuvo porque se cerró la aplicación de juego.</string>
+  <string name="ge_floating_gamingfan_stop_reason_hwb_txt">El ventilador se detuvo.</string>
+  <string name="ge_floating_gamingfan_stop_reason_low_battery_txt">No puede usar el ventilador ni la salida HDMI porque queda poca batería en el smartphone. Cargue el smartphone.</string>
+  <string name="settings_global_featurename_xperia_stream_subtext_txt">Enfría el smartphone para maximizar su rendimiento</string>
+  <string name="settings_global_featurename_xperia_stream_txt">Xperia Stream</string>
+  <string name="settings_global_gamingfan_activation_always_in_operation_heading_txt">Comience siempre a jugar en condiciones ideales asegurándose de que la temperatura del smartphone sea estable en todo momento.</string>
+  <string name="settings_global_gamingfan_activation_always_in_operation_subtext_txt">El ventilador seguirá girando incluso cuando use aplicaciones que no se agregaron al Optimizador de juegos (automáticamente gira a %d rpm o menos). Cuando se desactiva este ajuste, el ventilador se detiene en cuanto sale de la aplicación de juego, independientemente de la temperatura del smartphone.</string>
+  <string name="settings_global_gamingfan_activation_btn_start_txt">Iniciar</string>
+  <string name="settings_global_gamingfan_activation_caution_how_to_put_txt">Cuando el ventilador está girando, asegúrese de que la entrada de aire no esté obstruida.
+Cuando apoye el smartphone sobre una superficie (como una mesa) mientras el ventilador está girando, asegúrese de que la pantalla quede hacia abajo. (Ver imagen).</string>
+  <string name="settings_global_gamingfan_activation_caution_leave_txt">Antes de colocar el smartphone en un lugar como un bolso, asegúrese de que el ventilador no esté girando y, luego, desconecte %s del smartphone.</string>
+  <string name="settings_global_gamingfan_activation_change_settings_later_txt">Puede modificar los ajustes después de completar la activación en la pantalla siguiente.</string>
+  <string name="settings_global_gamingfan_activation_disable_use_fan_subtext_txt">Debe activar "Usar ventilador" para utilizar esta característica. Vuelva a la primera pantalla y compruebe los ajustes.</string>
+  <string name="settings_global_gamingfan_activation_hardware_shortcut_heading_txt">Use el botón del obturador para iniciar o detener rápidamente la rotación del ventilador.</string>
+  <string name="settings_global_gamingfan_activation_incomplete_dialog_body_txt">No puede usar ajustes relacionados con el ventilador de Xperia Stream porque "Usar ventilador" está desactivado. ¿Activar "Usar ventilador"?</string>
+  <string name="settings_global_gamingfan_activation_incomplete_reminder_txt">Activación incompleta. Active "Usar ventilador" para iniciar la activación.</string>
+  <string name="settings_global_gamingfan_activation_incomplete_subtext_txt">Activación incompleta. Active "Usar ventilador" para iniciar la activación. Como consecuencia, saldrá de la pantalla del juego.</string>
+  <string name="settings_global_gamingfan_activation_intro_2_txt">Para usar todas las característica de %s, revise las notas sobre el uso y, luego, finalice la activación.</string>
+  <string name="settings_global_gamingfan_activation_intro_txt">Use %s para que el smartphone tenga el más alto rendimiento posible y disfrute de una experiencia de juego fluida.</string>
+  <string name="settings_global_gamingfan_activation_nou_check_other_notes_txt">Compruebe la pantalla de ajustes para ver más notas sobre el uso.</string>
+  <string name="settings_global_gamingfan_activation_nou_display_refresh_rate_txt">La velocidad de actualización del vídeo de salida se configura en el valor más bajo entre el monitor externo y este dispositivo.</string>
+  <string name="settings_global_gamingfan_activation_nou_sleepmode_port_disable_txt">Los puertos LAN, HDMI y de auriculares se deshabilitarán unos segundos después de que se apague la pantalla y se detenga el ventilador. Para habilitar los puertos, encienda y desbloquee la pantalla.</string>
+  <string name="settings_global_gamingfan_activation_nou_use_longtime_without_fan_txt">Asegúrese de que el ventilador esté girando cuando use las características de Xperia Stream (incluidos sus puertos). Usar el ventilador sin rotación durante un periodo prolongado puede ocasionar que algunas características dejen de funcionar.</string>
+  <string name="settings_global_gamingfan_activation_pass_ge_menu_txt">O bien, en el menú del Optimizador de juegos: Modo de juego &gt; ajustes de Xperia Stream</string>
+  <string name="settings_global_gamingfan_activation_sleepmode_operation_heading_txt">Sigue enfriando el smartphone incluso después de entrar en Modo reposo hasta que la temperatura alcance un nivel óptimo</string>
+  <string name="settings_global_gamingfan_activation_title_txt">Activación de %s</string>
+  <string name="settings_global_gamingfan_activation_use_fan_subtext_1_txt">Cuando este ajuste está activado, puede usar los ajustes relacionados con el ventilador.</string>
+  <string name="settings_global_gamingfan_activation_use_fan_subtext_2_txt">Lea la guía del usuario incluida antes de usar el dispositivo.</string>
+  <string name="settings_global_gamingfan_always_in_operation_subtext_txt">El ventilador seguirá girando incluso cuando use aplicaciones que no se agregaron al Optimizador de juegos (automáticamente gira a %d rpm. o menos). Asegurarse de que el smartphone esté siempre a la temperatura correcta le permite disfrutar de un rendimiento estable, incluso cuando usa aplicaciones que no se agregaron al Optimizador de juegos. Cuando se desactiva este ajuste, el ventilador se detiene en cuanto sale de la aplicación de juego, independientemente de la temperatura del smartphone.</string>
+  <string name="settings_global_gamingfan_always_in_operation_title_txt">Ventilador siempre encendido</string>
+  <string name="settings_global_gamingfan_apply_txt">APLICAR</string>
+  <string name="settings_global_gamingfan_btn_activate_ge_subtext_txt">Para usar los ajustes avanzados para el ventilador, pulse "Habilitar Optimizador de juegos" y luego active "Use feature" en la pantalla de ajustes.</string>
+  <string name="settings_global_gamingfan_btn_activate_ge_txt">Habilitar Optimizador de juegos</string>
+  <string name="settings_global_gamingfan_btn_back_txt">Atrás</string>
+  <string name="settings_global_gamingfan_btn_cancel_txt">Cancelar</string>
+  <string name="settings_global_gamingfan_btn_done_txt">Listo</string>
+  <string name="settings_global_gamingfan_btn_lauch_games_subtext_txt">Para acceder a los ajustes avanzados del ventilador, seleccione el juego que desee en Mis juegos y después vaya a los ajustes de Modo de juego en el menú del Optimizador de juegos.</string>
+  <string name="settings_global_gamingfan_btn_lauch_games_txt">Abrir juego</string>
+  <string name="settings_global_gamingfan_btn_next_txt">Siguiente</string>
+  <string name="settings_global_gamingfan_btn_ok_txt">Aceptar</string>
+  <string name="settings_global_gamingfan_caution_emergency_stop_txt">Se ha apagado el ventilador. Mantenga presionado el botón de apagado de emergencia para reiniciarlo.</string>
+  <string name="settings_global_gamingfan_caution_forcd_to_stop_txt">El ventilador ha dejado de funcionar. Para reiniciarlo, asegúrese de que no haya ningún problema con el ventilador y después mantenga presionado el botón de apagado de emergencia.</string>
+  <string name="settings_global_gamingfan_dialog_lowpower_mode_body_txt">Se restringieron algunas características de Xperia Stream. Reduzca el esfuerzo cambiando los ajustes ​relacionados con el smartphone o las aplicaciones.</string>
+  <string name="settings_global_gamingfan_dialog_lowpower_mode_title_txt">Xperia Stream se está sobrecalentando.</string>
+  <string name="settings_global_gamingfan_dialog_title_note_txt">Aviso</string>
+  <string name="settings_global_gamingfan_firmware_version_audio_err_txt">Conecte auriculares al %s para comprobar la versión.</string>
+  <string name="settings_global_gamingfan_firmware_version_audio_txt">Audio: %s</string>
+  <string name="settings_global_gamingfan_firmware_version_hdmi_txt">HDMI: %s</string>
+  <string name="settings_global_gamingfan_firmware_version_mcu_err_txt">Vuelva a conectar Xperia Stream.</string>
+  <string name="settings_global_gamingfan_firmware_version_mcu_txt">MCU: %s</string>
+  <string name="settings_global_gamingfan_firmware_version_title_txt">Versión del firmware</string>
+  <string name="settings_global_gamingfan_hardware_shortcut_dialog_body_2_txt">(HWB = Hardware button)</string>
+  <string name="settings_global_gamingfan_hardware_shortcut_dialog_body_txt">Si activa este ajuste, se deshabilitará el ajuste de acceso directo de HWB del Optimizador de juegos. ¿Continuar?</string>
+  <string name="settings_global_gamingfan_hardware_shortcut_subtext_2_txt">Puede iniciar/detener la rotación del ventilador solo cuando los ajustes relacionados con él están activados.</string>
+  <string name="settings_global_gamingfan_hardware_shortcut_subtext_txt">Cuando %s está conectado, cambia el comportamiento del botón del obturador del smartphone a: apagar/encender el ventilador. Tenga en cuenta que la función anteriormente asignada al botón del obturador se deshabilita al activar este ajuste.</string>
+  <string name="settings_global_gamingfan_hardware_shortcut_title_txt">Encend./apag. con botón obturador</string>
+  <string name="settings_global_gamingfan_invalid_power_adapter_connection_subtext_txt">No se puede cargar porque se conectó un adaptador de corriente no compatible. Revise el adaptador.</string>
+  <string name="settings_global_gamingfan_invalid_power_adapter_connection_txt">Se conectó un adaptador de corriente no compatible.</string>
+  <string name="settings_global_gamingfan_led_lighting_subtext_txt">Cuando esté activado, el LED del %s no se encenderá (excepto cuando apague el ventilador o este deje de funcionar). Para obtener más información sobre cómo y cuándo se enciende y parpadea el LED, consulte las Notas sobre el uso.</string>
+  <string name="settings_global_gamingfan_led_lighting_title_txt">Desactivar LED</string>
+  <string name="settings_global_gamingfan_notification_activation_incomplete_body_txt">Complete la activación para usar las funciones relacionadas con Xperia Stream.</string>
+  <string name="settings_global_gamingfan_notification_activation_incomplete_title_txt">Activación incompleta.</string>
+  <string name="settings_global_gamingfan_notification_connected_txt">Xperia Stream se conectó.</string>
+  <string name="settings_global_gamingfan_notification_disable_hdmi_port_txt">No se puede usar el puerto HDMI de Xperia Stream. Cambie los ajustes relacionados con el smartphone o las aplicaciones para reducir el esfuerzo.</string>
+  <string name="settings_global_gamingfan_notification_disable_high_temp_txt">Deshabilitado. Temperatura demasiado alta.</string>
+  <string name="settings_global_gamingfan_notification_high_temp_disable_functions_txt">Se restringieron algunas funciones de Xperia Stream.</string>
+  <string name="settings_global_gamingfan_notification_hwb_always_in_operation_txt">"Ventilador siempre encendido" activado.</string>
+  <string name="settings_global_gamingfan_notification_hwb_auto_start_txt">Se inició la rotación automática del ventilador.</string>
+  <string name="settings_global_gamingfan_notification_hwb_start_standby_txt">No se puede iniciar la rotación del ventilador con los ajustes actuales. Compruebe los ajustes.</string>
+  <string name="settings_global_gamingfan_notification_hwb_use_fan_off_txt">"Usar ventilador" desactivado.</string>
+  <string name="settings_global_gamingfan_notification_low_temp_enable_functions_txt">Las funciones de Xperia Stream ya no están restringidas.</string>
+  <string name="settings_global_gamingfan_notification_permission_txt">Notificaciones de Xperia Stream</string>
+  <string name="settings_global_gamingfan_notification_popup_permission_txt">Notificaciones emergentes de Xperia Stream</string>
+  <string name="settings_global_gamingfan_notification_recommend_higher_rpm_txt">Use los ajustes recomendados para mantener el rendimiento.
+Se recomienda incrementar las RPM del ventilador porque el consumo de batería es demasiado alto para el proceso de enfriamiento actual.
+Pulse APLICAR para cambiar el número de rotaciones al valor recomendado.</string>
+  <string name="settings_global_gamingfan_notification_recommend_ran_rotation_txt">Mantener el rendimiento con el enfriamiento del ventilador.
+La rotación del ventilador se recomienda en los siguientes casos.
+- Cuando la salida es por HDMI
+- Cuando hay un alto consumo de batería
+- Cuando está conectado el adaptador de corriente
+Pulse APLICAR para iniciar rotación del ventilador.</string>
+  <string name="settings_global_gamingfan_notification_reconnected_body_txt">Xperia Stream se reinició porque se quitó el adaptador de corriente.</string>
+  <string name="settings_global_gamingfan_notification_reconnected_title_txt">Xperia Stream se reinició.</string>
+  <string name="settings_global_gamingfan_notification_removed_txt">Xperia Stream se desconectó.</string>
+  <string name="settings_global_gamingfan_nou_always_in_operation_with_livesreaming_txt">Durante la transmisión en directo, se aplican los ajustes de rotación del ventilador del Modo de juego incluso cuando se muestran pantallas que no son de juegos agregados al Optimizador de juegos independientemente de que "Ventilador siempre encendido" esté activado o desactivado.</string>
+  <string name="settings_global_gamingfan_nou_audio_jack_recognition_txt">Cuando conecte auriculares al terminal de conexión de auriculares de Xperia Stream, se reconocerán como USB Audio en el smartphone.</string>
+  <string name="settings_global_gamingfan_nou_cherge_from_xperia_txt">Cuando el adaptador de corriente no esté conectado, el smartphone usará su propia batería para cargar el %s.</string>
+  <string name="settings_global_gamingfan_nou_data_transfer_txt">No se pueden transferir datos a través del puerto USB (USB Type C) del %s.</string>
+  <string name="settings_global_gamingfan_nou_dont_block_intake_txt">Cuando el ventilador esté girando, no ponga el smartphone en un bolso o en algún lugar donde la entrada de aire pueda quedar obstruida.</string>
+  <string name="settings_global_gamingfan_nou_dont_remove_when_its_hot_txt">Si quita el %s cuando la temperatura del smartphone es alta, podría sufrir quemaduras. Primero espere a que el smartphone se enfríe.</string>
+  <string name="settings_global_gamingfan_nou_games_not_added_to_gameenhancer_txt">Cuando "Usar Optimizador de juegos" está deshabilitado, el ajuste "Ventilador siempre encendido" se activará incluso para los juegos agregados al Optimizador de juegos.</string>
+  <string name="settings_global_gamingfan_nou_hdmi_port_recognition_txt">Cuando el vídeo salga a través del puerto HDMI de Xperia Stream, se reconocerá como salida de Displayport en el smartphone.</string>
+  <string name="settings_global_gamingfan_nou_how_to_put_device_txt">Cuando apoye el smartphone sobre una superficie (como una mesa) mientras el ventilador está girando, asegúrese de que la pantalla quede hacia abajo para evitar que se obstruya la entrada de aire en la parte trasera del %s.</string>
+  <string name="settings_global_gamingfan_nou_invalid_hwb_in_sleepmode_txt">"Encender/apagar con botón del obturador" está deshabilitado durante el Modo reposo y en el bloqueo de pantalla.</string>
+  <string name="settings_global_gamingfan_nou_led_lighting_pattern_txt">El LED se enciende o parpadea en diferentes colores para indicar el estado.
+Luz verde: el ventilador está girando correctamente
+Parpadeo rojo: el ventilador se ha detenido o ha dejado de funcionar
+Luz naranja: se detectó una conexión a un adaptador de corriente</string>
+  <string name="settings_global_gamingfan_nou_led_turn_off_exception_txt">Cuando se apaga el ventilador o este deja de funcionar, el LED se encenderá o parpadeará incluso si "Desactivar LED" está activado. También se encenderá o parpadeará cuando conecte el adaptador de corriente.</string>
+  <string name="settings_global_gamingfan_nou_reboot_gamingfan_device_txt">Cuando se apaga el ventilador o este deja de funcionar, mantenga presionado el botón de apagado de emergencia de %s para reiniciarlo.</string>
+  <string name="settings_global_gamingfan_nou_recommend_mic_usage_txt">Se recomienda usar auriculares al reproducir audio mientras el %s está conectado para maximizar la calidad del micrófono.</string>
+  <string name="settings_global_gamingfan_nou_reset_activity_txt">Cuando se detiene la carga de %s, la rotación del ventilador y las señales de imagen y sonido del smartphone se interrumpen durante unos segundos.</string>
+  <string name="settings_global_gamingfan_nou_save_emergency_status_txt">Cuando se apaga el ventilador o deja de funcionar, esta información de estado se almacena en el smartphone. Si compra un nuevo Xperia Stream, mantenga presionado el botón de apagado de emergencia después de conectarlo al smartphone para borrar la información de estado.</string>
+  <string name="settings_global_gamingfan_nou_show_web_manual_txt">Consulte la %s para obtener más información.</string>
+  <string name="settings_global_gamingfan_nou_web_manual_txt">guía del usuario</string>
+  <string name="settings_global_gamingfan_pass_to_xperia_stream_settings_txt">Ajustes &gt; Conexión del dispositivo &gt; Preferencias de conexión &gt; %s</string>
+  <string name="settings_global_gamingfan_redcard_high_temp_xperia_stream_expanded_body_txt">Se restringieron algunas funciones de Xperia Stream. Encienda el ventilador o cambie los ajustes del Optimizador de juegos o de otras aplicaciones para reducir el esfuerzo del smartphone.</string>
+  <string name="settings_global_gamingfan_redcard_high_temp_xperia_stream_expanded_title_txt">Xperia Stream está realizando mucho esfuerzo.</string>
+  <string name="settings_global_gamingfan_redcard_lowpower_mode_txt">Se restringieron algunas características de Xperia Stream debido a la alta temperatura. Cambie los ajustes relacionados con el smartphone o las aplicaciones para reducir el esfuerzo.</string>
+  <string name="settings_global_gamingfan_remove_device_txt">Conecte el %s para realizar los siguientes ajustes.</string>
+  <string name="settings_global_gamingfan_settings_list_title_txt">Ajustes cuando %s está conectado</string>
+  <string name="settings_global_gamingfan_settings_notes_on_use_txt">Notas sobre el uso</string>
+  <string name="settings_global_gamingfan_sleepmode_operation_subtext_txt">Sigue enfriando durante el Modo reposo, hasta que la temperatura del smartphone disminuye a un cierto nivel. El enfriamiento se detendrá cuando se llegue a ese nivel.</string>
+  <string name="settings_global_gamingfan_sleepmode_operation_title_txt">Rotación ventilador en Modo reposo</string>
+  <string name="settings_global_gamingfan_start_err_forcd_to_stop_mode_txt">No se puede iniciar la rotación del ventilador porque dejó de funcionar.</string>
+  <string name="settings_global_gamingfan_start_err_lowpower_mode_hwb_txt">No se puede usar Xperia Stream. Temperatura demasiado alta.</string>
+  <string name="settings_global_gamingfan_use_fan_subtext_txt">Al usar el %s, el ventilador enfriará el smartphone para aumentar el rendimiento. Puede acceder a los ajustes avanzados del ventilador con el Optimizador de juegos mientras está en un juego.</string>
+  <string name="settings_global_gamingfan_use_fan_titile_txt">Usar ventilador</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="settings_global_gamingfan_hardware_shortcut_subtext_txt">When %s is attached, changes the behaviour of the smartphone shutter button to: turn the fan on/off. Note that the shutter button's previously assigned function is disabled when this setting is turned on.</string>
+  <string name="settings_global_gamingfan_nou_audio_jack_recognition_txt">When you connect a headset to Xperia Stream's headset connection terminal, it will be recognised as USB Audio on the smartphone.</string>
+  <string name="settings_global_gamingfan_nou_hdmi_port_recognition_txt">When you output video via the Xperia Stream's HDMI port, it will be recognised as Displayport output on the smartphone.</string>
+  <string name="settings_global_gamingfan_nou_led_lighting_pattern_txt">The LED lights up or flashes different colours to indicate the status.
+Green light: the fan is spinning correctly
+Red flashing: the fan was stopped or ceased to function
+Orange light: connection to a power adapter was detected</string>
+  <string name="settings_global_gamingfan_nou_recommend_mic_usage_txt">Use of a headset is recommended when inputting audio while %s is connected, in order to maximise mic quality.</string>
+</resources>

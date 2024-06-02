@@ -1,0 +1,117 @@
+.class public final Ly0/i$b;
+.super Lv6/i;
+.source ""
+
+# interfaces
+.implements Lu6/l;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Ly0/i;-><init>(Ljava/lang/String;[FLy0/k;Ly0/j;I)V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x19
+    name = null
+.end annotation
+
+.annotation system Ldalvik/annotation/Signature;
+    value = {
+        "Lv6/i;",
+        "Lu6/l<",
+        "Ljava/lang/Double;",
+        "Ljava/lang/Double;",
+        ">;"
+    }
+.end annotation
+
+
+# instance fields
+.field public final synthetic i:Ly0/j;
+
+
+# direct methods
+.method public constructor <init>(Ly0/j;)V
+    .locals 0
+
+    iput-object p1, p0, Ly0/i$b;->i:Ly0/j;
+
+    const/4 p1, 0x1
+
+    invoke-direct {p0, p1}, Lv6/i;-><init>(I)V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public n0(Ljava/lang/Object;)Ljava/lang/Object;
+    .locals 14
+
+    check-cast p1, Ljava/lang/Number;
+
+    invoke-virtual {p1}, Ljava/lang/Number;->doubleValue()D
+
+    move-result-wide v0
+
+    .line 1
+    iget-object p0, p0, Ly0/i$b;->i:Ly0/j;
+
+    .line 2
+    iget-wide v2, p0, Ly0/j;->b:D
+
+    .line 3
+    iget-wide v4, p0, Ly0/j;->c:D
+
+    .line 4
+    iget-wide v6, p0, Ly0/j;->d:D
+
+    .line 5
+    iget-wide v8, p0, Ly0/j;->e:D
+
+    .line 6
+    iget-wide v10, p0, Ly0/j;->f:D
+
+    .line 7
+    iget-wide v12, p0, Ly0/j;->g:D
+
+    .line 8
+    iget-wide p0, p0, Ly0/j;->a:D
+
+    mul-double/2addr v8, v6
+
+    cmpl-double v8, v0, v8
+
+    if-ltz v8, :cond_0
+
+    sub-double/2addr v0, v10
+
+    const-wide/high16 v6, 0x3ff0000000000000L    # 1.0
+
+    div-double/2addr v6, p0
+
+    .line 9
+    invoke-static {v0, v1, v6, v7}, Ljava/lang/Math;->pow(DD)D
+
+    move-result-wide p0
+
+    sub-double/2addr p0, v4
+
+    div-double/2addr p0, v2
+
+    goto :goto_0
+
+    :cond_0
+    sub-double/2addr v0, v12
+
+    div-double p0, v0, v6
+
+    .line 10
+    :goto_0
+    invoke-static {p0, p1}, Ljava/lang/Double;->valueOf(D)Ljava/lang/Double;
+
+    move-result-object p0
+
+    return-object p0
+.end method
