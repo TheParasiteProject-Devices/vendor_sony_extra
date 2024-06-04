@@ -63,6 +63,8 @@
                  android:value="com.android.settings.category.ia.sound" />
       <meta-data android:name="com.android.settings.summary"
                  android:resource="@string/sound_enhance_strings_audio_settings_txt" />
+      <meta-data android:name="com.android.settings.profile"
+                 android:value="primary_profile_only" />
     </activity>
     <activity android:theme="@style/DefaultTheme"
               android:label="@string/sound_enhance_strings_audio_settings_txt"
