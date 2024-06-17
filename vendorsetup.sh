@@ -1,5 +1,7 @@
 #!/bin/bash
 
+if [[ $(echo -n $TARGET_PRODUCT | sed -e 's/^aosp_//g') = "pdx234" ]]; then
+
 if [ -z $VENDOR_SONY_EXTRA_SETUP_DONE ]; then
 
 APKEDITOR=$(pwd)/prebuilts/tools-parasite/common/bin/APKEditor
@@ -39,4 +41,6 @@ fi
 cd ../../../
 
 export VENDOR_SONY_EXTRA_SETUP_DONE=true
+fi
+
 fi
