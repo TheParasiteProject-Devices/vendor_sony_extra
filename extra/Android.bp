@@ -128,6 +128,18 @@ android_app_import {
 }
 
 android_app_import {
+	name: "MediaVibration",
+	owner: "sony/extra",
+	apk: "proprietary/system_ext/priv-app/MediaVibration/MediaVibration.apk",
+	certificate: "platform",
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	system_ext_specific: true,
+}
+
+android_app_import {
 	name: "SomcColorGamut",
 	owner: "sony/extra",
 	apk: "proprietary/system_ext/priv-app/SomcColorGamut/SomcColorGamut.apk",
