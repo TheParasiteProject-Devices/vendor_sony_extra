@@ -40,7 +40,8 @@
                android:networkSecurityConfig="@xml/network_security_config"
                android:roundIcon="@mipmap/ic_launcher_round"
                android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-               android:dataExtractionRules="@xml/data_extraction_rules">
+               android:dataExtractionRules="@xml/data_extraction_rules"
+               android:enableOnBackInvokedCallback="true">
     <uses-library android:name="com.sony.threesixtyra.audiofx"
                   android:required="false" />
     <service android:name="jp.co.sony.threesixtyra.system.SystemMainService"

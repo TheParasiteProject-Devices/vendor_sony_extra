@@ -36,7 +36,7 @@
                android:resizeableActivity="false"
                android:roundIcon="@mipmap/ic_launcher_round"
                android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-               android:enableOnBackInvokedCallback="false">
+               android:enableOnBackInvokedCallback="true">
     <activity android:label="@string/settings_global_featurename_xperia_stream_txt"
               android:name="jp.co.sony.mc.gameaccui.MainActivity"
               android:exported="true">

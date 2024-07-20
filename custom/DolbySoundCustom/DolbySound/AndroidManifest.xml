@@ -22,7 +22,8 @@
                android:extractNativeLibs="true"
                android:roundIcon="@mipmap/ic_launcher_round"
                android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-               android:usesNonSdkApi="true">
+               android:usesNonSdkApi="true"
+               android:enableOnBackInvokedCallback="true">
     <activity android:theme="@style/AppTheme.NoActionBar"
               android:label="@string/app_name"
               android:name="com.dolby.daxappui2.MainActivity"
