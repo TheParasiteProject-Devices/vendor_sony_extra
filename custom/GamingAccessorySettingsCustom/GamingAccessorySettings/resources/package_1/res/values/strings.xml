@@ -185,7 +185,7 @@ When placing the smartphone on a surface such as a table while the fan is spinni
   <string name="settings_global_gamingfan_btn_back_txt">Back</string>
   <string name="settings_global_gamingfan_btn_cancel_txt">Cancel</string>
   <string name="settings_global_gamingfan_btn_done_txt">Done</string>
-  <string name="settings_global_gamingfan_btn_lauch_games_subtext_txt">To access advanced settings for the fan, select the game of your choice in My games, then move to the Game mode settings from the Game enhancer menu.</string>
+  <string name="settings_global_gamingfan_btn_lauch_games_subtext_txt">To access advanced settings for the fan, select the game of your choice in My games, then move to the Game mode settings from Settings.</string>
   <string name="settings_global_gamingfan_btn_lauch_games_txt">Launch game</string>
   <string name="settings_global_gamingfan_btn_next_txt">Next</string>
   <string name="settings_global_gamingfan_btn_ok_txt">OK</string>
