@@ -212,7 +212,7 @@ dex_import {
 }
 
 prebuilt_etc_xml {
-	name: "vendor.dolby.hardware.dms",
+	name: "vendor.dolby.hardware.dms.xml",
 	owner: "sony/extra",
 	src: "proprietary/vendor/etc/vintf/manifest/vendor.dolby.hardware.dms.xml",
 	filename_from_src: true,
@@ -221,7 +221,7 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
-	name: "vendor.dolby.media.c2@1.0-service",
+	name: "vendor.dolby.media.c2@1.0-service.xml",
 	owner: "sony/extra",
 	src: "proprietary/vendor/etc/vintf/manifest/vendor.dolby.media.c2@1.0-service.xml",
 	filename_from_src: true,
@@ -230,7 +230,7 @@ prebuilt_etc_xml {
 }
 
 prebuilt_etc_xml {
-	name: "vendor.threesixty_ra.codec2",
+	name: "vendor.threesixty_ra.codec2.xml",
 	owner: "sony/extra",
 	src: "proprietary/vendor/etc/vintf/manifest/vendor.threesixty_ra.codec2.xml",
 	filename_from_src: true,

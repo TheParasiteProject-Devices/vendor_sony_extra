@@ -130,6 +130,6 @@ PRODUCT_PACKAGES += \
     somc-ext-mmwdiapi \
     com.sony.threesixtyra.audiofx \
     com.sonymobile.gesdklibrary \
-    vendor.dolby.hardware.dms \
-    vendor.dolby.media.c2@1.0-service \
-    vendor.threesixty_ra.codec2
+    vendor.dolby.hardware.dms.xml \
+    vendor.dolby.media.c2@1.0-service.xml \
+    vendor.threesixty_ra.codec2.xml
