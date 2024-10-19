@@ -106,7 +106,6 @@ PRODUCT_PACKAGES += \
     libznrwrapper \
     vendor.dolby.hardware.dms@2.0-impl \
     vendor.dolby.hardware.dms@2.0 \
-    vendor.dolby.hardware.dms@2.0_vendor \
     libmepstarterjni \
     GamingAccessorySettings \
     GamingFanService \
