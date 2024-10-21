@@ -1,6 +1,10 @@
 LOCAL_PATH := $(call my-dir)
 
+ifeq ($(TARGET_SHIPS_CUSTOM_SOUND_ENHANCEMENT),true)
+
 include $(CLEAR_VARS)
+APKEDITOR := prebuilts/tools-parasite/common/bin/APKEditor
+$(shell $(APKEDITOR) b -i $(LOCAL_PATH)/SoundEnhancement -f -o $(LOCAL_PATH)/SoundEnhancementCustom.apk)
 LOCAL_MODULE := SoundEnhancementCustom
 LOCAL_MODULE_TAGS := optional
 LOCAL_SRC_FILES := SoundEnhancementCustom.apk
@@ -16,3 +20,5 @@ LOCAL_NO_STANDARD_LIBRARIES := true
 LOCAL_OVERRIDES_PACKAGES := SoundEnhancement
 LOCAL_MULTILIB := both
 include $(BUILD_PREBUILT)
+
+endif #TARGET_SHIPS_CUSTOM_SOUND_ENHANCEMENT

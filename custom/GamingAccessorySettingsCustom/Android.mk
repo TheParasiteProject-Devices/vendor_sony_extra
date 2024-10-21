@@ -1,6 +1,10 @@
 LOCAL_PATH := $(call my-dir)
 
+ifeq ($(TARGET_SHIPS_CUSTOM_GAMING_ACCESSORY_SETTINGS),true)
+
 include $(CLEAR_VARS)
+APKEDITOR := prebuilts/tools-parasite/common/bin/APKEditor
+$(shell $(APKEDITOR) b -i $(LOCAL_PATH)/GamingAccessorySettings -f -o $(LOCAL_PATH)/GamingAccessorySettingsCustom.apk)
 LOCAL_MODULE := GamingAccessorySettingsCustom
 LOCAL_MODULE_TAGS := optional
 LOCAL_SRC_FILES := GamingAccessorySettingsCustom.apk
@@ -15,3 +19,5 @@ LOCAL_NO_STANDARD_LIBRARIES := true
 LOCAL_OVERRIDES_PACKAGES := GamingAccessorySettings
 LOCAL_MULTILIB := both
 include $(BUILD_PREBUILT)
+
+endif #TARGET_SHIPS_CUSTOM_GAMING_ACCESSORY_SETTINGS

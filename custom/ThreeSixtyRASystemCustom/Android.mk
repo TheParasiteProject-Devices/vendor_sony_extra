@@ -1,6 +1,10 @@
 LOCAL_PATH := $(call my-dir)
 
+ifeq ($(TARGET_SHIPS_CUSTOM_THREESIXRA_SYSTEM),true)
+
 include $(CLEAR_VARS)
+APKEDITOR := prebuilts/tools-parasite/common/bin/APKEditor
+$(shell $(APKEDITOR) b -i $(LOCAL_PATH)/ThreeSixtyRASystem -f -o $(LOCAL_PATH)/ThreeSixtyRASystemCustom.apk)
 LOCAL_MODULE := ThreeSixtyRASystemCustom
 LOCAL_MODULE_TAGS := optional
 LOCAL_SRC_FILES := ThreeSixtyRASystemCustom.apk
@@ -16,3 +20,5 @@ LOCAL_NO_STANDARD_LIBRARIES := true
 LOCAL_OVERRIDES_PACKAGES := ThreeSixtyRASystem
 LOCAL_MULTILIB := both
 include $(BUILD_PREBUILT)
+
+endif #TARGET_SHIPS_CUSTOM_THREESIXRA_SYSTEM

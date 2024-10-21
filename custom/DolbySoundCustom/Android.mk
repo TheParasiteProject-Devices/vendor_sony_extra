@@ -1,6 +1,10 @@
 LOCAL_PATH := $(call my-dir)
 
+ifeq ($(TARGET_SHIPS_CUSTOM_DOLBY),true)
+
 include $(CLEAR_VARS)
+APKEDITOR := prebuilts/tools-parasite/common/bin/APKEditor
+$(shell $(APKEDITOR) b -i $(LOCAL_PATH)/DolbySound -f -o $(LOCAL_PATH)/DolbySoundCustom.apk)
 LOCAL_MODULE := DolbySoundCustom
 LOCAL_MODULE_TAGS := optional
 LOCAL_SRC_FILES := DolbySoundCustom.apk
@@ -15,3 +19,5 @@ LOCAL_NO_STANDARD_LIBRARIES := true
 LOCAL_OVERRIDES_PACKAGES := DolbySound AudioFX MusicFX
 LOCAL_MULTILIB := both
 include $(BUILD_PREBUILT)
+
+endif #TARGET_SHIPS_CUSTOM_DOLBY
