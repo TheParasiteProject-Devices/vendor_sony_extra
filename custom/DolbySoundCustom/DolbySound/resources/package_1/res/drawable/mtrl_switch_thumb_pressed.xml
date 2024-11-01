@@ -7,7 +7,7 @@
          android:pivotX="@integer/mtrl_switch_thumb_viewport_center_coordinate"
          android:pivotY="@integer/mtrl_switch_thumb_viewport_center_coordinate">
     <path android:name="@string/mtrl_switch_thumb_path_name"
-          android:fillColor="#ffffffff"
+          android:fillColor="@android:color/system_accent1_100"
           android:pathData="@string/mtrl_switch_thumb_path_pressed" />
   </group>
 </vector>

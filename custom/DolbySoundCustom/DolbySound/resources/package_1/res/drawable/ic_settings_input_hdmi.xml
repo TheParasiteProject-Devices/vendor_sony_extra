@@ -4,17 +4,17 @@
         android:autoMirrored="true"
         android:viewportWidth="92.0"
         android:viewportHeight="92.0" xmlns:android="http://schemas.android.com/apk/res/android">
-  <path android:fillColor="#ed145b"
+  <path android:fillColor="@android:color/system_accent1_100"
         android:pathData="M44.488,44.488h3.024v3.024h-3.024z"
         android:strokeColor="#00000000"
         android:strokeWidth="1.0"
         android:fillType="evenOdd" />
-  <path android:fillColor="#ed145b"
+  <path android:fillColor="@android:color/system_accent1_100"
         android:pathData="M44.488,44.488h3.024v3.024h-3.024z"
         android:strokeColor="#00000000"
         android:strokeWidth="1.0"
         android:fillType="evenOdd" />
-  <path android:fillColor="#ed145b"
+  <path android:fillColor="@android:color/system_accent1_100"
         android:pathData="M33.4,64.273C32.839,64.273 32.38,63.817 32.38,63.256L32.38,40.06L35.41,40.06L56.572,40.06L59.62,40.06L59.62,63.256C59.62,63.82 59.161,64.276 58.6,64.276L33.4,64.276L33.4,64.273ZM38.41,21.916L53.572,21.916L53.572,26.467L53.572,37.06L38.431,37.06L38.431,26.467L38.41,26.467L38.41,21.916ZM46,0.532C20.929,0.532 0.532,20.926 0.532,46C0.532,71.074 20.929,91.468 46,91.468L46,88.558C22.534,88.558 3.442,69.469 3.442,46C3.442,22.534 22.534,3.445 46,3.445C69.466,3.445 88.558,22.534 88.558,46L88.558,65.074C88.558,76.405 79.339,85.621 68.008,85.621C57.424,85.621 48.733,77.569 47.623,67.276L58.6,67.276C60.82,67.273 62.614,65.476 62.62,63.256L62.62,38.752C62.62,37.819 61.864,37.06 60.928,37.06L56.575,37.06L56.575,26.467L56.572,26.467L56.572,19.831C56.572,19.327 56.164,18.916 55.66,18.916L36.322,18.916C35.818,18.916 35.41,19.327 35.41,19.831L35.41,37.06L31.072,37.06C30.136,37.06 29.38,37.819 29.38,38.752L29.38,63.256C29.386,65.476 31.18,67.273 33.4,67.276L44.5,67.276L44.704,67.276C45.826,79.177 55.819,88.534 68.008,88.534C80.944,88.534 91.468,78.01 91.468,65.074L91.468,46C91.468,20.926 71.071,0.532 46,0.532L46,0.532Z"
         android:strokeColor="#00000000"
         android:strokeWidth="1.0"

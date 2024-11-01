@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<gradient android:startColor="#ff840d"
-          android:endColor="#ec008c"
+<gradient android:startColor="@android:color/system_accent1_600"
+          android:endColor="@android:color/system_accent1_400"
           android:type="linear"
           android:startX="0.0"
           android:startY="0.0"

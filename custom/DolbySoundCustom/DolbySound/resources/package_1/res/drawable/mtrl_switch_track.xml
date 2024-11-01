@@ -4,6 +4,6 @@
         android:viewportWidth="@integer/mtrl_switch_track_viewport_width"
         android:viewportHeight="@integer/mtrl_switch_track_viewport_height" xmlns:android="http://schemas.android.com/apk/res/android">
   <path android:name="track"
-        android:fillColor="#ffffffff"
+        android:fillColor="@android:color/system_accent1_100"
         android:pathData="@string/mtrl_switch_track_path" />
 </vector>

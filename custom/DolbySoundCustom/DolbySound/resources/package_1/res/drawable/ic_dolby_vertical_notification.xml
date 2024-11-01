@@ -4,12 +4,12 @@
         android:autoMirrored="true"
         android:viewportWidth="12.0"
         android:viewportHeight="12.0" xmlns:android="http://schemas.android.com/apk/res/android">
-  <path android:fillColor="#1a73e8"
+  <path android:fillColor="@android:color/system_accent1_100"
         android:pathData="M12,10.4444L10.7573,10.4444C8.437,10.4444 6.5455,8.5483 6.5455,6.2222C6.5455,3.8961 8.437,2 10.7573,2L12,2L12,10.4444"
         android:strokeColor="#00000000"
         android:strokeWidth="1.0"
         android:fillType="evenOdd" />
-  <path android:fillColor="#1a73e8"
+  <path android:fillColor="@android:color/system_accent1_100"
         android:pathData="M0,2L1.2427,2C3.563,2 5.4545,3.8961 5.4545,6.2222C5.4545,8.5483 3.563,10.4444 1.2427,10.4444L0,10.4444L0,2"
         android:strokeColor="#00000000"
         android:strokeWidth="1.0"

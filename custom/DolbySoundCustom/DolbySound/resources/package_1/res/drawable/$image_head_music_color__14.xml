@@ -4,8 +4,8 @@
           android:startY="119.00887"
           android:endX="174.30612"
           android:endY="119.45755" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
-  <item android:color="#fffe5e67"
+  <item android:color="@android:color/system_accent1_100"
         android:offset="0.0" />
-  <item android:color="#ffcd3083"
+  <item android:color="@android:color/system_accent1_300"
         android:offset="1.0" />
 </gradient>

@@ -12,7 +12,7 @@
     <shape android:shape="oval">
       <size android:height="10.0dp"
             android:width="10.0dp" />
-      <solid android:color="#dc0557" />
+      <solid android:color="@android:color/system_accent1_100" />
     </shape>
   </item>
   <item android:state_focused="true"
@@ -20,7 +20,7 @@
     <shape android:shape="oval">
       <size android:height="10.0dp"
             android:width="10.0dp" />
-      <solid android:color="#dc0557" />
+      <solid android:color="@android:color/system_accent1_100" />
     </shape>
   </item>
   <item android:state_enabled="true"
@@ -28,14 +28,14 @@
     <shape android:shape="oval">
       <size android:height="10.0dp"
             android:width="10.0dp" />
-      <solid android:color="#dc0557" />
+      <solid android:color="@android:color/system_accent1_100" />
     </shape>
   </item>
   <item android:state_enabled="true">
     <shape android:shape="oval">
       <size android:height="10.0dp"
             android:width="10.0dp" />
-      <solid android:color="#dc0557" />
+      <solid android:color="@android:color/system_accent1_100" />
     </shape>
   </item>
 </selector>

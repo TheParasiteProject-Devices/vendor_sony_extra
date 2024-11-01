@@ -4,7 +4,7 @@
         android:autoMirrored="true"
         android:viewportWidth="24.0"
         android:viewportHeight="24.0" xmlns:android="http://schemas.android.com/apk/res/android">
-  <path android:fillColor="#f7f7f7"
+  <path android:fillColor="@android:color/system_accent1_100"
         android:pathData="M3.55,18.99L4.96,20.4L6.76,18.61L5.34,17.19M11,22.9C11.32,22.9 13,22.9 13,22.9L13,19.95L11,19.95M12,5.95C8.69,5.95 6,8.64 6,11.95C6,15.26 8.69,17.95 12,17.95C15.31,17.95 18,15.26 18,11.95C18,8.63 15.31,5.95 12,5.95M20,12.95L23,12.95L23,10.95L20,10.95M17.24,18.61L19.04,20.4L20.45,18.99L18.66,17.19M20.45,4.91L19.04,3.5L17.24,5.29L18.66,6.71M13,1L11,1L11,3.95L13,3.95M4,10.95L1,10.95L1,12.95L4,12.95M6.76,5.29L4.96,3.5L3.55,4.91L5.34,6.71L6.76,5.29Z"
         android:strokeColor="#00000000"
         android:strokeWidth="1.0"
