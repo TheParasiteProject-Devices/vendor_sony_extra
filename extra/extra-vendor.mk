@@ -13,7 +13,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/extra/extra/proprietary/product/etc/permissions/com.sonymobile.home.resourceprovider.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.sonymobile.home.resourceprovider.xml \
     vendor/sony/extra/extra/proprietary/product/etc/permissions/com.sonymobile.mmwdiapi.somc-mmwdiapi.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.sonymobile.mmwdiapi.somc-mmwdiapi.xml \
     vendor/sony/extra/extra/proprietary/product/etc/permissions/com.sonymobile.moviecreator.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.sonymobile.moviecreator.xml \
-    vendor/sony/extra/extra/proprietary/product/etc/permissions/jp.co.sony.mc.usbextoutaudio.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/jp.co.sony.mc.usbextoutaudio.xml \
     vendor/sony/extra/extra/proprietary/product/etc/sysconfig/extmonitorapp-initial-package-stopped-states.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/extmonitorapp-initial-package-stopped-states.xml \
     vendor/sony/extra/extra/proprietary/system_ext/etc/permissions/com.dolby.daxservice.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/com.dolby.daxservice.xml \
     vendor/sony/extra/extra/proprietary/system_ext/etc/permissions/com.sony.threesixtyra.audiofx.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/com.sony.threesixtyra.audiofx.xml \
@@ -114,7 +113,6 @@ PRODUCT_PACKAGES += \
     ThermalFanService \
     ExtMonitorApp \
     SomcMediaExtensionProvider-Yodo \
-    UsbExtOutAudio \
     ThreeSixtyRASettings \
     DolbySound \
     SomcColorGamut \
