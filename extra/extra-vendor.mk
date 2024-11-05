@@ -133,3 +133,5 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     vendor.dolby.hardware.dms@2.0_vendor.dolby.hardware.dms@2.0_symlink64
+
+include vendor/sony/extra/extra/overlays.mk
